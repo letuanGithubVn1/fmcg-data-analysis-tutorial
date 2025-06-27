@@ -1,0 +1,8 @@
+factory_id,factory_name,location,region_id,product_type,capacity_per_year
+1,Bình Dương Factory,Bình Dương,3,Gia vị,500000
+2,Tân Bình Factory,TP.HCM,3,Mì,600000
+3,Hải Dương Factory,Hải Dương,1,Thịt,300000
+4,Biên Hòa Factory,Đồng Nai,3,Đồ uống,700000
+5,Phú Quốc Factory,Phú Quốc,3,Nước mắm,400000
+6,Long An Factory,Long An,3,Thịt nguội,250000
+7,Bình Định Factory,Bình Định,2,Nước khoáng,350000

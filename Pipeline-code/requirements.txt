@@ -1,0 +1,7 @@
+python-dotenv
+requests
+sqlalchemy
+pymysql
+pandas
+python-dateutil
+loguru

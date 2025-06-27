@@ -1,0 +1,1980 @@
+product_id,total_stock,total_sales,stock_to_sales_ratio,risk_level,product_name
+26,214.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Wake-Up 247 Nước tăng lực 500ml
+2003,162.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Nestlé Election Vị Mới 100g
+51,243.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Vinamilk Which Đặc Biệt 250ml
+1629,115.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Acecook Her Đặc Biệt 250ml
+655,129.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Acecook Particularly Dinh Dưỡng 500ml
+294,138.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Suntory Son Dinh Dưỡng 1kg
+244,112.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",PepsiCo Adult Thượng Hạng 250ml
+790,144.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Nestlé Two Dinh Dưỡng 330ml
+170,144.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",PepsiCo No Premium 1L
+1107,143.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Acecook Pattern Premium 500g
+1024,97.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Suntory Dog Thượng Hạng 700ml
+409,115.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Ajinomoto Letter Premium 100g
+335,222.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",PepsiCo Each Vị Mới 250ml
+502,137.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",TH True Milk Investment Vị Mới 500g
+448,47.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Ajinomoto Onto Thượng Hạng 100g
+1883,70.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",TH True Milk Teach Vị Mới 500g
+1085,211.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Suntory Lawyer Premium 700ml
+1771,61.0,0.0,inf,"Nguy hiểm: Có tồn kho, không bán được",Nestlé Program Dinh Dưỡng 500ml
+1132,118.0,1.0,118.0,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Key Premium 500ml
+385,150.0,2.0,75.0,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Though Dinh Dưỡng 500g
+2014,149.0,2.0,74.5,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Agency Đặc Biệt 1kg
+849,436.0,6.0,72.66666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Sign Premium 100g
+31,71.0,1.0,71.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ponnie Xúc xích 300g
+1153,62.0,1.0,62.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Contain Vị Mới 1L
+1642,150.0,3.0,50.0,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Rest Thượng Hạng 500ml
+364,146.0,3.0,48.666666666666664,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Degree Dinh Dưỡng 700ml
+1798,239.0,5.0,47.8,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Where Dinh Dưỡng 1L
+1536,142.0,3.0,47.333333333333336,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Professional Dinh Dưỡng 500ml
+1383,295.0,7.0,42.142857142857146,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Question Đặc Biệt 330ml
+1531,125.0,3.0,41.666666666666664,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Operation Premium 500g
+1579,121.0,3.0,40.333333333333336,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo First Vị Mới 1kg
+2033,524.0,13.0,40.30769230769231,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Side Premium 500ml
+1275,115.0,3.0,38.333333333333336,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Agreement Dinh Dưỡng 100g
+1699,420.0,11.0,38.18181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Stock Premium 500ml
+287,335.0,9.0,37.22222222222222,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Language Dinh Dưỡng 1L
+1661,276.0,8.0,34.5,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Positive Premium 1L
+623,310.0,9.0,34.44444444444444,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Purpose Vị Mới 500g
+1925,307.0,9.0,34.111111111111114,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Maintain Dinh Dưỡng 1L
+1319,371.0,11.0,33.72727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Clear Premium 500g
+60,134.0,4.0,33.5,Rủi ro cao: Tồn kho lớn so với doanh số,P&G East Đặc Biệt 1L
+1077,197.0,6.0,32.833333333333336,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Just Thượng Hạng 1kg
+220,292.0,9.0,32.44444444444444,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Important Đặc Biệt 1kg
+569,834.0,26.0,32.07692307692308,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Better Premium 700ml
+1570,252.0,8.0,31.5,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Hour Vị Mới 330ml
+1211,370.0,12.0,30.833333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Tell Premium 1L
+617,396.0,13.0,30.46153846153846,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Above Dinh Dưỡng 1kg
+1161,207.0,7.0,29.571428571428573,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Spend Vị Mới 500g
+281,502.0,17.0,29.529411764705884,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Prepare Premium 1L
+202,117.0,4.0,29.25,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Need Thượng Hạng 250ml
+763,261.0,9.0,29.0,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Heavy Premium 1kg
+1770,519.0,18.0,28.833333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Number Vị Mới 500ml
+1854,227.0,8.0,28.375,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Rest Vị Mới 700ml
+397,139.0,5.0,27.8,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Idea Dinh Dưỡng 500ml
+1432,190.0,7.0,27.142857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Industry Thượng Hạng 1L
+1515,351.0,13.0,27.0,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Wear Thượng Hạng 500ml
+958,265.0,10.0,26.5,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Science Thượng Hạng 500ml
+1708,159.0,6.0,26.5,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory None Vị Mới 250ml
+1456,288.0,11.0,26.181818181818183,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Eye Vị Mới 100g
+204,285.0,11.0,25.90909090909091,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Really Thượng Hạng 330ml
+1385,279.0,11.0,25.363636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Serve Dinh Dưỡng 700ml
+1046,152.0,6.0,25.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Dark Dinh Dưỡng 1kg
+1917,329.0,13.0,25.307692307692307,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Gun Dinh Dưỡng 250ml
+1079,373.0,15.0,24.866666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk International Đặc Biệt 500g
+530,348.0,14.0,24.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Natural Đặc Biệt 500ml
+774,518.0,21.0,24.666666666666668,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Follow Đặc Biệt 100g
+463,452.0,19.0,23.789473684210527,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé By Premium 500g
+391,118.0,5.0,23.6,Rủi ro cao: Tồn kho lớn so với doanh số,P&G In Đặc Biệt 1L
+468,280.0,12.0,23.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Huge Thượng Hạng 100g
+1607,210.0,9.0,23.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Case Premium 700ml
+551,256.0,11.0,23.272727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Moment Đặc Biệt 1kg
+1080,137.0,6.0,22.833333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Accept Premium 1kg
+1839,316.0,14.0,22.571428571428573,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Term Thượng Hạng 100g
+1027,293.0,13.0,22.53846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Both Dinh Dưỡng 700ml
+491,312.0,14.0,22.285714285714285,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Forget Premium 1L
+733,443.0,20.0,22.15,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Issue Thượng Hạng 330ml
+881,433.0,20.0,21.65,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk As Dinh Dưỡng 500ml
+1520,301.0,14.0,21.5,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Kitchen Dinh Dưỡng 700ml
+1926,299.0,14.0,21.357142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Human Đặc Biệt 100g
+897,253.0,12.0,21.083333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Energy Vị Mới 1L
+1142,167.0,8.0,20.875,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Fill Đặc Biệt 500ml
+1091,643.0,31.0,20.741935483870968,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Personal Vị Mới 1L
+1598,144.0,7.0,20.571428571428573,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Can Thượng Hạng 250ml
+1935,450.0,22.0,20.454545454545453,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Often Thượng Hạng 100g
+1069,183.0,9.0,20.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Nor Dinh Dưỡng 1L
+729,141.0,7.0,20.142857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Moment Đặc Biệt 250ml
+259,280.0,14.0,20.0,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Which Đặc Biệt 330ml
+236,377.0,19.0,19.842105263157894,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Risk Premium 500g
+100,472.0,24.0,19.666666666666668,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Student Premium 250ml
+2018,98.0,5.0,19.6,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Week Premium 1L
+928,213.0,11.0,19.363636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Measure Thượng Hạng 1L
+1647,116.0,6.0,19.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Matter Thượng Hạng 1kg
+961,206.0,11.0,18.727272727272727,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Ready Premium 1L
+1990,186.0,10.0,18.6,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory I Đặc Biệt 500ml
+342,409.0,22.0,18.59090909090909,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Point Dinh Dưỡng 700ml
+1674,371.0,20.0,18.55,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Couple Thượng Hạng 250ml
+1813,202.0,11.0,18.363636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Effort Vị Mới 330ml
+520,110.0,6.0,18.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Husband Dinh Dưỡng 1kg
+1746,273.0,15.0,18.2,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Rise Vị Mới 500g
+1586,505.0,28.0,18.035714285714285,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Not Đặc Biệt 330ml
+1581,144.0,8.0,18.0,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Foreign Premium 1L
+1761,341.0,19.0,17.94736842105263,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Nearly Đặc Biệt 1kg
+1351,285.0,16.0,17.8125,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Yes Premium 500g
+1914,354.0,20.0,17.7,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Director Dinh Dưỡng 1kg
+471,211.0,12.0,17.583333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Orion State Vị Mới 1L
+1474,350.0,20.0,17.5,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Student Thượng Hạng 100g
+631,414.0,24.0,17.25,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Word Đặc Biệt 1kg
+2002,276.0,16.0,17.25,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Somebody Vị Mới 500g
+453,224.0,13.0,17.23076923076923,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Parent Thượng Hạng 1kg
+952,361.0,21.0,17.19047619047619,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Oil Thượng Hạng 250ml
+1020,292.0,17.0,17.176470588235293,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Film Đặc Biệt 500g
+1078,222.0,13.0,17.076923076923077,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Such Dinh Dưỡng 500g
+243,34.0,2.0,17.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Analysis Dinh Dưỡng 500ml
+1687,118.0,7.0,16.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Wind Vị Mới 330ml
+1217,336.0,20.0,16.8,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Walk Vị Mới 250ml
+1040,401.0,24.0,16.708333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Chance Premium 330ml
+1111,200.0,12.0,16.666666666666668,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Bill Vị Mới 100g
+341,100.0,6.0,16.666666666666668,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Control Premium 500g
+595,632.0,38.0,16.63157894736842,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Become Đặc Biệt 700ml
+979,479.0,29.0,16.517241379310345,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Response Dinh Dưỡng 700ml
+1102,164.0,10.0,16.4,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Listen Đặc Biệt 330ml
+1797,360.0,22.0,16.363636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Probably Vị Mới 700ml
+1741,441.0,27.0,16.333333333333332,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Will Premium 700ml
+2020,391.0,24.0,16.291666666666668,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Look Đặc Biệt 700ml
+1792,406.0,25.0,16.24,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Continue Thượng Hạng 1L
+1662,177.0,11.0,16.09090909090909,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Table Dinh Dưỡng 100g
+373,482.0,30.0,16.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Body Thượng Hạng 100g
+325,257.0,16.0,16.0625,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Build Thượng Hạng 1L
+1313,160.0,10.0,16.0,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Tax Thượng Hạng 100g
+439,144.0,9.0,16.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Individual Thượng Hạng 500ml
+1110,319.0,20.0,15.95,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Size Đặc Biệt 1L
+771,142.0,9.0,15.777777777777779,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Election Dinh Dưỡng 500g
+1554,142.0,9.0,15.777777777777779,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Stay Dinh Dưỡng 1L
+1062,298.0,19.0,15.68421052631579,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Provide Thượng Hạng 330ml
+518,313.0,20.0,15.65,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Man Dinh Dưỡng 1L
+1673,156.0,10.0,15.6,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Right Premium 250ml
+877,109.0,7.0,15.571428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Reveal Dinh Dưỡng 500g
+1390,171.0,11.0,15.545454545454545,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Coach Thượng Hạng 1L
+1230,340.0,22.0,15.454545454545455,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Near Premium 100g
+1610,77.0,5.0,15.4,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto There Thượng Hạng 700ml
+314,138.0,9.0,15.333333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Because Đặc Biệt 1L
+1513,198.0,13.0,15.23076923076923,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Example Premium 1kg
+1957,137.0,9.0,15.222222222222221,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Baby Dinh Dưỡng 500g
+1195,378.0,25.0,15.12,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Word Premium 500ml
+1254,498.0,33.0,15.090909090909092,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Read Dinh Dưỡng 1L
+218,225.0,15.0,15.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Condition Thượng Hạng 1L
+1557,210.0,14.0,15.0,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Anyone Thượng Hạng 1L
+1271,434.0,29.0,14.96551724137931,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Republican Vị Mới 500g
+1534,386.0,26.0,14.846153846153847,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Get Thượng Hạng 500g
+300,133.0,9.0,14.777777777777779,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé The Thượng Hạng 500ml
+146,265.0,18.0,14.722222222222221,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Some Premium 500g
+1469,292.0,20.0,14.6,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Of Dinh Dưỡng 1kg
+767,145.0,10.0,14.5,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Thing Dinh Dưỡng 1L
+1663,58.0,4.0,14.5,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Strategy Premium 1kg
+154,145.0,10.0,14.5,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk His Thượng Hạng 1kg
+1463,261.0,18.0,14.5,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Identify Vị Mới 500ml
+544,362.0,25.0,14.48,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Enjoy Đặc Biệt 100g
+909,246.0,17.0,14.470588235294118,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Usually Premium 1kg
+1281,159.0,11.0,14.454545454545455,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Expert Premium 330ml
+375,288.0,20.0,14.4,Rủi ro cao: Tồn kho lớn so với doanh số,Orion But Dinh Dưỡng 700ml
+832,186.0,13.0,14.307692307692308,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Election Thượng Hạng 250ml
+746,143.0,10.0,14.3,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Peace Dinh Dưỡng 500ml
+1284,143.0,10.0,14.3,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Discover Dinh Dưỡng 1L
+1697,257.0,18.0,14.277777777777779,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Health Thượng Hạng 500g
+1345,99.0,7.0,14.142857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Hotel Vị Mới 250ml
+1208,113.0,8.0,14.125,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Late Vị Mới 100g
+1270,254.0,18.0,14.11111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Especially Đặc Biệt 100g
+1778,268.0,19.0,14.105263157894736,Rủi ro cao: Tồn kho lớn so với doanh số,P&G No Vị Mới 700ml
+668,337.0,24.0,14.041666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Necessary Dinh Dưỡng 1L
+599,265.0,19.0,13.947368421052632,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Local Premium 250ml
+802,222.0,16.0,13.875,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk So Premium 100g
+289,402.0,29.0,13.862068965517242,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever No Thượng Hạng 500ml
+703,552.0,40.0,13.8,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Budget Dinh Dưỡng 330ml
+570,386.0,28.0,13.785714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Result Đặc Biệt 700ml
+1377,275.0,20.0,13.75,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Up Dinh Dưỡng 500ml
+1312,137.0,10.0,13.7,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Sell Vị Mới 500ml
+163,109.0,8.0,13.625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Take Vị Mới 100g
+1490,109.0,8.0,13.625,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Per Đặc Biệt 1kg
+1048,340.0,25.0,13.6,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Old Đặc Biệt 1kg
+42,244.0,18.0,13.555555555555555,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Few Premium 500g
+1898,203.0,15.0,13.533333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Hot Premium 100g
+1675,230.0,17.0,13.529411764705882,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Seek Đặc Biệt 330ml
+338,620.0,46.0,13.478260869565217,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Up Premium 330ml
+63,174.0,13.0,13.384615384615385,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Call Thượng Hạng 700ml
+92,227.0,17.0,13.352941176470589,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Middle Đặc Biệt 500ml
+597,266.0,20.0,13.3,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Action Vị Mới 1L
+1376,463.0,35.0,13.228571428571428,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Author Thượng Hạng 500g
+474,251.0,19.0,13.210526315789474,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Trouble Dinh Dưỡng 250ml
+148,264.0,20.0,13.2,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Dark Vị Mới 500ml
+1751,341.0,26.0,13.115384615384615,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Stage Dinh Dưỡng 250ml
+1841,300.0,23.0,13.043478260869565,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Fact Vị Mới 330ml
+461,143.0,11.0,13.0,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Table Đặc Biệt 1kg
+725,351.0,27.0,13.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Ground Vị Mới 1kg
+905,233.0,18.0,12.944444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Might Đặc Biệt 100g
+81,155.0,12.0,12.916666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Truth Thượng Hạng 700ml
+647,413.0,32.0,12.90625,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Finish Premium 100g
+1986,464.0,36.0,12.88888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Peace Vị Mới 500g
+28,295.0,23.0,12.826086956521738,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Nước mắm 750ml
+532,141.0,11.0,12.818181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Inside Đặc Biệt 500g
+1872,179.0,14.0,12.785714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Hold Đặc Biệt 330ml
+829,332.0,26.0,12.76923076923077,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Information Thượng Hạng 250ml
+1905,229.0,18.0,12.722222222222221,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Win Dinh Dưỡng 1L
+44,343.0,27.0,12.703703703703704,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Enough Dinh Dưỡng 500ml
+1395,189.0,15.0,12.6,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Whether Đặc Biệt 1L
+558,352.0,28.0,12.571428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Force Dinh Dưỡng 1kg
+226,300.0,24.0,12.5,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Brother Thượng Hạng 1L
+132,125.0,10.0,12.5,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Bar Dinh Dưỡng 330ml
+210,150.0,12.0,12.5,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Today Đặc Biệt 330ml
+963,299.0,24.0,12.458333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Nothing Vị Mới 500g
+980,137.0,11.0,12.454545454545455,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Mention Premium 1L
+1405,87.0,7.0,12.428571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Three Vị Mới 100g
+1115,435.0,35.0,12.428571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Claim Premium 500ml
+1544,111.0,9.0,12.333333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Single Dinh Dưỡng 330ml
+390,444.0,36.0,12.333333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Site Thượng Hạng 1L
+1877,493.0,40.0,12.325,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Pattern Dinh Dưỡng 100g
+910,382.0,31.0,12.32258064516129,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Hot Thượng Hạng 1L
+1719,98.0,8.0,12.25,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Watch Đặc Biệt 1kg
+419,245.0,20.0,12.25,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Figure Đặc Biệt 700ml
+332,245.0,20.0,12.25,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Appear Dinh Dưỡng 700ml
+207,366.0,30.0,12.2,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Situation Thượng Hạng 1L
+840,255.0,21.0,12.142857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Indeed Dinh Dưỡng 250ml
+215,182.0,15.0,12.133333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Raise Vị Mới 500g
+1583,266.0,22.0,12.090909090909092,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Science Đặc Biệt 500ml
+1,252.0,21.0,12.0,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Nước mắm 500ml
+764,298.0,25.0,11.92,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Everyone Dinh Dưỡng 1kg
+421,214.0,18.0,11.88888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Bar Đặc Biệt 700ml
+1888,178.0,15.0,11.866666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Eat Vị Mới 100g
+1047,415.0,35.0,11.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Break Dinh Dưỡng 250ml
+404,436.0,37.0,11.783783783783784,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Take Premium 700ml
+1404,423.0,36.0,11.75,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Public Vị Mới 500g
+1008,223.0,19.0,11.736842105263158,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Right Premium 330ml
+1670,430.0,37.0,11.621621621621621,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Experience Thượng Hạng 1kg
+1200,441.0,38.0,11.605263157894736,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Often Premium 250ml
+64,116.0,10.0,11.6,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Born Vị Mới 330ml
+775,509.0,44.0,11.568181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Bed Premium 700ml
+839,265.0,23.0,11.521739130434783,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Value Đặc Biệt 1L
+1276,553.0,48.0,11.520833333333334,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Degree Premium 500ml
+1650,138.0,12.0,11.5,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Phone Đặc Biệt 250ml
+1549,218.0,19.0,11.473684210526315,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo First Vị Mới 500g
+17,444.0,39.0,11.384615384615385,Rủi ro cao: Tồn kho lớn so với doanh số,Sagami Mì gói 90g
+1923,273.0,24.0,11.375,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Think Đặc Biệt 100g
+890,250.0,22.0,11.363636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Pull Thượng Hạng 330ml
+1334,204.0,18.0,11.333333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Dark Premium 1kg
+718,249.0,22.0,11.318181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Need Thượng Hạng 500ml
+561,181.0,16.0,11.3125,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé There Đặc Biệt 700ml
+871,226.0,20.0,11.3,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Compare Premium 500ml
+630,519.0,46.0,11.282608695652174,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Any Dinh Dưỡng 250ml
+410,293.0,26.0,11.26923076923077,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Your Dinh Dưỡng 500ml
+1812,383.0,34.0,11.264705882352942,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Save Premium 500ml
+675,236.0,21.0,11.238095238095237,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Consider Thượng Hạng 500ml
+1074,112.0,10.0,11.2,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Seven Premium 700ml
+1299,403.0,36.0,11.194444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk General Premium 1L
+237,268.0,24.0,11.166666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Trouble Đặc Biệt 500g
+1147,145.0,13.0,11.153846153846153,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Company Đặc Biệt 330ml
+606,223.0,20.0,11.15,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Hand Dinh Dưỡng 1L
+651,301.0,27.0,11.148148148148149,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Operation Premium 1L
+1827,245.0,22.0,11.136363636363637,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Already Thượng Hạng 500g
+2023,100.0,9.0,11.11111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Difference Dinh Dưỡng 700ml
+1005,300.0,27.0,11.11111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Fear Đặc Biệt 1L
+1987,133.0,12.0,11.083333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Score Đặc Biệt 700ml
+426,364.0,33.0,11.030303030303031,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Attention Dinh Dưỡng 700ml
+1992,386.0,35.0,11.028571428571428,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo During Dinh Dưỡng 1kg
+702,186.0,17.0,10.941176470588236,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Campaign Thượng Hạng 700ml
+1222,404.0,37.0,10.91891891891892,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Allow Dinh Dưỡng 700ml
+1065,185.0,17.0,10.882352941176471,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Design Dinh Dưỡng 1kg
+1565,261.0,24.0,10.875,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Perhaps Đặc Biệt 500ml
+583,337.0,31.0,10.870967741935484,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Have Dinh Dưỡng 250ml
+52,152.0,14.0,10.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Great Vị Mới 250ml
+653,324.0,30.0,10.8,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Try Đặc Biệt 1L
+1920,432.0,40.0,10.8,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Concern Premium 330ml
+239,97.0,9.0,10.777777777777779,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Anyone Vị Mới 100g
+266,430.0,40.0,10.75,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Against Thượng Hạng 100g
+293,172.0,16.0,10.75,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Computer Đặc Biệt 500ml
+429,279.0,26.0,10.73076923076923,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Probably Thượng Hạng 500ml
+731,192.0,18.0,10.666666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Particularly Dinh Dưỡng 330ml
+1799,128.0,12.0,10.666666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Television Dinh Dưỡng 100g
+292,533.0,50.0,10.66,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Movie Thượng Hạng 700ml
+1780,234.0,22.0,10.636363636363637,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Whose Premium 500ml
+1572,85.0,8.0,10.625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Table Thượng Hạng 1kg
+900,276.0,26.0,10.615384615384615,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Son Premium 330ml
+238,254.0,24.0,10.583333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Another Premium 1L
+1174,148.0,14.0,10.571428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Market Premium 700ml
+1539,317.0,30.0,10.566666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Clearly Premium 500g
+814,169.0,16.0,10.5625,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Public Premium 250ml
+1308,654.0,62.0,10.548387096774194,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Service Premium 500ml
+3,179.0,17.0,10.529411764705882,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Nước mắm 1L
+1154,347.0,33.0,10.515151515151516,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Evening Thượng Hạng 500ml
+1479,126.0,12.0,10.5,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Amount Vị Mới 1kg
+1148,367.0,35.0,10.485714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Ready Thượng Hạng 1kg
+433,323.0,31.0,10.419354838709678,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Citizen Thượng Hạng 1L
+1286,250.0,24.0,10.416666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Since Vị Mới 500g
+18,187.0,18.0,10.38888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,MEATDeli Thịt heo mát 500g
+539,135.0,13.0,10.384615384615385,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Total Đặc Biệt 250ml
+732,145.0,14.0,10.357142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Sign Đặc Biệt 250ml
+1703,226.0,22.0,10.272727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Win Vị Mới 700ml
+1150,195.0,19.0,10.263157894736842,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Stand Dinh Dưỡng 500g
+1311,225.0,22.0,10.227272727272727,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Usually Thượng Hạng 1kg
+382,357.0,35.0,10.2,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Property Dinh Dưỡng 1kg
+286,102.0,10.0,10.2,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Quite Premium 700ml
+884,264.0,26.0,10.153846153846153,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Seat Đặc Biệt 250ml
+1574,455.0,45.0,10.11111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Include Dinh Dưỡng 1kg
+1733,212.0,21.0,10.095238095238095,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Discover Đặc Biệt 330ml
+327,463.0,46.0,10.065217391304348,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Edge Premium 1kg
+1049,241.0,24.0,10.041666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk In Vị Mới 1kg
+149,370.0,37.0,10.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Every Dinh Dưỡng 330ml
+1212,260.0,26.0,10.0,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Million Dinh Dưỡng 330ml
+615,170.0,17.0,10.0,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Most Vị Mới 1kg
+1951,309.0,31.0,9.96774193548387,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Here Dinh Dưỡng 500g
+389,219.0,22.0,9.954545454545455,Rủi ro cao: Tồn kho lớn so với doanh số,P&G State Premium 1L
+971,298.0,30.0,9.933333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Defense Đặc Biệt 1kg
+783,139.0,14.0,9.928571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Probably Vị Mới 100g
+172,109.0,11.0,9.909090909090908,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Church Thượng Hạng 250ml
+188,525.0,53.0,9.90566037735849,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Industry Đặc Biệt 100g
+337,376.0,38.0,9.894736842105264,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Probably Vị Mới 1kg
+1785,217.0,22.0,9.863636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Right Vị Mới 700ml
+1322,118.0,12.0,9.833333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Current Vị Mới 700ml
+1537,236.0,24.0,9.833333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Eat Dinh Dưỡng 250ml
+894,226.0,23.0,9.826086956521738,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Improve Thượng Hạng 100g
+311,264.0,27.0,9.777777777777779,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Effort Thượng Hạng 700ml
+1654,342.0,35.0,9.771428571428572,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Company Thượng Hạng 700ml
+359,370.0,38.0,9.736842105263158,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Turn Đặc Biệt 250ml
+356,107.0,11.0,9.727272727272727,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Wind Premium 1L
+306,204.0,21.0,9.714285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Accept Thượng Hạng 500ml
+147,436.0,45.0,9.688888888888888,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Mission Đặc Biệt 1kg
+1712,309.0,32.0,9.65625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Personal Đặc Biệt 250ml
+1143,434.0,45.0,9.644444444444444,Rủi ro cao: Tồn kho lớn so với doanh số,P&G New Vị Mới 330ml
+496,135.0,14.0,9.642857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Enter Đặc Biệt 1L
+1258,395.0,41.0,9.634146341463415,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Agree Thượng Hạng 100g
+1998,173.0,18.0,9.61111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,P&G People Vị Mới 250ml
+309,412.0,43.0,9.581395348837209,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Company Vị Mới 330ml
+612,306.0,32.0,9.5625,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Beautiful Premium 500ml
+1720,306.0,32.0,9.5625,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Safe Dinh Dưỡng 250ml
+1689,105.0,11.0,9.545454545454545,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Fund Thượng Hạng 500g
+19,105.0,11.0,9.545454545454545,Rủi ro cao: Tồn kho lớn so với doanh số,MEATDeli Thịt heo mát 1kg
+1425,143.0,15.0,9.533333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Start Thượng Hạng 500g
+299,181.0,19.0,9.526315789473685,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Degree Dinh Dưỡng 500g
+525,219.0,23.0,9.521739130434783,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Three Đặc Biệt 1L
+396,133.0,14.0,9.5,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Reach Đặc Biệt 250ml
+578,57.0,6.0,9.5,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Follow Đặc Biệt 700ml
+893,227.0,24.0,9.458333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Remain Thượng Hạng 500g
+713,104.0,11.0,9.454545454545455,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Such Dinh Dưỡng 100g
+1436,434.0,46.0,9.434782608695652,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Whom Premium 100g
+1181,349.0,37.0,9.432432432432432,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Piece Premium 1L
+349,310.0,33.0,9.393939393939394,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Single Đặc Biệt 500ml
+1757,197.0,21.0,9.380952380952381,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Paper Thượng Hạng 250ml
+798,262.0,28.0,9.357142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Human Đặc Biệt 500ml
+411,290.0,31.0,9.35483870967742,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Energy Thượng Hạng 500g
+1461,382.0,41.0,9.317073170731707,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Town Thượng Hạng 250ml
+181,502.0,54.0,9.296296296296296,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Window Đặc Biệt 700ml
+1773,306.0,33.0,9.272727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Break Đặc Biệt 500g
+994,315.0,34.0,9.264705882352942,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Gas Thượng Hạng 100g
+1948,222.0,24.0,9.25,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Nor Dinh Dưỡng 100g
+752,517.0,56.0,9.232142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Method Đặc Biệt 1L
+1253,212.0,23.0,9.217391304347826,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Threat Thượng Hạng 250ml
+29,516.0,56.0,9.214285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Nước mắm 1L
+1831,101.0,11.0,9.181818181818182,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever These Thượng Hạng 100g
+1753,257.0,28.0,9.178571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Add Vị Mới 1kg
+1010,321.0,35.0,9.17142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Situation Dinh Dưỡng 700ml
+1489,238.0,26.0,9.153846153846153,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Within Đặc Biệt 250ml
+1752,347.0,38.0,9.131578947368421,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Factor Dinh Dưỡng 100g
+1850,557.0,61.0,9.131147540983607,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Cut Đặc Biệt 330ml
+1167,292.0,32.0,9.125,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Skill Premium 1L
+1004,301.0,33.0,9.121212121212121,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Worry Vị Mới 1L
+677,136.0,15.0,9.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Under Premium 500ml
+257,272.0,30.0,9.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Product Vị Mới 1kg
+1451,181.0,20.0,9.05,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Set Thượng Hạng 100g
+1889,371.0,41.0,9.048780487804878,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Current Đặc Biệt 1kg
+65,425.0,47.0,9.042553191489361,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Article Thượng Hạng 500ml
+1104,235.0,26.0,9.038461538461538,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Goal Vị Mới 700ml
+751,640.0,71.0,9.014084507042254,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Action Vị Mới 700ml
+1316,180.0,20.0,9.0,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Morning Vị Mới 1kg
+140,495.0,55.0,9.0,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Machine Thượng Hạng 100g
+594,81.0,9.0,9.0,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Travel Đặc Biệt 1L
+2028,207.0,23.0,9.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Strategy Thượng Hạng 330ml
+902,305.0,34.0,8.970588235294118,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Pattern Đặc Biệt 1kg
+33,385.0,43.0,8.953488372093023,Rủi ro cao: Tồn kho lớn so với doanh số,Anco Xúc xích 250g
+1588,340.0,38.0,8.947368421052632,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Yes Dinh Dưỡng 500ml
+1373,322.0,36.0,8.944444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Man Đặc Biệt 250ml
+1956,161.0,18.0,8.944444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Down Đặc Biệt 1kg
+1256,134.0,15.0,8.933333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Buy Premium 100g
+1625,259.0,29.0,8.931034482758621,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Project Premium 250ml
+1527,250.0,28.0,8.928571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto May Đặc Biệt 1L
+1578,178.0,20.0,8.9,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Investment Thượng Hạng 700ml
+2000,498.0,56.0,8.892857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Police Dinh Dưỡng 500ml
+974,249.0,28.0,8.892857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Away Vị Mới 500ml
+541,160.0,18.0,8.88888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Stock Dinh Dưỡng 500g
+635,293.0,33.0,8.878787878787879,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Produce Vị Mới 1L
+867,213.0,24.0,8.875,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Agreement Thượng Hạng 500g
+2021,62.0,7.0,8.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo By Vị Mới 330ml
+1112,124.0,14.0,8.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Hand Vị Mới 330ml
+882,496.0,56.0,8.857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Republican Premium 1kg
+923,106.0,12.0,8.833333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Issue Thượng Hạng 330ml
+1701,415.0,47.0,8.829787234042554,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Kid Vị Mới 500ml
+271,256.0,29.0,8.827586206896552,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Son Vị Mới 250ml
+1858,353.0,40.0,8.825,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Enough Đặc Biệt 1L
+213,246.0,28.0,8.785714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Take Đặc Biệt 1L
+2026,369.0,42.0,8.785714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Future Thượng Hạng 330ml
+1976,193.0,22.0,8.772727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Role Dinh Dưỡng 1L
+586,263.0,30.0,8.766666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Music Dinh Dưỡng 700ml
+194,403.0,46.0,8.76086956521739,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Herself Premium 1kg
+1273,385.0,44.0,8.75,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Although Thượng Hạng 1kg
+1897,210.0,24.0,8.75,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Among Thượng Hạng 100g
+543,446.0,51.0,8.745098039215685,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Car Đặc Biệt 1L
+482,446.0,51.0,8.745098039215685,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Any Thượng Hạng 500ml
+690,183.0,21.0,8.714285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Fund Dinh Dưỡng 500ml
+1072,183.0,21.0,8.714285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Also Đặc Biệt 700ml
+360,312.0,36.0,8.666666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Security Dinh Dưỡng 1L
+697,260.0,30.0,8.666666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Military Premium 700ml
+1913,251.0,29.0,8.655172413793103,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Law Thượng Hạng 500g
+1908,121.0,14.0,8.642857142857142,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Newspaper Premium 330ml
+323,233.0,27.0,8.62962962962963,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Blood Premium 1L
+345,266.0,31.0,8.580645161290322,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Specific Thượng Hạng 700ml
+222,180.0,21.0,8.571428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Street Vị Mới 500g
+865,282.0,33.0,8.545454545454545,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Student Dinh Dưỡng 500ml
+229,213.0,25.0,8.52,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Above Thượng Hạng 100g
+591,102.0,12.0,8.5,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Foreign Dinh Dưỡng 700ml
+256,221.0,26.0,8.5,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Our Premium 330ml
+1942,238.0,28.0,8.5,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Garden Vị Mới 700ml
+405,272.0,32.0,8.5,Rủi ro cao: Tồn kho lớn so với doanh số,Orion My Premium 1L
+1758,170.0,20.0,8.5,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Training Premium 100g
+388,144.0,17.0,8.470588235294118,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Expert Premium 100g
+1368,110.0,13.0,8.461538461538462,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Example Premium 500g
+1626,363.0,43.0,8.44186046511628,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Can Đặc Biệt 700ml
+1505,118.0,14.0,8.428571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Grow Premium 700ml
+1387,337.0,40.0,8.425,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Vote Vị Mới 500g
+944,438.0,52.0,8.423076923076923,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Meeting Vị Mới 500ml
+1793,244.0,29.0,8.413793103448276,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Republican Premium 500ml
+1622,193.0,23.0,8.391304347826088,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Break Premium 700ml
+196,243.0,29.0,8.379310344827585,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Walk Dinh Dưỡng 500g
+20,301.0,36.0,8.36111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,MEATDeli Thịt heo mát 2kg
+1671,259.0,31.0,8.35483870967742,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Career Thượng Hạng 1kg
+1453,125.0,15.0,8.333333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk While Premium 500ml
+887,408.0,49.0,8.326530612244898,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Also Dinh Dưỡng 500ml
+469,83.0,10.0,8.3,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Concern Đặc Biệt 1L
+652,224.0,27.0,8.296296296296296,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Discussion Dinh Dưỡng 1L
+531,456.0,55.0,8.290909090909091,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Hour Thượng Hạng 500ml
+2025,116.0,14.0,8.285714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Than Thượng Hạng 100g
+1997,182.0,22.0,8.272727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Particular Premium 100g
+1982,420.0,51.0,8.235294117647058,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Opportunity Premium 500g
+1022,148.0,18.0,8.222222222222221,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Room Đặc Biệt 1kg
+1196,123.0,15.0,8.2,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Moment Vị Mới 500ml
+1470,254.0,31.0,8.193548387096774,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Hundred Vị Mới 500ml
+1354,270.0,33.0,8.181818181818182,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory News Đặc Biệt 100g
+587,261.0,32.0,8.15625,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Thousand Vị Mới 100g
+412,334.0,41.0,8.146341463414634,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Light Đặc Biệt 330ml
+838,236.0,29.0,8.137931034482758,Rủi ro cao: Tồn kho lớn so với doanh số,Orion About Thượng Hạng 330ml
+1328,488.0,60.0,8.133333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Goal Dinh Dưỡng 100g
+636,122.0,15.0,8.133333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Begin Premium 500g
+613,65.0,8.0,8.125,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Month Vị Mới 250ml
+1245,130.0,16.0,8.125,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Current Đặc Biệt 250ml
+301,398.0,49.0,8.122448979591837,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Until Thượng Hạng 500ml
+487,276.0,34.0,8.117647058823529,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Easy Premium 330ml
+628,146.0,18.0,8.11111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Enough Premium 100g
+1302,234.0,29.0,8.068965517241379,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Learn Vị Mới 1L
+1900,129.0,16.0,8.0625,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Assume Thượng Hạng 100g
+911,129.0,16.0,8.0625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Method Premium 500g
+969,241.0,30.0,8.033333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Pressure Dinh Dưỡng 700ml
+1808,409.0,51.0,8.019607843137255,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Car Vị Mới 700ml
+1595,144.0,18.0,8.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Ago Thượng Hạng 1L
+1380,120.0,15.0,8.0,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Dream Vị Mới 500ml
+1528,176.0,22.0,8.0,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Security Premium 100g
+553,263.0,33.0,7.96969696969697,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Cost Thượng Hạng 100g
+1381,263.0,33.0,7.96969696969697,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Will Vị Mới 250ml
+1120,334.0,42.0,7.9523809523809526,Rủi ro cao: Tồn kho lớn so với doanh số,P&G True Dinh Dưỡng 700ml
+1789,159.0,20.0,7.95,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Range Thượng Hạng 250ml
+1204,143.0,18.0,7.944444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Begin Thượng Hạng 500ml
+1306,135.0,17.0,7.9411764705882355,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Final Thượng Hạng 250ml
+1835,468.0,59.0,7.932203389830509,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Down Đặc Biệt 330ml
+941,214.0,27.0,7.925925925925926,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Contain Dinh Dưỡng 500g
+1137,317.0,40.0,7.925,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Amount Thượng Hạng 500ml
+1162,380.0,48.0,7.916666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Modern Premium 330ml
+1141,237.0,30.0,7.9,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Next Dinh Dưỡng 700ml
+1907,150.0,19.0,7.894736842105263,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Investment Thượng Hạng 250ml
+1739,134.0,17.0,7.882352941176471,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Leave Đặc Biệt 100g
+1613,189.0,24.0,7.875,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Buy Vị Mới 330ml
+1911,181.0,23.0,7.869565217391305,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Candidate Thượng Hạng 700ml
+1695,354.0,45.0,7.866666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Half Thượng Hạng 500ml
+1501,282.0,36.0,7.833333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Man Vị Mới 1kg
+1234,94.0,12.0,7.833333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Mean Đặc Biệt 700ml
+1407,274.0,35.0,7.828571428571428,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Set Premium 250ml
+1945,180.0,23.0,7.826086956521739,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Recent Thượng Hạng 500ml
+1524,266.0,34.0,7.823529411764706,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Bill Premium 100g
+658,258.0,33.0,7.818181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Position Premium 330ml
+1170,172.0,22.0,7.818181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Chair Đặc Biệt 700ml
+1429,250.0,32.0,7.8125,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Box Dinh Dưỡng 1L
+2015,203.0,26.0,7.8076923076923075,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Field Thượng Hạng 1L
+685,273.0,35.0,7.8,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Order Thượng Hạng 1L
+1378,39.0,5.0,7.8,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Agent Vị Mới 250ml
+1458,39.0,5.0,7.8,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Above Premium 250ml
+1294,444.0,57.0,7.7894736842105265,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Push Vị Mới 500ml
+420,132.0,17.0,7.764705882352941,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Explain Vị Mới 330ml
+374,108.0,14.0,7.714285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Beautiful Thượng Hạng 100g
+1906,239.0,31.0,7.709677419354839,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Civil Premium 250ml
+784,107.0,14.0,7.642857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé So Dinh Dưỡng 700ml
+186,382.0,50.0,7.64,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory News Đặc Biệt 330ml
+1129,313.0,41.0,7.634146341463414,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Environmental Premium 100g
+1353,160.0,21.0,7.619047619047619,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Ever Đặc Biệt 1L
+415,205.0,27.0,7.592592592592593,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Surface Dinh Dưỡng 700ml
+927,387.0,51.0,7.588235294117647,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Recent Vị Mới 500ml
+319,311.0,41.0,7.585365853658536,Rủi ro cao: Tồn kho lớn so với doanh số,P&G This Đặc Biệt 500g
+1388,121.0,16.0,7.5625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G By Dinh Dưỡng 330ml
+1734,242.0,32.0,7.5625,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Expert Thượng Hạng 1kg
+1227,242.0,32.0,7.5625,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Official Premium 1kg
+1220,189.0,25.0,7.56,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Onto Đặc Biệt 500ml
+1791,136.0,18.0,7.555555555555555,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Right Đặc Biệt 330ml
+1967,158.0,21.0,7.523809523809524,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Forget Premium 500g
+1006,75.0,10.0,7.5,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Fact Premium 500g
+1659,210.0,28.0,7.5,Rủi ro cao: Tồn kho lớn so với doanh số,Orion How Vị Mới 1kg
+1560,120.0,16.0,7.5,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Bed Đặc Biệt 500g
+1705,240.0,32.0,7.5,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Despite Đặc Biệt 500ml
+1760,367.0,49.0,7.489795918367347,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Nearly Vị Mới 250ml
+833,329.0,44.0,7.4772727272727275,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Story Vị Mới 500g
+932,351.0,47.0,7.468085106382978,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Goal Vị Mới 500g
+745,179.0,24.0,7.458333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Mission Premium 100g
+1187,231.0,31.0,7.451612903225806,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Here Premium 700ml
+1700,67.0,9.0,7.444444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Candidate Premium 1L
+1542,320.0,43.0,7.441860465116279,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Point Dinh Dưỡng 500g
+492,253.0,34.0,7.4411764705882355,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Must Đặc Biệt 700ml
+820,341.0,46.0,7.413043478260869,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Radio Đặc Biệt 500ml
+537,289.0,39.0,7.410256410256411,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Section Vị Mới 500g
+1081,326.0,44.0,7.409090909090909,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Buy Premium 100g
+1067,111.0,15.0,7.4,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Letter Dinh Dưỡng 700ml
+1201,170.0,23.0,7.391304347826087,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Something Vị Mới 700ml
+978,133.0,18.0,7.388888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Exist Dinh Dưỡng 100g
+915,443.0,60.0,7.383333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Fly Vị Mới 250ml
+1426,125.0,17.0,7.352941176470588,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Its Dinh Dưỡng 700ml
+847,286.0,39.0,7.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Direction Thượng Hạng 1kg
+1054,176.0,24.0,7.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Push Dinh Dưỡng 700ml
+1283,227.0,31.0,7.32258064516129,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Table Đặc Biệt 500ml
+75,212.0,29.0,7.310344827586207,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Throw Đặc Biệt 330ml
+1927,307.0,42.0,7.309523809523809,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Meet Dinh Dưỡng 100g
+1485,248.0,34.0,7.294117647058823,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Feel Vị Mới 700ml
+1899,306.0,42.0,7.285714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory General Premium 700ml
+1163,109.0,15.0,7.266666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Part Đặc Biệt 250ml
+605,363.0,50.0,7.26,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk None Premium 1L
+747,145.0,20.0,7.25,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Son Vị Mới 500ml
+1130,145.0,20.0,7.25,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Worker Thượng Hạng 1kg
+598,297.0,41.0,7.2439024390243905,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Material Dinh Dưỡng 700ml
+1090,224.0,31.0,7.225806451612903,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Air Vị Mới 500g
+1830,260.0,36.0,7.222222222222222,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Nearly Vị Mới 700ml
+94,130.0,18.0,7.222222222222222,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Maintain Dinh Dưỡng 250ml
+1678,519.0,72.0,7.208333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk End Premium 500g
+36,180.0,25.0,7.2,Rủi ro cao: Tồn kho lớn so với doanh số,Vikoda Nước khoáng 500ml
+250,108.0,15.0,7.2,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk With Thượng Hạng 500ml
+824,180.0,25.0,7.2,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Other Đặc Biệt 500g
+1589,295.0,41.0,7.195121951219512,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Whom Premium 500ml
+501,222.0,31.0,7.161290322580645,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Tax Premium 1L
+760,278.0,39.0,7.128205128205129,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Represent Premium 500ml
+1612,270.0,38.0,7.105263157894737,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Commercial Đặc Biệt 330ml
+407,213.0,30.0,7.1,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Table Thượng Hạng 1L
+588,220.0,31.0,7.096774193548387,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Edge Dinh Dưỡng 500g
+177,440.0,62.0,7.096774193548387,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Food Thượng Hạng 500ml
+981,241.0,34.0,7.088235294117647,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Edge Dinh Dưỡng 330ml
+1305,411.0,58.0,7.086206896551724,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Trade Đặc Biệt 250ml
+929,339.0,48.0,7.0625,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Everybody Đặc Biệt 1kg
+914,134.0,19.0,7.052631578947368,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Perform Dinh Dưỡng 700ml
+1750,380.0,54.0,7.037037037037037,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Bill Thượng Hạng 100g
+296,197.0,28.0,7.035714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Financial Premium 1L
+1497,267.0,38.0,7.026315789473684,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Capital Dinh Dưỡng 1kg
+1632,337.0,48.0,7.020833333333333,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Whose Thượng Hạng 1kg
+371,112.0,16.0,7.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Series Vị Mới 1L
+1519,294.0,42.0,7.0,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Protect Thượng Hạng 100g
+499,70.0,10.0,7.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Major Thượng Hạng 1L
+538,56.0,8.0,7.0,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Kid Thượng Hạng 500g
+185,98.0,14.0,7.0,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Responsibility Vị Mới 500ml
+377,210.0,30.0,7.0,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Throw Vị Mới 330ml
+1555,258.0,37.0,6.972972972972973,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Able Vị Mới 500ml
+529,202.0,29.0,6.9655172413793105,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Check Dinh Dưỡng 500ml
+1440,139.0,20.0,6.95,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Oil Vị Mới 700ml
+608,410.0,59.0,6.9491525423728815,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Far Premium 500ml
+1640,132.0,19.0,6.947368421052632,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo How Vị Mới 500g
+1844,236.0,34.0,6.9411764705882355,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Manager Vị Mới 250ml
+272,104.0,15.0,6.933333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Decade Dinh Dưỡng 100g
+1567,173.0,25.0,6.92,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Reason Dinh Dưỡng 250ml
+1158,159.0,23.0,6.913043478260869,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Relationship Thượng Hạng 700ml
+2027,228.0,33.0,6.909090909090909,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Catch Đặc Biệt 500ml
+880,207.0,30.0,6.9,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Board Vị Mới 700ml
+508,269.0,39.0,6.897435897435898,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Establish Đặc Biệt 250ml
+985,220.0,32.0,6.875,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Soldier Đặc Biệt 500g
+1717,267.0,39.0,6.846153846153846,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Write Thượng Hạng 1L
+1955,438.0,64.0,6.84375,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Former Dinh Dưỡng 1L
+497,205.0,30.0,6.833333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Especially Premium 250ml
+1324,177.0,26.0,6.8076923076923075,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Eat Đặc Biệt 330ml
+960,381.0,56.0,6.803571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Remain Đặc Biệt 100g
+12,156.0,23.0,6.782608695652174,Rủi ro cao: Tồn kho lớn so với doanh số,Omachi Mì ly 85g
+862,339.0,50.0,6.78,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Prove Đặc Biệt 500ml
+358,176.0,26.0,6.769230769230769,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Account Vị Mới 500g
+1604,176.0,26.0,6.769230769230769,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Mr Đặc Biệt 500ml
+62,108.0,16.0,6.75,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Provide Đặc Biệt 330ml
+111,310.0,46.0,6.739130434782608,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Face Vị Mới 330ml
+1448,303.0,45.0,6.733333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Increase Premium 100g
+403,222.0,33.0,6.7272727272727275,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Good Thượng Hạng 330ml
+1971,121.0,18.0,6.722222222222222,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Factor Vị Mới 100g
+38,302.0,45.0,6.711111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Science Thượng Hạng 330ml
+2037,208.0,31.0,6.709677419354839,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Attack Thượng Hạng 330ml
+1954,161.0,24.0,6.708333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Develop Đặc Biệt 700ml
+1214,322.0,48.0,6.708333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Partner Thượng Hạng 500ml
+1915,295.0,44.0,6.704545454545454,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Event Premium 500ml
+1329,201.0,30.0,6.7,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Rule Đặc Biệt 700ml
+1367,127.0,19.0,6.684210526315789,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Notice Dinh Dưỡng 500g
+1810,167.0,25.0,6.68,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Born Dinh Dưỡng 330ml
+1177,354.0,53.0,6.679245283018868,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Let Dinh Dưỡng 100g
+1596,260.0,39.0,6.666666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Model Dinh Dưỡng 100g
+1053,260.0,39.0,6.666666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Not Dinh Dưỡng 1kg
+264,173.0,26.0,6.653846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Six Đặc Biệt 1kg
+1846,246.0,37.0,6.648648648648648,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto First Premium 500g
+1371,73.0,11.0,6.636363636363637,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Herself Dinh Dưỡng 700ml
+1100,165.0,25.0,6.6,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Particular Đặc Biệt 330ml
+1477,257.0,39.0,6.589743589743589,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Air Dinh Dưỡng 1kg
+1950,336.0,51.0,6.588235294117647,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Back Thượng Hạng 500g
+1603,112.0,17.0,6.588235294117647,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Also Vị Mới 700ml
+805,460.0,70.0,6.571428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Study Dinh Dưỡng 330ml
+1606,289.0,44.0,6.568181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Drive Premium 1kg
+1199,505.0,77.0,6.558441558441558,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Market Đặc Biệt 500ml
+1251,131.0,20.0,6.55,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Certain Vị Mới 250ml
+1916,347.0,53.0,6.547169811320755,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Record Đặc Biệt 500ml
+1767,229.0,35.0,6.542857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Plan Thượng Hạng 100g
+782,157.0,24.0,6.541666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Black Vị Mới 500g
+509,85.0,13.0,6.538461538461538,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Course Đặc Biệt 500g
+1128,255.0,39.0,6.538461538461538,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Scene Đặc Biệt 1kg
+1552,353.0,54.0,6.537037037037037,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Fly Premium 1kg
+392,189.0,29.0,6.517241379310345,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Story Đặc Biệt 1L
+1106,201.0,31.0,6.483870967741935,Rủi ro cao: Tồn kho lớn so với doanh số,Orion By Thượng Hạng 250ml
+268,363.0,56.0,6.482142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Join Dinh Dưỡng 1L
+1782,233.0,36.0,6.472222222222222,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Accept Thượng Hạng 500g
+698,349.0,54.0,6.462962962962963,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Hard Premium 330ml
+417,168.0,26.0,6.461538461538462,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Since Premium 1kg
+173,258.0,40.0,6.45,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Way Premium 330ml
+1573,174.0,27.0,6.444444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Need Thượng Hạng 500ml
+424,335.0,52.0,6.4423076923076925,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Health Vị Mới 330ml
+1459,161.0,25.0,6.44,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Family Dinh Dưỡng 500ml
+381,296.0,46.0,6.434782608695652,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Himself Vị Mới 500ml
+1646,180.0,28.0,6.428571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Its Dinh Dưỡng 1kg
+312,366.0,57.0,6.421052631578948,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Item Đặc Biệt 700ml
+1262,308.0,48.0,6.416666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Agent Đặc Biệt 100g
+1198,154.0,24.0,6.416666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Husband Thượng Hạng 100g
+145,250.0,39.0,6.410256410256411,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Bed Vị Mới 500ml
+1999,141.0,22.0,6.409090909090909,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Assume Đặc Biệt 1L
+1853,205.0,32.0,6.40625,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Director Premium 500ml
+875,301.0,47.0,6.404255319148936,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Course Vị Mới 250ml
+1748,243.0,38.0,6.394736842105263,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Operation Premium 330ml
+1585,281.0,44.0,6.386363636363637,Rủi ro cao: Tồn kho lớn so với doanh số,Orion School Đặc Biệt 700ml
+130,166.0,26.0,6.384615384615385,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Just Dinh Dưỡng 330ml
+1050,217.0,34.0,6.382352941176471,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Choice Premium 1L
+1095,268.0,42.0,6.380952380952381,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Whole Thượng Hạng 100g
+372,185.0,29.0,6.379310344827586,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Public Đặc Biệt 500ml
+1837,185.0,29.0,6.379310344827586,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook There Thượng Hạng 500g
+1325,127.0,20.0,6.35,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Parent Vị Mới 100g
+1635,76.0,12.0,6.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Place Đặc Biệt 1L
+1293,285.0,45.0,6.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Force Thượng Hạng 500ml
+98,234.0,37.0,6.324324324324325,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Rate Thượng Hạng 100g
+434,240.0,38.0,6.315789473684211,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Try Premium 700ml
+1884,214.0,34.0,6.294117647058823,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Information Dinh Dưỡng 250ml
+1871,371.0,59.0,6.288135593220339,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Each Đặc Biệt 1L
+1468,132.0,21.0,6.285714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Oil Thượng Hạng 500g
+275,157.0,25.0,6.28,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Student Dinh Dưỡng 330ml
+1551,163.0,26.0,6.269230769230769,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Everything Premium 1kg
+1274,257.0,41.0,6.2682926829268295,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Toward Dinh Dưỡng 100g
+1843,263.0,42.0,6.261904761904762,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Either Đặc Biệt 1kg
+2035,144.0,23.0,6.260869565217392,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Well Thượng Hạng 100g
+79,219.0,35.0,6.257142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Behavior Thượng Hạng 250ml
+11,250.0,40.0,6.25,Rủi ro cao: Tồn kho lớn so với doanh số,Omachi Mì ly 80g
+573,200.0,32.0,6.25,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Budget Premium 1L
+1335,312.0,50.0,6.24,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Campaign Premium 1kg
+804,299.0,48.0,6.229166666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Structure Premium 500g
+800,411.0,66.0,6.2272727272727275,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Less Premium 1kg
+593,211.0,34.0,6.205882352941177,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Beautiful Vị Mới 500g
+105,248.0,40.0,6.2,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Consumer Thượng Hạng 1L
+1207,279.0,45.0,6.2,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Field Đặc Biệt 700ml
+1116,217.0,35.0,6.2,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Get Dinh Dưỡng 100g
+1938,291.0,47.0,6.191489361702128,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Floor Thượng Hạng 330ml
+1774,297.0,48.0,6.1875,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Picture Đặc Biệt 100g
+546,272.0,44.0,6.181818181818182,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Discuss Dinh Dưỡng 500g
+1510,216.0,35.0,6.171428571428572,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Garden Dinh Dưỡng 700ml
+362,111.0,18.0,6.166666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Receive Thượng Hạng 330ml
+1548,313.0,51.0,6.137254901960785,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Enter Dinh Dưỡng 1L
+4,270.0,44.0,6.136363636363637,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Tương ớt 250g
+59,319.0,52.0,6.134615384615385,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Finish Đặc Biệt 1L
+756,460.0,75.0,6.133333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Keep Dinh Dưỡng 250ml
+1231,282.0,46.0,6.130434782608695,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto More Premium 500g
+1729,190.0,31.0,6.129032258064516,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Body Vị Mới 1L
+1681,190.0,31.0,6.129032258064516,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Action Đặc Biệt 250ml
+721,202.0,33.0,6.121212121212121,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Certainly Vị Mới 250ml
+133,422.0,69.0,6.115942028985507,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Trade Thượng Hạng 1kg
+87,214.0,35.0,6.114285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Country Vị Mới 1L
+1292,220.0,36.0,6.111111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Book Đặc Biệt 1kg
+1149,177.0,29.0,6.103448275862069,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Arrive Vị Mới 100g
+488,305.0,50.0,6.1,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Modern Premium 330ml
+1007,341.0,56.0,6.089285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Admit Premium 1L
+1691,414.0,68.0,6.088235294117647,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Upon Vị Mới 1kg
+1392,146.0,24.0,6.083333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Tough Dinh Dưỡng 500g
+1009,219.0,36.0,6.083333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Structure Thượng Hạng 1L
+1307,225.0,37.0,6.081081081081081,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Quite Vị Mới 100g
+946,304.0,50.0,6.08,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Blood Đặc Biệt 500g
+821,164.0,27.0,6.074074074074074,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Term Thượng Hạng 330ml
+478,364.0,60.0,6.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Option Vị Mới 1L
+1401,364.0,60.0,6.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Many Vị Mới 1L
+462,273.0,45.0,6.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Professor Đặc Biệt 250ml
+282,376.0,62.0,6.064516129032258,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Pull Premium 100g
+1268,412.0,68.0,6.0588235294117645,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Impact Đặc Biệt 1L
+625,109.0,18.0,6.055555555555555,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé State Đặc Biệt 1kg
+1472,115.0,19.0,6.052631578947368,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Artist Thượng Hạng 700ml
+1331,248.0,41.0,6.048780487804878,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Sign Vị Mới 330ml
+860,254.0,42.0,6.0476190476190474,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Shoulder Thượng Hạng 700ml
+1628,266.0,44.0,6.045454545454546,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Pick Dinh Dưỡng 1L
+428,139.0,23.0,6.043478260869565,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Energy Premium 500ml
+1749,229.0,38.0,6.026315789473684,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Store Premium 100g
+1765,138.0,23.0,6.0,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Wind Thượng Hạng 500g
+1476,114.0,19.0,6.0,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Itself Thượng Hạng 500g
+1226,335.0,56.0,5.982142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Idea Premium 330ml
+1038,382.0,64.0,5.96875,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Through Thượng Hạng 250ml
+777,298.0,50.0,5.96,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Front Đặc Biệt 500ml
+174,268.0,45.0,5.955555555555556,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Charge Thượng Hạng 1kg
+1001,327.0,55.0,5.945454545454545,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Benefit Đặc Biệt 500ml
+965,107.0,18.0,5.944444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Start Dinh Dưỡng 500g
+688,178.0,30.0,5.933333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Heart Vị Mới 330ml
+1823,89.0,15.0,5.933333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Skin Thượng Hạng 1kg
+1042,278.0,47.0,5.914893617021277,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Live Dinh Dưỡng 250ml
+681,207.0,35.0,5.914285714285715,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Indeed Vị Mới 500g
+859,130.0,22.0,5.909090909090909,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Down Premium 1L
+333,460.0,78.0,5.897435897435898,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Debate Thượng Hạng 700ml
+1952,323.0,55.0,5.872727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Good Dinh Dưỡng 250ml
+191,129.0,22.0,5.863636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Cultural Premium 700ml
+601,76.0,13.0,5.846153846153846,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Site Premium 1kg
+1532,111.0,19.0,5.842105263157895,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Blue Đặc Biệt 330ml
+619,368.0,63.0,5.841269841269841,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Investment Thượng Hạng 500ml
+714,181.0,31.0,5.838709677419355,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Traditional Vị Mới 500ml
+120,181.0,31.0,5.838709677419355,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Will Vị Mới 1kg
+262,216.0,37.0,5.837837837837838,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Moment Vị Mới 1kg
+354,70.0,12.0,5.833333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto This Premium 500ml
+1272,192.0,33.0,5.818181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Arm Vị Mới 1L
+680,186.0,32.0,5.8125,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Foot Đặc Biệt 500g
+1535,290.0,50.0,5.8,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Meeting Đặc Biệt 1L
+1590,214.0,37.0,5.783783783783784,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Event Premium 100g
+1340,150.0,26.0,5.769230769230769,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Allow Thượng Hạng 330ml
+1169,121.0,21.0,5.761904761904762,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Civil Premium 1L
+40,115.0,20.0,5.75,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Long Thượng Hạng 700ml
+1039,304.0,53.0,5.735849056603773,Rủi ro cao: Tồn kho lớn so với doanh số,Orion It Thượng Hạng 700ml
+1360,263.0,46.0,5.717391304347826,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Design Dinh Dưỡng 700ml
+1641,80.0,14.0,5.714285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Rest Dinh Dưỡng 330ml
+1136,120.0,21.0,5.714285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Music Premium 250ml
+197,171.0,30.0,5.7,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Too Thượng Hạng 100g
+50,285.0,50.0,5.7,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Would Vị Mới 500g
+1058,262.0,46.0,5.695652173913044,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Care Vị Mới 1L
+316,205.0,36.0,5.694444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Population Thượng Hạng 330ml
+442,250.0,44.0,5.681818181818182,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Local Premium 100g
+1656,210.0,37.0,5.675675675675675,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Up Premium 500ml
+873,85.0,15.0,5.666666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Attorney Vị Mới 500ml
+749,209.0,37.0,5.648648648648648,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Movie Đặc Biệt 500ml
+1985,158.0,28.0,5.642857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Recent Đặc Biệt 1kg
+1317,124.0,22.0,5.636363636363637,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Look Vị Mới 1L
+1484,259.0,46.0,5.630434782608695,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Decide Premium 330ml
+1959,90.0,16.0,5.625,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk White Dinh Dưỡng 500g
+1171,202.0,36.0,5.611111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Finally Thượng Hạng 330ml
+1801,241.0,43.0,5.604651162790698,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Budget Dinh Dưỡng 700ml
+1092,196.0,35.0,5.6,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Continue Dinh Dưỡng 700ml
+955,28.0,5.0,5.6,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Resource Thượng Hạng 1L
+1643,112.0,20.0,5.6,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Treat Thượng Hạng 700ml
+895,257.0,46.0,5.586956521739131,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Gun Đặc Biệt 250ml
+1716,145.0,26.0,5.576923076923077,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto All Premium 700ml
+2034,178.0,32.0,5.5625,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Until Premium 1kg
+297,178.0,32.0,5.5625,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Check Đặc Biệt 1kg
+1963,278.0,50.0,5.56,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Message Dinh Dưỡng 500ml
+1382,189.0,34.0,5.5588235294117645,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Set Dinh Dưỡng 500ml
+336,189.0,34.0,5.5588235294117645,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Mention Đặc Biệt 330ml
+987,244.0,44.0,5.545454545454546,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo There Đặc Biệt 1kg
+418,133.0,24.0,5.541666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Orion But Thượng Hạng 500ml
+219,133.0,24.0,5.541666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Next Vị Mới 100g
+550,205.0,37.0,5.54054054054054,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Police Đặc Biệt 700ml
+885,227.0,41.0,5.536585365853658,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Everybody Đặc Biệt 330ml
+1416,227.0,41.0,5.536585365853658,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory My Dinh Dưỡng 700ml
+1215,282.0,51.0,5.529411764705882,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Too Dinh Dưỡng 1kg
+288,221.0,40.0,5.525,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Box Dinh Dưỡng 500g
+1431,116.0,21.0,5.523809523809524,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Five Dinh Dưỡng 500g
+990,331.0,60.0,5.516666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Require Vị Mới 1L
+126,66.0,12.0,5.5,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Race Vị Mới 500g
+1180,319.0,58.0,5.5,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Them Vị Mới 700ml
+1885,77.0,14.0,5.5,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Office Thượng Hạng 500ml
+517,247.0,45.0,5.488888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Try Premium 330ml
+1881,340.0,62.0,5.483870967741935,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Skin Vị Mới 1L
+106,137.0,25.0,5.48,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Machine Thượng Hạng 250ml
+1336,219.0,40.0,5.475,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Southern Premium 500ml
+47,104.0,19.0,5.473684210526316,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Hold Thượng Hạng 500ml
+1848,104.0,19.0,5.473684210526316,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Heavy Vị Mới 500g
+787,175.0,32.0,5.46875,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Detail Vị Mới 500g
+39,202.0,37.0,5.45945945945946,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever By Đặc Biệt 700ml
+265,120.0,22.0,5.454545454545454,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Need Đặc Biệt 100g
+1961,327.0,60.0,5.45,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Class Vị Mới 100g
+21,418.0,77.0,5.428571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Vinacafé Cà phê hòa tan 18 gói
+1221,179.0,33.0,5.424242424242424,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Always Đặc Biệt 250ml
+879,287.0,53.0,5.415094339622642,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Find Vị Mới 1kg
+370,314.0,58.0,5.413793103448276,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Today Thượng Hạng 500g
+1028,146.0,27.0,5.407407407407407,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Candidate Thượng Hạng 700ml
+167,81.0,15.0,5.4,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Agency Thượng Hạng 330ml
+642,291.0,54.0,5.388888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Provide Đặc Biệt 250ml
+1724,43.0,8.0,5.375,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Both Premium 330ml
+1421,215.0,40.0,5.375,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Cover Premium 250ml
+1494,403.0,75.0,5.373333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Usually Premium 250ml
+1036,451.0,84.0,5.369047619047619,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Along Đặc Biệt 330ml
+1714,327.0,61.0,5.360655737704918,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Current Đặc Biệt 700ml
+778,268.0,50.0,5.36,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Member Thượng Hạng 500g
+602,166.0,31.0,5.354838709677419,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Certain Vị Mới 1L
+846,182.0,34.0,5.352941176470588,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook According Thượng Hạng 330ml
+1973,380.0,71.0,5.352112676056338,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo None Premium 500g
+1241,449.0,84.0,5.345238095238095,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Second Premium 250ml
+845,187.0,35.0,5.3428571428571425,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Entire Vị Mới 250ml
+1508,192.0,36.0,5.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Voice Đặc Biệt 1L
+809,288.0,54.0,5.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Have Dinh Dưỡng 250ml
+1826,117.0,22.0,5.318181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Often Premium 500g
+1450,170.0,32.0,5.3125,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Image Dinh Dưỡng 330ml
+1902,239.0,45.0,5.311111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Well Đặc Biệt 500g
+1361,138.0,26.0,5.3076923076923075,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Listen Đặc Biệt 250ml
+998,138.0,26.0,5.3076923076923075,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Unit Dinh Dưỡng 500ml
+1550,297.0,56.0,5.303571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Something Đặc Biệt 330ml
+2019,37.0,7.0,5.285714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Teach Vị Mới 500ml
+1783,148.0,28.0,5.285714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Young Đặc Biệt 250ml
+1478,189.0,36.0,5.25,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Bring Premium 1kg
+283,147.0,28.0,5.25,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Option Premium 1L
+1847,252.0,48.0,5.25,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Artist Vị Mới 500g
+930,173.0,33.0,5.242424242424242,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Local Dinh Dưỡng 500ml
+916,304.0,58.0,5.241379310344827,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Test Thượng Hạng 1L
+1944,199.0,38.0,5.2368421052631575,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever All Dinh Dưỡng 500g
+700,167.0,32.0,5.21875,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Yard Thượng Hạng 700ml
+904,73.0,14.0,5.214285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Step Dinh Dưỡng 250ml
+1981,172.0,33.0,5.212121212121212,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Year Đặc Biệt 100g
+1936,156.0,30.0,5.2,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Science Thượng Hạng 500g
+1608,52.0,10.0,5.2,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Move Vị Mới 330ml
+1321,109.0,21.0,5.190476190476191,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Election Premium 250ml
+919,217.0,42.0,5.166666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Writer Thượng Hạng 330ml
+1402,315.0,61.0,5.163934426229508,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Dinner Vị Mới 1L
+1727,129.0,25.0,5.16,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Reduce Vị Mới 1L
+1059,134.0,26.0,5.153846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk True Thượng Hạng 700ml
+663,170.0,33.0,5.151515151515151,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Material Premium 1L
+328,273.0,53.0,5.150943396226415,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Sit Dinh Dưỡng 500g
+414,242.0,47.0,5.148936170212766,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Partner Đặc Biệt 700ml
+1121,108.0,21.0,5.142857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Orion By Đặc Biệt 330ml
+1242,180.0,35.0,5.142857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Than Vị Mới 500g
+68,262.0,51.0,5.137254901960785,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Might Premium 250ml
+1965,123.0,24.0,5.125,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Bring Vị Mới 1kg
+1851,194.0,38.0,5.105263157894737,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Dark Thượng Hạng 250ml
+740,107.0,21.0,5.095238095238095,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Heavy Premium 1kg
+330,112.0,22.0,5.090909090909091,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Serve Thượng Hạng 330ml
+387,178.0,35.0,5.085714285714285,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Business Premium 100g
+378,188.0,37.0,5.081081081081081,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto About Đặc Biệt 1L
+1159,193.0,38.0,5.078947368421052,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Single Đặc Biệt 1L
+1616,401.0,79.0,5.075949367088608,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Cut Vị Mới 700ml
+1031,314.0,62.0,5.064516129032258,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Floor Đặc Biệt 330ml
+1668,248.0,49.0,5.061224489795919,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Fish Dinh Dưỡng 330ml
+1126,86.0,17.0,5.0588235294117645,Rủi ro cao: Tồn kho lớn so với doanh số,Orion From Thượng Hạng 330ml
+907,273.0,54.0,5.055555555555555,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Mouth Vị Mới 1L
+464,182.0,36.0,5.055555555555555,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Young Thượng Hạng 500g
+1683,293.0,58.0,5.051724137931035,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Role Đặc Biệt 100g
+1912,298.0,59.0,5.0508474576271185,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Notice Premium 500g
+267,101.0,20.0,5.05,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Since Thượng Hạng 1L
+514,207.0,41.0,5.048780487804878,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Beautiful Đặc Biệt 500ml
+603,212.0,42.0,5.0476190476190474,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Clearly Thượng Hạng 250ml
+84,318.0,63.0,5.0476190476190474,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Where Premium 1kg
+1584,217.0,43.0,5.046511627906977,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Either Đặc Biệt 1L
+1514,111.0,22.0,5.045454545454546,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé One Premium 250ml
+709,242.0,48.0,5.041666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Man Thượng Hạng 250ml
+722,121.0,24.0,5.041666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Hear Vị Mới 500ml
+646,121.0,24.0,5.041666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Ten Thượng Hạng 250ml
+580,257.0,51.0,5.03921568627451,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Sound Thượng Hạng 1L
+1288,151.0,30.0,5.033333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Read Thượng Hạng 250ml
+1235,156.0,31.0,5.032258064516129,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Throw Dinh Dưỡng 1L
+452,216.0,43.0,5.023255813953488,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo House Thượng Hạng 500ml
+89,236.0,47.0,5.0212765957446805,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Hospital Premium 330ml
+1278,200.0,40.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Big Premium 500g
+1541,240.0,48.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Capital Thượng Hạng 500g
+1190,275.0,55.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Age Thượng Hạng 100g
+1564,125.0,25.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Stay Thượng Hạng 1kg
+189,105.0,21.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory However Premium 100g
+231,185.0,37.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Response Premium 500g
+1023,260.0,52.0,5.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Remain Premium 1kg
+71,294.0,59.0,4.983050847457627,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Example Dinh Dưỡng 1L
+1114,243.0,49.0,4.959183673469388,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Increase Đặc Biệt 500g
+107,188.0,38.0,4.947368421052632,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Next Đặc Biệt 100g
+1021,346.0,70.0,4.942857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Free Dinh Dưỡng 250ml
+858,84.0,17.0,4.9411764705882355,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Yeah Đặc Biệt 1L
+1413,311.0,63.0,4.936507936507937,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Offer Thượng Hạng 100g
+1866,365.0,74.0,4.9324324324324325,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Would Đặc Biệt 1kg
+1855,187.0,38.0,4.921052631578948,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Alone Thượng Hạng 1L
+1123,236.0,48.0,4.916666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Leave Dinh Dưỡng 500g
+823,285.0,58.0,4.913793103448276,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Until Đặc Biệt 500ml
+1423,393.0,80.0,4.9125,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Kitchen Thượng Hạng 1kg
+842,167.0,34.0,4.911764705882353,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Contain Thượng Hạng 250ml
+406,206.0,42.0,4.904761904761905,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Gas Thượng Hạng 700ml
+889,98.0,20.0,4.9,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Yeah Thượng Hạng 250ml
+479,88.0,18.0,4.888888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Energy Thượng Hạng 1kg
+66,342.0,70.0,4.885714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Imagine Vị Mới 1kg
+138,244.0,50.0,4.88,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Lawyer Đặc Biệt 500ml
+1978,39.0,8.0,4.875,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Though Vị Mới 250ml
+116,229.0,47.0,4.872340425531915,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Test Vị Mới 1L
+432,185.0,38.0,4.868421052631579,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Owner Dinh Dưỡng 250ml
+925,185.0,38.0,4.868421052631579,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Manage Đặc Biệt 500ml
+1418,331.0,68.0,4.867647058823529,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Religious Vị Mới 100g
+1257,204.0,42.0,4.857142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Throughout Đặc Biệt 250ml
+1210,262.0,54.0,4.851851851851852,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Center Thượng Hạng 700ml
+217,169.0,35.0,4.828571428571428,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Reason Đặc Biệt 1kg
+2004,347.0,72.0,4.819444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Knowledge Dinh Dưỡng 1kg
+476,318.0,66.0,4.818181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Idea Premium 500g
+1879,149.0,31.0,4.806451612903226,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Poor Đặc Biệt 100g
+1041,120.0,25.0,4.8,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Sure Đặc Biệt 500g
+571,115.0,24.0,4.791666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo History Vị Mới 500ml
+1475,297.0,62.0,4.790322580645161,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Break Dinh Dưỡng 330ml
+2009,91.0,19.0,4.7894736842105265,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Run Dinh Dưỡng 700ml
+710,225.0,47.0,4.787234042553192,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo When Vị Mới 1kg
+738,153.0,32.0,4.78125,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Work Thượng Hạng 1L
+795,239.0,50.0,4.78,Rủi ro cao: Tồn kho lớn so với doanh số,Orion News Dinh Dưỡng 700ml
+1865,43.0,9.0,4.777777777777778,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto If Đặc Biệt 700ml
+1113,277.0,58.0,4.775862068965517,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Compare Vị Mới 1kg
+1343,100.0,21.0,4.761904761904762,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Land Thượng Hạng 1L
+483,100.0,21.0,4.761904761904762,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Treat Vị Mới 250ml
+1188,395.0,83.0,4.759036144578313,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Ask Đặc Biệt 500ml
+1599,57.0,12.0,4.75,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Cold Đặc Biệt 500g
+1071,166.0,35.0,4.742857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Kind Đặc Biệt 100g
+984,327.0,69.0,4.739130434782608,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Million Thượng Hạng 700ml
+161,175.0,37.0,4.72972972972973,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Chair Premium 500ml
+505,104.0,22.0,4.7272727272727275,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Interview Dinh Dưỡng 100g
+69,52.0,11.0,4.7272727272727275,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Event Vị Mới 1L
+791,245.0,52.0,4.711538461538462,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Whole Thượng Hạng 250ml
+1337,334.0,71.0,4.704225352112676,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Maintain Thượng Hạng 250ml
+2031,108.0,23.0,4.695652173913044,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Small Dinh Dưỡng 250ml
+1346,324.0,69.0,4.695652173913044,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Report Đặc Biệt 700ml
+223,272.0,58.0,4.689655172413793,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Skill Thượng Hạng 1kg
+786,136.0,29.0,4.689655172413793,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Start Thượng Hạng 500g
+1372,89.0,19.0,4.684210526315789,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Election Dinh Dưỡng 250ml
+109,220.0,47.0,4.680851063829787,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Space Vị Mới 100g
+1649,145.0,31.0,4.67741935483871,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Large Đặc Biệt 330ml
+504,285.0,61.0,4.672131147540983,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Mean Premium 500g
+1457,299.0,64.0,4.671875,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Sound Đặc Biệt 700ml
+82,112.0,24.0,4.666666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Economy Premium 700ml
+949,42.0,9.0,4.666666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Fill Premium 500ml
+874,200.0,43.0,4.651162790697675,Rủi ro cao: Tồn kho lớn so với doanh số,P&G If Dinh Dưỡng 1kg
+1582,172.0,37.0,4.648648648648648,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Appear Premium 250ml
+166,79.0,17.0,4.647058823529412,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Network Thượng Hạng 100g
+399,130.0,28.0,4.642857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Cup Vị Mới 1kg
+1175,125.0,27.0,4.62962962962963,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk President Thượng Hạng 1kg
+918,236.0,51.0,4.627450980392157,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook My Đặc Biệt 1kg
+1412,148.0,32.0,4.625,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Population Đặc Biệt 500g
+1442,74.0,16.0,4.625,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Population Đặc Biệt 500ml
+159,333.0,72.0,4.625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Easy Thượng Hạng 500ml
+295,37.0,8.0,4.625,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Old Thượng Hạng 1kg
+883,254.0,55.0,4.618181818181818,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Seat Premium 500ml
+235,143.0,31.0,4.612903225806452,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Rather Premium 330ml
+1943,226.0,49.0,4.612244897959184,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Street Đặc Biệt 500g
+1896,226.0,49.0,4.612244897959184,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Idea Vị Mới 100g
+1179,106.0,23.0,4.608695652173913,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Oil Dinh Dưỡng 1L
+542,152.0,33.0,4.606060606060606,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Should Dinh Dưỡng 500g
+1744,285.0,62.0,4.596774193548387,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Return Đặc Biệt 330ml
+1138,239.0,52.0,4.596153846153846,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Sister Đặc Biệt 100g
+1623,170.0,37.0,4.594594594594595,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Statement Premium 330ml
+837,147.0,32.0,4.59375,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Score Vị Mới 330ml
+1213,266.0,58.0,4.586206896551724,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Building Premium 700ml
+970,188.0,41.0,4.585365853658536,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Light Premium 500ml
+750,165.0,36.0,4.583333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Bag Premium 700ml
+816,256.0,56.0,4.571428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Husband Thượng Hạng 1kg
+489,169.0,37.0,4.5675675675675675,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Hit Dinh Dưỡng 1kg
+454,146.0,32.0,4.5625,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Son Đặc Biệt 330ml
+1859,255.0,56.0,4.553571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Part Vị Mới 100g
+1348,200.0,44.0,4.545454545454546,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Process Thượng Hạng 1L
+5,154.0,34.0,4.529411764705882,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Tương ớt 500g
+634,267.0,59.0,4.52542372881356,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Any Dinh Dưỡng 100g
+255,190.0,42.0,4.523809523809524,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Evening Thượng Hạng 700ml
+1886,104.0,23.0,4.521739130434782,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory List Dinh Dưỡng 330ml
+1996,321.0,71.0,4.52112676056338,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Indeed Thượng Hạng 500ml
+472,122.0,27.0,4.518518518518518,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Production Dinh Dưỡng 100g
+1248,135.0,30.0,4.5,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook There Đặc Biệt 700ml
+150,252.0,56.0,4.5,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Could Dinh Dưỡng 1kg
+190,135.0,30.0,4.5,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Carry Dinh Dưỡng 500ml
+115,359.0,80.0,4.4875,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Carry Đặc Biệt 500g
+101,206.0,46.0,4.478260869565218,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Southern Vị Mới 330ml
+1086,188.0,42.0,4.476190476190476,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Probably Vị Mới 500ml
+1667,237.0,53.0,4.471698113207547,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Education Dinh Dưỡng 330ml
+568,107.0,24.0,4.458333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Power Dinh Dưỡng 500g
+1619,138.0,31.0,4.451612903225806,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Write Vị Mới 500ml
+696,218.0,49.0,4.448979591836735,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Road Thượng Hạng 100g
+1498,329.0,74.0,4.445945945945946,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Left Đặc Biệt 330ml
+180,151.0,34.0,4.4411764705882355,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Deal Dinh Dưỡng 1L
+78,244.0,55.0,4.4363636363636365,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Often Đặc Biệt 500g
+430,133.0,30.0,4.433333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Fight Đặc Biệt 500g
+1984,124.0,28.0,4.428571428571429,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Risk Đặc Biệt 250ml
+1962,168.0,38.0,4.421052631578948,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Radio Dinh Dưỡng 500ml
+142,137.0,31.0,4.419354838709677,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Prepare Thượng Hạng 100g
+810,137.0,31.0,4.419354838709677,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Gun Premium 700ml
+1261,327.0,74.0,4.418918918918919,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Individual Vị Mới 330ml
+1779,106.0,24.0,4.416666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Best Dinh Dưỡng 100g
+134,282.0,64.0,4.40625,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Perform Đặc Biệt 330ml
+369,229.0,52.0,4.403846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Certainly Đặc Biệt 500g
+982,123.0,28.0,4.392857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Full Dinh Dưỡng 700ml
+686,101.0,23.0,4.391304347826087,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Majority Premium 500ml
+1811,136.0,31.0,4.387096774193548,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Check Đặc Biệt 500ml
+948,219.0,50.0,4.38,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Performance Thượng Hạng 1L
+1775,162.0,37.0,4.378378378378378,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Enough Đặc Biệt 330ml
+1018,162.0,37.0,4.378378378378378,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook History Premium 700ml
+1034,118.0,27.0,4.37037037037037,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Thank Vị Mới 330ml
+844,144.0,33.0,4.363636363636363,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Guess Dinh Dưỡng 100g
+1019,183.0,42.0,4.357142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Allow Premium 1kg
+1060,87.0,20.0,4.35,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Music Premium 500ml
+34,139.0,32.0,4.34375,Rủi ro cao: Tồn kho lớn so với doanh số,Anco Xúc xích 500g
+966,52.0,12.0,4.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Style Thượng Hạng 700ml
+577,78.0,18.0,4.333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Act Đặc Biệt 250ml
+743,264.0,61.0,4.327868852459017,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Design Đặc Biệt 330ml
+1787,203.0,47.0,4.319148936170213,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Write Dinh Dưỡng 250ml
+1704,82.0,19.0,4.315789473684211,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Tell Premium 500g
+56,125.0,29.0,4.310344827586207,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Especially Dinh Dưỡng 700ml
+298,56.0,13.0,4.3076923076923075,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Doctor Dinh Dưỡng 500ml
+2005,210.0,49.0,4.285714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Every Đặc Biệt 250ml
+592,197.0,46.0,4.282608695652174,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Believe Premium 1kg
+754,548.0,128.0,4.28125,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Easy Thượng Hạng 250ml
+1466,261.0,61.0,4.278688524590164,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Large Premium 1kg
+1097,201.0,47.0,4.276595744680851,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Blue Thượng Hạng 500ml
+1503,141.0,33.0,4.2727272727272725,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Indicate Dinh Dưỡng 500g
+1664,111.0,26.0,4.269230769230769,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Offer Thượng Hạng 250ml
+455,179.0,42.0,4.261904761904762,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Return Premium 500ml
+878,221.0,52.0,4.25,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Theory Premium 100g
+1301,259.0,61.0,4.245901639344262,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Evidence Vị Mới 700ml
+1350,382.0,90.0,4.2444444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Ready Premium 100g
+1561,229.0,54.0,4.2407407407407405,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Front Thượng Hạng 500ml
+1013,127.0,30.0,4.233333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Imagine Vị Mới 1L
+1015,292.0,69.0,4.231884057971015,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Upon Premium 700ml
+717,165.0,39.0,4.230769230769231,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Mrs Premium 500ml
+2006,131.0,31.0,4.225806451612903,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Condition Đặc Biệt 700ml
+1822,97.0,23.0,4.217391304347826,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever These Thượng Hạng 100g
+596,118.0,28.0,4.214285714285714,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Move Thượng Hạng 500g
+1445,240.0,57.0,4.2105263157894735,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Candidate Đặc Biệt 500ml
+1723,101.0,24.0,4.208333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Have Thượng Hạng 500ml
+1172,122.0,29.0,4.206896551724138,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Weight Thượng Hạng 1L
+886,122.0,29.0,4.206896551724138,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Resource Đặc Biệt 100g
+1435,147.0,35.0,4.2,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Decade Premium 250ml
+1958,273.0,65.0,4.2,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Rather Đặc Biệt 700ml
+313,105.0,25.0,4.2,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Action Thượng Hạng 1kg
+495,172.0,41.0,4.195121951219512,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Say Premium 330ml
+1611,138.0,33.0,4.181818181818182,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Forward Premium 1L
+1093,142.0,34.0,4.176470588235294,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Value Premium 250ml
+582,167.0,40.0,4.175,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Fact Vị Mới 250ml
+891,321.0,77.0,4.1688311688311686,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Sign Đặc Biệt 100g
+1676,125.0,30.0,4.166666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Scene Vị Mới 100g
+557,158.0,38.0,4.157894736842105,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Significant Thượng Hạng 100g
+851,108.0,26.0,4.153846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Where Đặc Biệt 500g
+203,166.0,40.0,4.15,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Involve Thượng Hạng 1L
+1882,195.0,47.0,4.148936170212766,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Whom Vị Mới 250ml
+621,170.0,41.0,4.146341463414634,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Serve Đặc Biệt 330ml
+290,344.0,83.0,4.144578313253012,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Cell Đặc Biệt 500ml
+393,319.0,77.0,4.142857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Fill Dinh Dưỡng 700ml
+507,116.0,28.0,4.142857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Research Dinh Dưỡng 250ml
+1064,116.0,28.0,4.142857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Stay Dinh Dưỡng 250ml
+1105,207.0,50.0,4.14,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Forget Đặc Biệt 700ml
+7,153.0,37.0,4.135135135135135,Rủi ro cao: Tồn kho lớn so với doanh số,Nam Ngư Nước mắm 750ml
+1634,190.0,46.0,4.130434782608695,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Evening Vị Mới 100g
+1644,256.0,62.0,4.129032258064516,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Character Đặc Biệt 1kg
+400,70.0,17.0,4.117647058823529,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto The Thượng Hạng 1kg
+490,74.0,18.0,4.111111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Heavy Thượng Hạng 500g
+240,115.0,28.0,4.107142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever From Vị Mới 500g
+1087,275.0,67.0,4.104477611940299,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Technology Dinh Dưỡng 500ml
+1941,164.0,40.0,4.1,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Environment Thượng Hạng 1L
+724,205.0,50.0,4.1,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk North Dinh Dưỡng 500g
+523,172.0,42.0,4.095238095238095,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Budget Dinh Dưỡng 100g
+727,258.0,63.0,4.095238095238095,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Effect Vị Mới 100g
+37,90.0,22.0,4.090909090909091,Rủi ro cao: Tồn kho lớn so với doanh số,Vikoda Nước khoáng 1L
+922,143.0,35.0,4.085714285714285,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Former Vị Mới 1kg
+1615,159.0,39.0,4.076923076923077,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Table Dinh Dưỡng 1L
+1919,53.0,13.0,4.076923076923077,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Morning Dinh Dưỡng 500ml
+1975,395.0,97.0,4.072164948453608,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Financial Premium 500ml
+869,114.0,28.0,4.071428571428571,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Hotel Vị Mới 250ml
+1878,293.0,72.0,4.069444444444445,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Interest Vị Mới 330ml
+16,183.0,45.0,4.066666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Kokomi Mì gói 85g
+706,187.0,46.0,4.065217391304348,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Enough Dinh Dưỡng 250ml
+1287,134.0,33.0,4.0606060606060606,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Consider Thượng Hạng 500ml
+695,276.0,68.0,4.0588235294117645,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Certainly Thượng Hạng 500g
+1819,231.0,57.0,4.052631578947368,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Player Thượng Hạng 1L
+660,259.0,64.0,4.046875,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Then Đặc Biệt 1L
+1291,263.0,65.0,4.046153846153846,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Financial Dinh Dưỡng 100g
+458,178.0,44.0,4.045454545454546,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Civil Dinh Dưỡng 500ml
+1465,105.0,26.0,4.038461538461538,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Hotel Vị Mới 500g
+1862,165.0,41.0,4.024390243902439,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook After Thượng Hạng 250ml
+906,289.0,72.0,4.013888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Grow Vị Mới 500ml
+1260,116.0,29.0,4.0,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Become Premium 100g
+484,108.0,27.0,4.0,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Probably Premium 500ml
+376,128.0,32.0,4.0,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Medical Dinh Dưỡng 330ml
+856,72.0,18.0,4.0,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo That Dinh Dưỡng 100g
+1491,204.0,51.0,4.0,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Item Premium 250ml
+1666,172.0,43.0,4.0,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Start Dinh Dưỡng 700ml
+457,242.0,61.0,3.9672131147540983,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Democratic Dinh Dưỡng 500ml
+1964,103.0,26.0,3.9615384615384617,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Indicate Vị Mới 330ml
+1764,194.0,49.0,3.9591836734693877,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Teacher Vị Mới 1kg
+1600,91.0,23.0,3.9565217391304346,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Soldier Premium 500ml
+1146,146.0,37.0,3.945945945945946,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto At Premium 500g
+803,142.0,36.0,3.9444444444444446,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Soldier Dinh Dưỡng 330ml
+641,291.0,74.0,3.9324324324324325,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Executive Vị Mới 1L
+1119,405.0,103.0,3.9320388349514563,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Among Thượng Hạng 100g
+1125,259.0,66.0,3.9242424242424243,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Expert Premium 1L
+1089,199.0,51.0,3.9019607843137254,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Keep Premium 700ml
+216,277.0,71.0,3.9014084507042255,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Friend Vị Mới 330ml
+1394,152.0,39.0,3.8974358974358974,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Better Premium 250ml
+1384,222.0,57.0,3.8947368421052633,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Threat Thượng Hạng 700ml
+857,253.0,65.0,3.8923076923076922,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Change Premium 500g
+648,229.0,59.0,3.8813559322033897,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever About Dinh Dưỡng 500g
+728,128.0,33.0,3.878787878787879,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Growth Premium 250ml
+15,221.0,57.0,3.8771929824561404,Rủi ro cao: Tồn kho lớn so với doanh số,Kokomi Mì gói 75g
+1909,174.0,45.0,3.8666666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Meeting Đặc Biệt 330ml
+1518,201.0,52.0,3.8653846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo House Vị Mới 1L
+1061,332.0,86.0,3.86046511627907,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Chance Premium 100g
+705,162.0,42.0,3.857142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Who Đặc Biệt 500g
+485,104.0,27.0,3.8518518518518516,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Play Dinh Dưỡng 500ml
+1698,365.0,95.0,3.8421052631578947,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Debate Dinh Dưỡng 1kg
+1558,188.0,49.0,3.836734693877551,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Name Premium 1kg
+1993,46.0,12.0,3.8333333333333335,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Institution Dinh Dưỡng 500g
+444,333.0,87.0,3.8275862068965516,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Truth Đặc Biệt 700ml
+942,195.0,51.0,3.823529411764706,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Member Vị Mới 500g
+269,309.0,81.0,3.814814814814815,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Hear Thượng Hạng 250ml
+924,122.0,32.0,3.8125,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Significant Vị Mới 250ml
+1289,61.0,16.0,3.8125,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Maintain Vị Mới 250ml
+1870,263.0,69.0,3.8115942028985508,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Young Dinh Dưỡng 330ml
+127,160.0,42.0,3.8095238095238093,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Fire Vị Mới 330ml
+1017,118.0,31.0,3.806451612903226,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Five Vị Mới 1kg
+1821,129.0,34.0,3.7941176470588234,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Bag Premium 250ml
+1464,258.0,68.0,3.7941176470588234,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Democrat Đặc Biệt 250ml
+456,110.0,29.0,3.793103448275862,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Ask Dinh Dưỡng 100g
+1682,197.0,52.0,3.7884615384615383,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Wrong Thượng Hạng 500g
+1893,159.0,42.0,3.7857142857142856,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Experience Đặc Biệt 500g
+413,219.0,58.0,3.7758620689655173,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Executive Vị Mới 100g
+852,268.0,71.0,3.7746478873239435,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Accept Thượng Hạng 1L
+1076,79.0,21.0,3.761904761904762,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Indicate Thượng Hạng 330ml
+808,139.0,37.0,3.7567567567567566,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Nice Thượng Hạng 1kg
+1721,154.0,41.0,3.7560975609756095,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Live Đặc Biệt 500g
+1845,60.0,16.0,3.75,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Institution Thượng Hạng 700ml
+209,131.0,35.0,3.742857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Fear Vị Mới 250ml
+563,247.0,66.0,3.742424242424242,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Over Premium 100g
+1233,86.0,23.0,3.739130434782609,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Get Thượng Hạng 500ml
+165,310.0,83.0,3.7349397590361444,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Have Dinh Dưỡng 1L
+1829,216.0,58.0,3.7241379310344827,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Break Vị Mới 1L
+2022,134.0,36.0,3.7222222222222223,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Three Đặc Biệt 500g
+350,134.0,36.0,3.7222222222222223,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Small Dinh Dưỡng 1kg
+441,104.0,28.0,3.7142857142857144,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Ok Vị Mới 500g
+401,48.0,13.0,3.6923076923076925,Rủi ro cao: Tồn kho lớn so với doanh số,P&G During Premium 100g
+1269,70.0,19.0,3.6842105263157894,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Quite Dinh Dưỡng 100g
+1246,151.0,41.0,3.682926829268293,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Attention Thượng Hạng 1L
+91,162.0,44.0,3.6818181818181817,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Manager Thượng Hạng 1kg
+548,173.0,47.0,3.6808510638297873,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Rest Premium 330ml
+835,103.0,28.0,3.6785714285714284,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Ask Thượng Hạng 250ml
+1244,191.0,52.0,3.673076923076923,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Voice Thượng Hạng 500g
+252,99.0,27.0,3.6666666666666665,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Life Vị Mới 250ml
+535,121.0,33.0,3.6666666666666665,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Follow Thượng Hạng 700ml
+9,227.0,62.0,3.661290322580645,Rủi ro cao: Tồn kho lớn so với doanh số,Tam Thái Tử Nước tương 500ml
+585,106.0,29.0,3.6551724137931036,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Manage Thượng Hạng 500g
+291,204.0,56.0,3.642857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Heavy Premium 1kg
+567,102.0,28.0,3.642857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Official Vị Mới 700ml
+23,255.0,70.0,3.642857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Vinacafé Cà phê hòa tan 25 gói
+192,210.0,58.0,3.6206896551724137,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Even Vị Mới 330ml
+1357,76.0,21.0,3.619047619047619,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Moment Premium 1L
+947,141.0,39.0,3.6153846153846154,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Report Dinh Dưỡng 250ml
+1000,216.0,60.0,3.6,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Another Đặc Biệt 700ml
+1571,331.0,92.0,3.597826086956522,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Base Đặc Biệt 500ml
+258,266.0,74.0,3.5945945945945947,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Challenge Đặc Biệt 500ml
+513,158.0,44.0,3.590909090909091,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Research Premium 1kg
+1396,61.0,17.0,3.588235294117647,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Ago Thượng Hạng 330ml
+1738,207.0,58.0,3.5689655172413794,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Prevent Đặc Biệt 330ml
+1415,139.0,39.0,3.5641025641025643,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Owner Dinh Dưỡng 500ml
+1320,121.0,34.0,3.5588235294117645,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Collection Đặc Biệt 500g
+1417,224.0,63.0,3.5555555555555554,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Finally Dinh Dưỡng 500ml
+1406,238.0,67.0,3.5522388059701493,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Seek Premium 1L
+379,142.0,40.0,3.55,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Sell Thượng Hạng 250ml
+968,138.0,39.0,3.5384615384615383,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Around Premium 500g
+1424,145.0,41.0,3.5365853658536586,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Note Premium 250ml
+1209,113.0,32.0,3.53125,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Field Đặc Biệt 250ml
+270,113.0,32.0,3.53125,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Full Đặc Biệt 1L
+1651,187.0,53.0,3.5283018867924527,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Some Dinh Dưỡng 100g
+516,127.0,36.0,3.5277777777777777,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé City Vị Mới 500g
+780,148.0,42.0,3.5238095238095237,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Those Thượng Hạng 1L
+247,155.0,44.0,3.522727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Citizen Thượng Hạng 1kg
+2011,183.0,52.0,3.519230769230769,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Do Đặc Biệt 500g
+380,450.0,128.0,3.515625,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Commercial Đặc Biệt 700ml
+408,130.0,37.0,3.5135135135135136,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Chair Thượng Hạng 1L
+2012,137.0,39.0,3.5128205128205128,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Move Thượng Hạng 500g
+1631,207.0,59.0,3.5084745762711864,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Parent Thượng Hạng 1kg
+1934,238.0,68.0,3.5,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Dark Thượng Hạng 500ml
+1236,84.0,24.0,3.5,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Five Dinh Dưỡng 100g
+493,294.0,84.0,3.5,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Will Vị Mới 500g
+234,255.0,73.0,3.493150684931507,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Side Premium 330ml
+1929,185.0,53.0,3.490566037735849,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Quickly Vị Mới 700ml
+93,157.0,45.0,3.488888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Research Dinh Dưỡng 500ml
+626,244.0,70.0,3.4857142857142858,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Why Premium 250ml
+1702,212.0,61.0,3.4754098360655736,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Hope Vị Mới 1L
+584,184.0,53.0,3.4716981132075473,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Note Vị Mới 250ml
+10,246.0,71.0,3.464788732394366,Rủi ro cao: Tồn kho lớn so với doanh số,Tam Thái Tử Nước tương 750ml
+224,225.0,65.0,3.4615384615384617,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Upon Premium 500g
+654,152.0,44.0,3.4545454545454546,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Music Premium 100g
+1796,138.0,40.0,3.45,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Discover Vị Mới 500ml
+1832,93.0,27.0,3.4444444444444446,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk The Vị Mới 1L
+347,220.0,64.0,3.4375,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Back Premium 330ml
+1035,134.0,39.0,3.4358974358974357,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Stock Đặc Biệt 700ml
+423,347.0,101.0,3.4356435643564356,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Part Đặc Biệt 700ml
+526,113.0,33.0,3.4242424242424243,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Action Premium 500g
+540,178.0,52.0,3.423076923076923,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Discover Thượng Hạng 100g
+755,171.0,50.0,3.42,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Among Thượng Hạng 1kg
+27,198.0,58.0,3.413793103448276,Rủi ro cao: Tồn kho lớn so với doanh số,CHIN-SU Nước mắm 500ml
+1243,126.0,37.0,3.4054054054054053,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé History Dinh Dưỡng 1L
+1011,211.0,62.0,3.403225806451613,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Late Đặc Biệt 700ml
+1803,204.0,60.0,3.4,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Although Dinh Dưỡng 250ml
+1103,78.0,23.0,3.391304347826087,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Wish Vị Mới 1L
+1731,183.0,54.0,3.388888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Eye Dinh Dưỡng 1L
+32,125.0,37.0,3.3783783783783785,Rủi ro cao: Tồn kho lớn so với doanh số,Ponnie Xúc xích 500g
+678,313.0,93.0,3.3655913978494625,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Move Dinh Dưỡng 250ml
+1296,111.0,33.0,3.3636363636363638,Rủi ro cao: Tồn kho lớn so với doanh số,P&G History Vị Mới 330ml
+807,121.0,36.0,3.361111111111111,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé There Đặc Biệt 500g
+477,168.0,50.0,3.36,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Support Premium 500ml
+72,215.0,64.0,3.359375,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Standard Premium 1kg
+1044,141.0,42.0,3.357142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Sport Premium 700ml
+1026,77.0,23.0,3.347826086956522,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Magazine Thượng Hạng 1L
+304,97.0,29.0,3.3448275862068964,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Left Thượng Hạng 500g
+1722,120.0,36.0,3.3333333333333335,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk History Thượng Hạng 1L
+1094,110.0,33.0,3.3333333333333335,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk By Thượng Hạng 1L
+896,203.0,61.0,3.3278688524590163,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Buy Vị Mới 1L
+1679,153.0,46.0,3.3260869565217392,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Sit Dinh Dưỡng 1L
+1012,133.0,40.0,3.325,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Yes Thượng Hạng 100g
+574,106.0,32.0,3.3125,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Important Premium 330ml
+649,396.0,120.0,3.3,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Speak Dinh Dưỡng 330ml
+1309,270.0,82.0,3.292682926829268,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Travel Thượng Hạng 700ml
+627,135.0,41.0,3.292682926829268,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Ok Dinh Dưỡng 1L
+943,59.0,18.0,3.2777777777777777,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Maintain Thượng Hạng 100g
+1366,95.0,29.0,3.2758620689655173,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Could Thượng Hạng 100g
+1186,108.0,33.0,3.272727272727273,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Opportunity Dinh Dưỡng 1kg
+726,114.0,35.0,3.257142857142857,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Box Thượng Hạng 500g
+506,127.0,39.0,3.2564102564102564,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Compare Thượng Hạng 1kg
+552,478.0,147.0,3.251700680272109,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk News Dinh Dưỡng 700ml
+157,104.0,32.0,3.25,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Operation Vị Mới 500g
+445,130.0,40.0,3.25,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Ever Vị Mới 100g
+637,213.0,66.0,3.227272727272727,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Total Dinh Dưỡng 500ml
+521,116.0,36.0,3.2222222222222223,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Town Vị Mới 1L
+1805,164.0,51.0,3.215686274509804,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Father Đặc Biệt 1kg
+1547,135.0,42.0,3.2142857142857144,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Never Premium 100g
+1800,241.0,75.0,3.2133333333333334,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Society Dinh Dưỡng 1L
+609,106.0,33.0,3.212121212121212,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Commercial Dinh Dưỡng 500g
+556,167.0,52.0,3.2115384615384617,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Tell Đặc Biệt 1L
+666,244.0,76.0,3.210526315789474,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Foreign Vị Mới 100g
+638,67.0,21.0,3.1904761904761907,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Pm Vị Mới 100g
+830,287.0,90.0,3.188888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk His Thượng Hạng 500g
+579,102.0,32.0,3.1875,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Few Vị Mới 500ml
+734,105.0,33.0,3.1818181818181817,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Pattern Premium 250ml
+24,105.0,33.0,3.1818181818181817,Rủi ro cao: Tồn kho lớn so với doanh số,Wake-Up 247 Nước tăng lực 240ml
+254,194.0,61.0,3.180327868852459,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Cultural Premium 100g
+1693,108.0,34.0,3.176470588235294,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Stuff Đặc Biệt 250ml
+1545,146.0,46.0,3.1739130434782608,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Film Đặc Biệt 1kg
+848,184.0,58.0,3.1724137931034484,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Note Dinh Dưỡng 500ml
+1657,111.0,35.0,3.1714285714285713,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Why Thượng Hạng 1L
+1003,111.0,35.0,3.1714285714285713,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Surface Thượng Hạng 250ml
+657,111.0,35.0,3.1714285714285713,Rủi ro cao: Tồn kho lớn so với doanh số,Ajinomoto Tonight Thượng Hạng 500g
+200,152.0,48.0,3.1666666666666665,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Beat Premium 500g
+1359,117.0,37.0,3.1621621621621623,Rủi ro cao: Tồn kho lớn so với doanh số,TH True Milk Check Premium 100g
+1504,101.0,32.0,3.15625,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Carry Thượng Hạng 330ml
+113,63.0,20.0,3.15,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Cause Thượng Hạng 500ml
+199,211.0,67.0,3.1492537313432836,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Whatever Vị Mới 100g
+689,129.0,41.0,3.1463414634146343,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Understand Đặc Biệt 330ml
+1454,66.0,21.0,3.142857142857143,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Seek Vị Mới 700ml
+440,47.0,15.0,3.1333333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Language Thượng Hạng 250ml
+1166,97.0,31.0,3.129032258064516,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Rest Premium 1kg
+1655,131.0,42.0,3.119047619047619,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Here Dinh Dưỡng 500ml
+329,146.0,47.0,3.106382978723404,Rủi ro cao: Tồn kho lớn so với doanh số,Acecook Imagine Dinh Dưỡng 500g
+1824,232.0,75.0,3.0933333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Way Premium 700ml
+1529,139.0,45.0,3.088888888888889,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Friend Premium 330ml
+1968,108.0,35.0,3.085714285714286,Rủi ro cao: Tồn kho lớn so với doanh số,P&G View Vị Mới 250ml
+41,188.0,61.0,3.081967213114754,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Republican Vị Mới 700ml
+1910,117.0,38.0,3.0789473684210527,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Recent Thượng Hạng 700ml
+954,83.0,27.0,3.074074074074074,Rủi ro cao: Tồn kho lớn so với doanh số,Unilever Task Vị Mới 500g
+1259,43.0,14.0,3.0714285714285716,Rủi ro cao: Tồn kho lớn so với doanh số,Nestlé Again Dinh Dưỡng 1kg
+187,86.0,28.0,3.0714285714285716,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Them Vị Mới 1L
+1856,46.0,15.0,3.066666666666667,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Figure Premium 250ml
+125,95.0,31.0,3.064516129032258,Rủi ro cao: Tồn kho lớn so với doanh số,Vinamilk Step Thượng Hạng 250ml
+1630,297.0,97.0,3.0618556701030926,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Ask Đặc Biệt 100g
+522,125.0,41.0,3.048780487804878,Rủi ro cao: Tồn kho lớn so với doanh số,P&G Often Thượng Hạng 1kg
+1056,91.0,30.0,3.033333333333333,Rủi ro cao: Tồn kho lớn so với doanh số,PepsiCo Own Dinh Dưỡng 1L
+208,148.0,49.0,3.020408163265306,Rủi ro cao: Tồn kho lớn so với doanh số,Suntory Whom Vị Mới 500g
+692,181.0,60.0,3.0166666666666666,Rủi ro cao: Tồn kho lớn so với doanh số,Orion Later Vị Mới 330ml
+74,159.0,53.0,3.0,Theo dõi: Có thể dư hàng,P&G They Premium 330ml
+801,153.0,51.0,3.0,Theo dõi: Có thể dư hàng,TH True Milk Need Vị Mới 330ml
+560,63.0,21.0,3.0,Theo dõi: Có thể dư hàng,Vinamilk Positive Vị Mới 1L
+562,72.0,24.0,3.0,Theo dõi: Có thể dư hàng,TH True Milk Realize Thượng Hạng 500ml
+940,225.0,75.0,3.0,Theo dõi: Có thể dư hàng,Ajinomoto Now Premium 330ml
+1931,298.0,100.0,2.98,Theo dõi: Có thể dư hàng,P&G Feeling Thượng Hạng 500ml
+992,95.0,32.0,2.96875,Theo dõi: Có thể dư hàng,Nestlé Eat Dinh Dưỡng 500ml
+1946,127.0,43.0,2.953488372093023,Theo dõi: Có thể dư hàng,Suntory Theory Dinh Dưỡng 250ml
+383,112.0,38.0,2.9473684210526314,Theo dõi: Có thể dư hàng,Orion Final Vị Mới 100g
+1433,44.0,15.0,2.933333333333333,Theo dõi: Có thể dư hàng,Unilever Risk Đặc Biệt 500ml
+99,217.0,74.0,2.9324324324324325,Theo dõi: Có thể dư hàng,TH True Milk Compare Premium 500ml
+1861,173.0,59.0,2.9322033898305087,Theo dõi: Có thể dư hàng,Ajinomoto Bill Dinh Dưỡng 1L
+114,214.0,73.0,2.9315068493150687,Theo dõi: Có thể dư hàng,TH True Milk Send Thượng Hạng 1kg
+1237,85.0,29.0,2.9310344827586206,Theo dõi: Có thể dư hàng,Acecook Provide Vị Mới 700ml
+1814,158.0,54.0,2.925925925925926,Theo dõi: Có thể dư hàng,Suntory Cut Vị Mới 1kg
+178,111.0,38.0,2.9210526315789473,Theo dõi: Có thể dư hàng,Acecook Chance Đặc Biệt 250ml
+1144,134.0,46.0,2.9130434782608696,Theo dõi: Có thể dư hàng,Unilever Value Vị Mới 1L
+46,166.0,57.0,2.912280701754386,Theo dõi: Có thể dư hàng,Acecook Impact Đặc Biệt 500ml
+1247,163.0,56.0,2.9107142857142856,Theo dõi: Có thể dư hàng,Acecook Color Premium 500g
+1653,215.0,74.0,2.9054054054054053,Theo dõi: Có thể dư hàng,TH True Milk Fund Premium 500ml
+67,212.0,73.0,2.904109589041096,Theo dõi: Có thể dư hàng,Acecook Month Dinh Dưỡng 500ml
+1974,302.0,104.0,2.9038461538461537,Theo dõi: Có thể dư hàng,Vinamilk Despite Dinh Dưỡng 330ml
+812,116.0,40.0,2.9,Theo dõi: Có thể dư hàng,PepsiCo Mean Dinh Dưỡng 1kg
+715,101.0,35.0,2.8857142857142857,Theo dõi: Có thể dư hàng,TH True Milk Everyone Đặc Biệt 250ml
+245,144.0,50.0,2.88,Theo dõi: Có thể dư hàng,PepsiCo Somebody Dinh Dưỡng 1kg
+813,46.0,16.0,2.875,Theo dõi: Có thể dư hàng,Suntory Single Dinh Dưỡng 250ml
+1344,69.0,24.0,2.875,Theo dõi: Có thể dư hàng,Nestlé Person Thượng Hạng 330ml
+1781,92.0,32.0,2.875,Theo dõi: Có thể dư hàng,Nestlé Level Đặc Biệt 250ml
+1267,198.0,69.0,2.869565217391304,Theo dõi: Có thể dư hàng,P&G Student Vị Mới 500ml
+1156,86.0,30.0,2.8666666666666667,Theo dõi: Có thể dư hàng,P&G Management Dinh Dưỡng 1kg
+1918,123.0,43.0,2.86046511627907,Theo dõi: Có thể dư hàng,Unilever Far Thượng Hạng 1L
+1903,200.0,70.0,2.857142857142857,Theo dõi: Có thể dư hàng,Vinamilk Medical Thượng Hạng 500g
+248,120.0,42.0,2.857142857142857,Theo dõi: Có thể dư hàng,Nestlé Traditional Dinh Dưỡng 250ml
+1364,40.0,14.0,2.857142857142857,Theo dõi: Có thể dư hàng,Suntory Suffer Premium 330ml
+575,137.0,48.0,2.8541666666666665,Theo dõi: Có thể dư hàng,Suntory Themselves Vị Mới 500ml
+123,251.0,88.0,2.852272727272727,Theo dõi: Có thể dư hàng,Orion Positive Dinh Dưỡng 250ml
+826,57.0,20.0,2.85,Theo dõi: Có thể dư hàng,TH True Milk Prepare Vị Mới 100g
+108,296.0,104.0,2.8461538461538463,Theo dõi: Có thể dư hàng,P&G Woman Vị Mới 1kg
+1389,108.0,38.0,2.8421052631578947,Theo dõi: Có thể dư hàng,P&G Sort Premium 500g
+1370,204.0,72.0,2.8333333333333335,Theo dõi: Có thể dư hàng,Orion Performance Vị Mới 700ml
+1430,130.0,46.0,2.8260869565217392,Theo dõi: Có thể dư hàng,P&G Child Đặc Biệt 330ml
+708,161.0,57.0,2.824561403508772,Theo dõi: Có thể dư hàng,Suntory Sound Premium 1kg
+1932,124.0,44.0,2.8181818181818183,Theo dõi: Có thể dư hàng,Orion Major Premium 700ml
+1777,101.0,36.0,2.8055555555555554,Theo dõi: Có thể dư hàng,Orion Near Thượng Hạng 500ml
+1358,202.0,72.0,2.8055555555555554,Theo dõi: Có thể dư hàng,TH True Milk Maintain Thượng Hạng 100g
+1232,28.0,10.0,2.8,Theo dõi: Có thể dư hàng,Acecook Policy Dinh Dưỡng 1L
+1838,84.0,30.0,2.8,Theo dõi: Có thể dư hàng,Suntory Technology Dinh Dưỡng 100g
+1511,109.0,39.0,2.7948717948717947,Theo dõi: Có thể dư hàng,P&G Million Đặc Biệt 100g
+1326,81.0,29.0,2.793103448275862,Theo dõi: Có thể dư hàng,Orion Later Đặc Biệt 1kg
+162,251.0,90.0,2.7888888888888888,Theo dõi: Có thể dư hàng,Nestlé Your Dinh Dưỡng 100g
+1178,78.0,28.0,2.7857142857142856,Theo dõi: Có thể dư hàng,P&G Store Dinh Dưỡng 1L
+1422,64.0,23.0,2.782608695652174,Theo dõi: Có thể dư hàng,P&G Republican Dinh Dưỡng 100g
+1587,64.0,23.0,2.782608695652174,Theo dõi: Có thể dư hàng,Vinamilk Level Dinh Dưỡng 330ml
+363,164.0,59.0,2.7796610169491527,Theo dõi: Có thể dư hàng,Suntory Us Premium 100g
+1493,75.0,27.0,2.7777777777777777,Theo dõi: Có thể dư hàng,Vinamilk Sit Vị Mới 700ml
+1369,111.0,40.0,2.775,Theo dõi: Có thể dư hàng,P&G Three Đặc Biệt 330ml
+261,122.0,44.0,2.772727272727273,Theo dõi: Có thể dư hàng,P&G Future Đặc Biệt 500g
+1182,83.0,30.0,2.7666666666666666,Theo dõi: Có thể dư hàng,Acecook Senior Premium 700ml
+1122,102.0,37.0,2.7567567567567566,Theo dõi: Có thể dư hàng,Orion Bank Thượng Hạng 100g
+959,99.0,36.0,2.75,Theo dõi: Có thể dư hàng,Nestlé On Premium 700ml
+1075,129.0,47.0,2.74468085106383,Theo dõi: Có thể dư hàng,TH True Milk Throughout Premium 1L
+503,148.0,54.0,2.740740740740741,Theo dõi: Có thể dư hàng,Suntory Dark Vị Mới 500ml
+227,74.0,27.0,2.740740740740741,Theo dõi: Có thể dư hàng,Suntory Hear Thượng Hạng 1kg
+986,93.0,34.0,2.735294117647059,Theo dõi: Có thể dư hàng,Ajinomoto Worry Vị Mới 330ml
+964,155.0,57.0,2.719298245614035,Theo dõi: Có thể dư hàng,P&G Unit Đặc Biệt 1L
+854,171.0,63.0,2.7142857142857144,Theo dõi: Có thể dư hàng,Orion Skill Dinh Dưỡng 700ml
+945,38.0,14.0,2.7142857142857144,Theo dõi: Có thể dư hàng,Unilever Nor Dinh Dưỡng 1L
+719,122.0,45.0,2.7111111111111112,Theo dõi: Có thể dư hàng,TH True Milk Network Đặc Biệt 330ml
+1051,121.0,45.0,2.688888888888889,Theo dõi: Có thể dư hàng,TH True Milk Life Vị Mới 700ml
+160,40.0,15.0,2.6666666666666665,Theo dõi: Có thể dư hàng,Nestlé Keep Vị Mới 700ml
+343,93.0,35.0,2.657142857142857,Theo dõi: Có thể dư hàng,Unilever Writer Đặc Biệt 100g
+1892,103.0,39.0,2.641025641025641,Theo dõi: Có thể dư hàng,Nestlé Leader Vị Mới 500g
+1868,166.0,63.0,2.634920634920635,Theo dõi: Có thể dư hàng,Orion Director Premium 1L
+321,184.0,70.0,2.6285714285714286,Theo dõi: Có thể dư hàng,P&G Word Vị Mới 500ml
+1356,260.0,99.0,2.6262626262626263,Theo dõi: Có thể dư hàng,Suntory Upon Đặc Biệt 500g
+1285,189.0,72.0,2.625,Theo dõi: Có thể dư hàng,TH True Milk Stock Thượng Hạng 1kg
+1970,97.0,37.0,2.6216216216216215,Theo dõi: Có thể dư hàng,TH True Milk Decision Vị Mới 250ml
+1840,76.0,29.0,2.6206896551724137,Theo dõi: Có thể dư hàng,Ajinomoto Goal Thượng Hạng 330ml
+604,224.0,86.0,2.604651162790698,Theo dõi: Có thể dư hàng,PepsiCo So Đặc Biệt 500ml
+1032,190.0,73.0,2.6027397260273974,Theo dõi: Có thể dư hàng,P&G Indicate Vị Mới 1L
+976,96.0,37.0,2.5945945945945947,Theo dõi: Có thể dư hàng,TH True Milk Meet Dinh Dưỡng 250ml
+864,179.0,69.0,2.5942028985507246,Theo dõi: Có thể dư hàng,Unilever Structure Dinh Dưỡng 700ml
+1205,62.0,24.0,2.5833333333333335,Theo dõi: Có thể dư hàng,Ajinomoto Example Dinh Dưỡng 1kg
+1439,93.0,36.0,2.5833333333333335,Theo dõi: Có thể dư hàng,Orion Opportunity Premium 500g
+781,111.0,43.0,2.5813953488372094,Theo dõi: Có thể dư hàng,Orion Prepare Đặc Biệt 1L
+629,111.0,43.0,2.5813953488372094,Theo dõi: Có thể dư hàng,Suntory Across Đặc Biệt 500ml
+85,160.0,62.0,2.5806451612903225,Theo dõi: Có thể dư hàng,Acecook Thought Dinh Dưỡng 500ml
+622,129.0,50.0,2.58,Theo dõi: Có thể dư hàng,TH True Milk A Đặc Biệt 100g
+659,129.0,50.0,2.58,Theo dõi: Có thể dư hàng,TH True Milk View Vị Mới 1L
+1924,49.0,19.0,2.5789473684210527,Theo dõi: Có thể dư hàng,Acecook Must Premium 500g
+1279,116.0,45.0,2.577777777777778,Theo dõi: Có thể dư hàng,Orion Professional Đặc Biệt 100g
+121,85.0,33.0,2.5757575757575757,Theo dõi: Có thể dư hàng,PepsiCo Child Thượng Hạng 500g
+720,72.0,28.0,2.5714285714285716,Theo dõi: Có thể dư hàng,PepsiCo Unit Đặc Biệt 1kg
+80,72.0,28.0,2.5714285714285716,Theo dõi: Có thể dư hàng,PepsiCo Brother Dinh Dưỡng 250ml
+1403,113.0,44.0,2.5681818181818183,Theo dõi: Có thể dư hàng,Orion Long Thượng Hạng 330ml
+494,77.0,30.0,2.566666666666667,Theo dõi: Có thể dư hàng,Acecook Letter Premium 100g
+772,179.0,70.0,2.557142857142857,Theo dõi: Có thể dư hàng,TH True Milk Relate Thượng Hạng 500ml
+103,217.0,85.0,2.552941176470588,Theo dõi: Có thể dư hàng,Vinamilk Especially Dinh Dưỡng 330ml
+822,97.0,38.0,2.5526315789473686,Theo dõi: Có thể dư hàng,Vinamilk Very Đặc Biệt 700ml
+739,74.0,29.0,2.5517241379310347,Theo dõi: Có thể dư hàng,Acecook Relationship Dinh Dưỡng 500ml
+670,53.0,21.0,2.5238095238095237,Theo dõi: Có thể dư hàng,TH True Milk Board Dinh Dưỡng 700ml
+667,141.0,56.0,2.517857142857143,Theo dõi: Có thể dư hàng,P&G Send Dinh Dưỡng 700ml
+1183,278.0,111.0,2.5045045045045047,Theo dõi: Có thể dư hàng,Ajinomoto Condition Vị Mới 500g
+863,50.0,20.0,2.5,Theo dõi: Có thể dư hàng,P&G Out Vị Mới 700ml
+1614,140.0,56.0,2.5,Theo dõi: Có thể dư hàng,TH True Milk Big Vị Mới 330ml
+753,90.0,36.0,2.5,Theo dõi: Có thể dư hàng,Vinamilk Learn Đặc Biệt 250ml
+1139,107.0,43.0,2.488372093023256,Theo dõi: Có thể dư hàng,P&G Rather Premium 330ml
+307,92.0,37.0,2.4864864864864864,Theo dõi: Có thể dư hàng,P&G Computer Đặc Biệt 250ml
+866,181.0,73.0,2.4794520547945207,Theo dõi: Có thể dư hàng,TH True Milk Administration Thượng Hạng 1L
+618,52.0,21.0,2.4761904761904763,Theo dõi: Có thể dư hàng,Vinamilk A Đặc Biệt 1kg
+991,84.0,34.0,2.4705882352941178,Theo dõi: Có thể dư hàng,Vinamilk Box Premium 1kg
+1637,158.0,64.0,2.46875,Theo dõi: Có thể dư hàng,Vinamilk That Thượng Hạng 500ml
+1922,116.0,47.0,2.4680851063829787,Theo dõi: Có thể dư hàng,Acecook Study Thượng Hạng 1L
+827,101.0,41.0,2.4634146341463414,Theo dõi: Có thể dư hàng,Orion Establish Vị Mới 1kg
+1083,209.0,85.0,2.458823529411765,Theo dõi: Có thể dư hàng,Suntory Far Thượng Hạng 1L
+35,113.0,46.0,2.4565217391304346,Theo dõi: Có thể dư hàng,Vikoda Nước khoáng 350ml
+1768,140.0,57.0,2.456140350877193,Theo dõi: Có thể dư hàng,Suntory Dream Thượng Hạng 100g
+1576,108.0,44.0,2.4545454545454546,Theo dõi: Có thể dư hàng,TH True Milk Friend Thượng Hạng 250ml
+1349,183.0,75.0,2.44,Theo dõi: Có thể dư hàng,Ajinomoto Probably Thượng Hạng 1kg
+1806,155.0,64.0,2.421875,Theo dõi: Có thể dư hàng,Nestlé Subject Dinh Dưỡng 1L
+737,133.0,55.0,2.418181818181818,Theo dõi: Có thể dư hàng,Acecook Back Vị Mới 1kg
+427,41.0,17.0,2.411764705882353,Theo dõi: Có thể dư hàng,Ajinomoto What Đặc Biệt 250ml
+1375,135.0,56.0,2.4107142857142856,Theo dõi: Có thể dư hàng,Acecook Sit Dinh Dưỡng 700ml
+736,53.0,22.0,2.409090909090909,Theo dõi: Có thể dư hàng,Suntory Investment Thượng Hạng 100g
+1828,77.0,32.0,2.40625,Theo dõi: Có thể dư hàng,TH True Milk Letter Premium 100g
+511,84.0,35.0,2.4,Theo dõi: Có thể dư hàng,Vinamilk Fill Dinh Dưỡng 700ml
+443,91.0,38.0,2.3947368421052633,Theo dõi: Có thể dư hàng,Ajinomoto Stage Đặc Biệt 100g
+394,153.0,64.0,2.390625,Theo dõi: Có thể dư hàng,PepsiCo Change Thượng Hạng 1L
+650,150.0,63.0,2.380952380952381,Theo dõi: Có thể dư hàng,Acecook Student Dinh Dưỡng 500ml
+913,121.0,51.0,2.372549019607843,Theo dõi: Có thể dư hàng,Vinamilk Mouth Vị Mới 250ml
+1219,116.0,49.0,2.36734693877551,Theo dõi: Có thể dư hàng,Nestlé Shoulder Premium 500g
+305,137.0,58.0,2.3620689655172415,Theo dõi: Có thể dư hàng,Orion Foreign Dinh Dưỡng 1kg
+198,118.0,50.0,2.36,Theo dõi: Có thể dư hàng,P&G Medical Vị Mới 1kg
+112,148.0,63.0,2.3492063492063493,Theo dõi: Có thể dư hàng,PepsiCo Age Thượng Hạng 100g
+1318,155.0,66.0,2.3484848484848486,Theo dõi: Có thể dư hàng,Acecook Lawyer Thượng Hạng 1kg
+260,108.0,46.0,2.347826086956522,Theo dõi: Có thể dư hàng,TH True Milk Offer Premium 700ml
+1873,82.0,35.0,2.342857142857143,Theo dõi: Có thể dư hàng,Unilever Hour Đặc Biệt 1kg
+1593,222.0,95.0,2.336842105263158,Theo dõi: Có thể dư hàng,TH True Milk Between Dinh Dưỡng 330ml
+251,70.0,30.0,2.3333333333333335,Theo dõi: Có thể dư hàng,P&G Science Vị Mới 500g
+1408,49.0,21.0,2.3333333333333335,Theo dõi: Có thể dư hàng,Nestlé Piece Dinh Dưỡng 330ml
+1191,70.0,30.0,2.3333333333333335,Theo dõi: Có thể dư hàng,P&G Thousand Thượng Hạng 250ml
+1499,28.0,12.0,2.3333333333333335,Theo dõi: Có thể dư hàng,Suntory Financial Thượng Hạng 500g
+967,116.0,50.0,2.32,Theo dõi: Có thể dư hàng,Vinamilk Age Thượng Hạng 100g
+962,51.0,22.0,2.3181818181818183,Theo dõi: Có thể dư hàng,PepsiCo American Dinh Dưỡng 250ml
+639,162.0,70.0,2.3142857142857145,Theo dõi: Có thể dư hàng,Nestlé Learn Thượng Hạng 330ml
+559,104.0,45.0,2.311111111111111,Theo dõi: Có thể dư hàng,Suntory Home Vị Mới 330ml
+1492,46.0,20.0,2.3,Theo dõi: Có thể dư hàng,TH True Milk Control Thượng Hạng 1L
+704,85.0,37.0,2.2972972972972974,Theo dõi: Có thể dư hàng,Suntory Explain Dinh Dưỡng 250ml
+973,62.0,27.0,2.2962962962962963,Theo dõi: Có thể dư hàng,Acecook Less Premium 700ml
+524,87.0,38.0,2.289473684210526,Theo dõi: Có thể dư hàng,Nestlé Why Thượng Hạng 500ml
+1471,98.0,43.0,2.2790697674418605,Theo dõi: Có thể dư hàng,Suntory Where Premium 330ml
+45,102.0,45.0,2.2666666666666666,Theo dõi: Có thể dư hàng,Nestlé Item Đặc Biệt 100g
+1455,124.0,55.0,2.2545454545454544,Theo dõi: Có thể dư hàng,Suntory Away Dinh Dưỡng 250ml
+1756,56.0,25.0,2.24,Theo dõi: Có thể dư hàng,Vinamilk Network Thượng Hạng 500g
+1352,199.0,89.0,2.235955056179775,Theo dõi: Có thể dư hàng,Nestlé Thousand Premium 500g
+1543,111.0,50.0,2.22,Theo dõi: Có thể dư hàng,Orion Water Đặc Biệt 100g
+515,102.0,46.0,2.217391304347826,Theo dõi: Có thể dư hàng,Vinamilk Individual Thượng Hạng 1kg
+25,115.0,52.0,2.2115384615384617,Theo dõi: Có thể dư hàng,Wake-Up 247 Nước tăng lực 330ml
+1648,84.0,38.0,2.210526315789474,Theo dõi: Có thể dư hàng,Suntory General Thượng Hạng 500ml
+926,75.0,34.0,2.2058823529411766,Theo dõi: Có thể dư hàng,P&G Actually Vị Mới 700ml
+1355,86.0,39.0,2.2051282051282053,Theo dõi: Có thể dư hàng,Vinamilk Election Premium 700ml
+279,134.0,61.0,2.19672131147541,Theo dõi: Có thể dư hàng,Ajinomoto Three Vị Mới 500ml
+1304,136.0,62.0,2.193548387096774,Theo dõi: Có thể dư hàng,Suntory Relate Đặc Biệt 500g
+242,173.0,79.0,2.189873417721519,Theo dõi: Có thể dư hàng,Unilever Concern Thượng Hạng 250ml
+1580,116.0,53.0,2.188679245283019,Theo dõi: Có thể dư hàng,Acecook Source Vị Mới 100g
+446,70.0,32.0,2.1875,Theo dõi: Có thể dư hàng,Acecook Participant Dinh Dưỡng 250ml
+315,129.0,59.0,2.1864406779661016,Theo dõi: Có thể dư hàng,TH True Milk Baby Premium 500ml
+1696,94.0,43.0,2.186046511627907,Theo dõi: Có thể dư hàng,Acecook Mind Dinh Dưỡng 500g
+129,59.0,27.0,2.185185185185185,Theo dõi: Có thể dư hàng,Nestlé Contain Thượng Hạng 700ml
+1638,131.0,60.0,2.183333333333333,Theo dõi: Có thể dư hàng,PepsiCo Interest Premium 700ml
+937,72.0,33.0,2.1818181818181817,Theo dõi: Có thể dư hàng,Acecook Night Thượng Hạng 500ml
+1620,113.0,52.0,2.173076923076923,Theo dõi: Có thể dư hàng,Nestlé Get Vị Mới 330ml
+481,89.0,41.0,2.1707317073170733,Theo dõi: Có thể dư hàng,Suntory While Vị Mới 330ml
+55,141.0,65.0,2.169230769230769,Theo dõi: Có thể dư hàng,Suntory Military Đặc Biệt 700ml
+164,145.0,67.0,2.1641791044776117,Theo dõi: Có thể dư hàng,P&G Month Vị Mới 500ml
+1930,119.0,55.0,2.1636363636363636,Theo dõi: Có thể dư hàng,Nestlé Dream Thượng Hạng 500ml
+834,69.0,32.0,2.15625,Theo dõi: Có thể dư hàng,Suntory Capital Đặc Biệt 250ml
+73,122.0,57.0,2.1403508771929824,Theo dõi: Có thể dư hàng,Ajinomoto Water Vị Mới 100g
+999,154.0,72.0,2.138888888888889,Theo dõi: Có thể dư hàng,Acecook Serve Dinh Dưỡng 1L
+817,111.0,52.0,2.1346153846153846,Theo dõi: Có thể dư hàng,Suntory Soldier Vị Mới 1kg
+179,113.0,53.0,2.1320754716981134,Theo dõi: Có thể dư hàng,Ajinomoto Why Vị Mới 1kg
+151,85.0,40.0,2.125,Theo dõi: Có thể dư hàng,TH True Milk Discussion Thượng Hạng 330ml
+1446,89.0,42.0,2.119047619047619,Theo dõi: Có thể dư hàng,Acecook Note Đặc Biệt 500g
+549,110.0,52.0,2.1153846153846154,Theo dõi: Có thể dư hàng,TH True Milk Now Dinh Dưỡng 500g
+1068,165.0,78.0,2.1153846153846154,Theo dõi: Có thể dư hàng,Orion Authority Vị Mới 700ml
+273,57.0,27.0,2.111111111111111,Theo dõi: Có thể dư hàng,Unilever Another Premium 1L
+175,116.0,55.0,2.109090909090909,Theo dõi: Có thể dư hàng,Vinamilk Stop Vị Mới 330ml
+368,80.0,38.0,2.1052631578947367,Theo dõi: Có thể dư hàng,PepsiCo High Đặc Biệt 500ml
+972,84.0,40.0,2.1,Theo dõi: Có thể dư hàng,Vinamilk Approach Vị Mới 1kg
+1694,107.0,51.0,2.0980392156862746,Theo dõi: Có thể dư hàng,Vinamilk Ever Dinh Dưỡng 1L
+512,65.0,31.0,2.096774193548387,Theo dõi: Có thể dư hàng,PepsiCo House Thượng Hạng 500ml
+1467,153.0,73.0,2.095890410958904,Theo dõi: Có thể dư hàng,Vinamilk Sign Thượng Hạng 500g
+83,113.0,54.0,2.0925925925925926,Theo dõi: Có thể dư hàng,PepsiCo Occur Vị Mới 250ml
+995,117.0,56.0,2.0892857142857144,Theo dõi: Có thể dư hàng,Ajinomoto Southern Vị Mới 330ml
+1809,71.0,34.0,2.088235294117647,Theo dõi: Có thể dư hàng,Ajinomoto Energy Vị Mới 700ml
+30,73.0,35.0,2.085714285714286,Theo dõi: Có thể dư hàng,Ponnie Xúc xích 200g
+1652,179.0,86.0,2.0813953488372094,Theo dõi: Có thể dư hàng,Orion Word Vị Mới 500g
+1160,136.0,66.0,2.0606060606060606,Theo dõi: Có thể dư hàng,Acecook Great Thượng Hạng 500ml
+2024,35.0,17.0,2.0588235294117645,Theo dõi: Có thể dư hàng,Ajinomoto Glass Đặc Biệt 500g
+1864,117.0,57.0,2.0526315789473686,Theo dõi: Có thể dư hàng,Unilever Else Vị Mới 1L
+1869,82.0,40.0,2.05,Theo dõi: Có thể dư hàng,Vinamilk Back Đặc Biệt 1L
+1563,86.0,42.0,2.0476190476190474,Theo dõi: Có thể dư hàng,Suntory Sea Vị Mới 500g
+57,45.0,22.0,2.0454545454545454,Theo dõi: Có thể dư hàng,Suntory Best Premium 250ml
+1921,53.0,26.0,2.0384615384615383,Theo dõi: Có thể dư hàng,TH True Milk Beautiful Dinh Dưỡng 330ml
+1133,110.0,54.0,2.037037037037037,Theo dõi: Có thể dư hàng,PepsiCo Cultural Đặc Biệt 100g
+757,61.0,30.0,2.033333333333333,Theo dõi: Có thể dư hàng,Nestlé Inside Đặc Biệt 500g
+938,65.0,32.0,2.03125,Theo dõi: Có thể dư hàng,TH True Milk Throw Vị Mới 700ml
+1887,142.0,70.0,2.0285714285714285,Theo dõi: Có thể dư hàng,Unilever Phone Premium 700ml
+693,71.0,35.0,2.0285714285714285,Theo dõi: Có thể dư hàng,Orion Table Đặc Biệt 1kg
+1341,103.0,51.0,2.019607843137255,Theo dõi: Có thể dư hàng,TH True Milk State Premium 100g
+153,109.0,54.0,2.0185185185185186,Theo dõi: Có thể dư hàng,Ajinomoto Line Thượng Hạng 250ml
+1533,58.0,29.0,2.0,Theo dõi: Có thể dư hàng,Unilever East Vị Mới 1L
+1790,64.0,32.0,2.0,Theo dõi: Có thể dư hàng,Unilever Run Vị Mới 1kg
+205,52.0,26.0,2.0,Theo dõi: Có thể dư hàng,Nestlé Guy Đặc Biệt 500g
+2029,193.0,97.0,1.9896907216494846,Theo dõi: Có thể dư hàng,Orion Near Đặc Biệt 500g
+903,129.0,65.0,1.9846153846153847,Theo dõi: Có thể dư hàng,Nestlé Skill Đặc Biệt 500ml
+124,75.0,38.0,1.9736842105263157,Theo dõi: Có thể dư hàng,Vinamilk At Thượng Hạng 1L
+1151,65.0,33.0,1.9696969696969697,Theo dõi: Có thể dư hàng,Orion Alone Đặc Biệt 1L
+70,110.0,56.0,1.9642857142857142,Theo dõi: Có thể dư hàng,TH True Milk Why Premium 1L
+993,102.0,52.0,1.9615384615384615,Theo dõi: Có thể dư hàng,Vinamilk Away Premium 500g
+811,49.0,25.0,1.96,Theo dõi: Có thể dư hàng,Unilever We Vị Mới 100g
+435,274.0,140.0,1.957142857142857,Theo dõi: Có thể dư hàng,Orion Thousand Vị Mới 1kg
+1825,88.0,45.0,1.9555555555555555,Theo dõi: Có thể dư hàng,Suntory It Premium 100g
+933,41.0,21.0,1.9523809523809523,Theo dõi: Có thể dư hàng,TH True Milk Song Vị Mới 700ml
+353,109.0,56.0,1.9464285714285714,Theo dõi: Có thể dư hàng,Ajinomoto Admit Premium 100g
+1517,70.0,36.0,1.9444444444444444,Theo dõi: Có thể dư hàng,Acecook Member Premium 330ml
+228,149.0,77.0,1.9350649350649352,Theo dõi: Có thể dư hàng,Ajinomoto Left Đặc Biệt 250ml
+1594,87.0,45.0,1.9333333333333333,Theo dõi: Có thể dư hàng,Suntory Myself Vị Mới 100g
+1575,110.0,57.0,1.9298245614035088,Theo dõi: Có thể dư hàng,Unilever Voice Premium 700ml
+13,181.0,94.0,1.925531914893617,Theo dõi: Có thể dư hàng,Omachi Mì gói 85g
+1057,198.0,103.0,1.9223300970873787,Theo dõi: Có thể dư hàng,TH True Milk Point Vị Mới 250ml
+1323,61.0,32.0,1.90625,Theo dõi: Có thể dư hàng,Unilever Step Thượng Hạng 500g
+1834,118.0,62.0,1.903225806451613,Theo dõi: Có thể dư hàng,Acecook His Đặc Biệt 100g
+1379,114.0,60.0,1.9,Theo dõi: Có thể dư hàng,Vinamilk My Đặc Biệt 500g
+1315,207.0,109.0,1.8990825688073394,Theo dõi: Có thể dư hàng,Vinamilk Should Thượng Hạng 330ml
+616,123.0,65.0,1.8923076923076922,Theo dõi: Có thể dư hàng,Suntory Above Premium 500ml
+118,102.0,54.0,1.8888888888888888,Theo dõi: Có thể dư hàng,Ajinomoto Drive Thượng Hạng 100g
+545,98.0,52.0,1.8846153846153846,Theo dõi: Có thể dư hàng,Ajinomoto Gas Thượng Hạng 330ml
+1240,98.0,52.0,1.8846153846153846,Theo dõi: Có thể dư hàng,Ajinomoto Pressure Dinh Dưỡng 500ml
+1709,90.0,48.0,1.875,Theo dõi: Có thể dư hàng,Acecook Song Thượng Hạng 1kg
+1264,161.0,86.0,1.872093023255814,Theo dõi: Có thể dư hàng,Nestlé Red Vị Mới 1kg
+825,125.0,67.0,1.8656716417910448,Theo dõi: Có thể dư hàng,Orion Tend Dinh Dưỡng 500ml
+684,97.0,52.0,1.8653846153846154,Theo dõi: Có thể dư hàng,Vinamilk Skin Premium 330ml
+1399,151.0,81.0,1.8641975308641976,Theo dõi: Có thể dư hàng,P&G Mother Vị Mới 1L
+997,115.0,62.0,1.8548387096774193,Theo dõi: Có thể dư hàng,Ajinomoto Could Vị Mới 100g
+1937,22.0,12.0,1.8333333333333333,Theo dõi: Có thể dư hàng,Ajinomoto Might Thượng Hạng 500ml
+308,128.0,70.0,1.8285714285714285,Theo dõi: Có thể dư hàng,PepsiCo Former Premium 330ml
+1488,137.0,75.0,1.8266666666666667,Theo dõi: Có thể dư hàng,Unilever Not Vị Mới 700ml
+1732,42.0,23.0,1.826086956521739,Theo dõi: Có thể dư hàng,Nestlé Institution Dinh Dưỡng 700ml
+1876,164.0,90.0,1.8222222222222222,Theo dõi: Có thể dư hàng,Vinamilk Benefit Dinh Dưỡng 250ml
+589,60.0,33.0,1.8181818181818181,Theo dõi: Có thể dư hàng,Vinamilk Ago Dinh Dưỡng 500g
+1277,60.0,33.0,1.8181818181818181,Theo dõi: Có thể dư hàng,Orion Term Đặc Biệt 250ml
+1066,103.0,57.0,1.8070175438596492,Theo dõi: Có thể dư hàng,Orion Call Dinh Dưỡng 1kg
+1157,74.0,41.0,1.8048780487804879,Theo dõi: Có thể dư hàng,PepsiCo Agency Thượng Hạng 1L
+278,36.0,20.0,1.8,Theo dõi: Có thể dư hàng,PepsiCo Game Thượng Hạng 1kg
+303,77.0,43.0,1.7906976744186047,Theo dõi: Có thể dư hàng,PepsiCo Hot Dinh Dưỡng 100g
+176,48.0,27.0,1.7777777777777777,Theo dõi: Có thể dư hàng,P&G Every Đặc Biệt 700ml
+1070,32.0,18.0,1.7777777777777777,Theo dõi: Có thể dư hàng,TH True Milk Crime Thượng Hạng 500g
+128,69.0,39.0,1.7692307692307692,Theo dõi: Có thể dư hàng,Unilever Marriage Premium 700ml
+232,58.0,33.0,1.7575757575757576,Theo dõi: Có thể dư hàng,P&G Kitchen Đặc Biệt 1L
+600,79.0,45.0,1.7555555555555555,Theo dõi: Có thể dư hàng,Unilever Do Thượng Hạng 100g
+1228,79.0,45.0,1.7555555555555555,Theo dõi: Có thể dư hàng,Orion Federal Premium 500g
+1118,107.0,61.0,1.7540983606557377,Theo dõi: Có thể dư hàng,TH True Milk Mrs Premium 500ml
+137,77.0,44.0,1.75,Theo dõi: Có thể dư hàng,Orion Themselves Premium 500ml
+1030,162.0,93.0,1.7419354838709677,Theo dõi: Có thể dư hàng,PepsiCo Institution Đặc Biệt 700ml
+310,164.0,95.0,1.7263157894736842,Theo dõi: Có thể dư hàng,PepsiCo Indeed Thượng Hạng 500g
+1252,55.0,32.0,1.71875,Theo dõi: Có thể dư hàng,P&G Administration Đặc Biệt 250ml
+480,29.0,17.0,1.7058823529411764,Theo dõi: Có thể dư hàng,Acecook How Đặc Biệt 330ml
+1928,29.0,17.0,1.7058823529411764,Theo dõi: Có thể dư hàng,Ajinomoto Himself Premium 330ml
+475,105.0,62.0,1.6935483870967742,Theo dõi: Có thể dư hàng,Unilever Ground Thượng Hạng 250ml
+528,208.0,123.0,1.6910569105691058,Theo dõi: Có thể dư hàng,Vinamilk Raise Dinh Dưỡng 1L
+1266,140.0,83.0,1.6867469879518073,Theo dõi: Có thể dư hàng,Unilever Newspaper Thượng Hạng 500g
+1690,57.0,34.0,1.6764705882352942,Theo dõi: Có thể dư hàng,Suntory Type Đặc Biệt 700ml
+1411,67.0,40.0,1.675,Theo dõi: Có thể dư hàng,Acecook Big Premium 100g
+1134,103.0,62.0,1.6612903225806452,Theo dõi: Có thể dư hàng,TH True Milk Minute Vị Mới 100g
+1165,164.0,99.0,1.6565656565656566,Theo dõi: Có thể dư hàng,TH True Milk Share Thượng Hạng 1kg
+1540,71.0,43.0,1.6511627906976745,Theo dõi: Có thể dư hàng,P&G Program Dinh Dưỡng 500ml
+171,79.0,48.0,1.6458333333333333,Theo dõi: Có thể dư hàng,Ajinomoto Meeting Premium 100g
+53,54.0,33.0,1.6363636363636365,Theo dõi: Có thể dư hàng,Acecook Often Dinh Dưỡng 330ml
+1025,72.0,44.0,1.6363636363636365,Theo dõi: Có thể dư hàng,Vinamilk Player Đặc Biệt 250ml
+365,31.0,19.0,1.631578947368421,Theo dõi: Có thể dư hàng,PepsiCo Major Thượng Hạng 250ml
+1969,70.0,43.0,1.627906976744186,Theo dõi: Có thể dư hàng,Suntory Bank Đặc Biệt 100g
+110,47.0,29.0,1.6206896551724137,Theo dõi: Có thể dư hàng,Suntory Figure Vị Mới 330ml
+466,87.0,54.0,1.6111111111111112,Theo dõi: Có thể dư hàng,Acecook Speak Premium 1kg
+1980,95.0,59.0,1.6101694915254237,Theo dõi: Có thể dư hàng,Vinamilk Second Vị Mới 250ml
+1685,74.0,46.0,1.608695652173913,Theo dõi: Có thể dư hàng,Unilever Individual Đặc Biệt 500ml
+581,64.0,40.0,1.6,Theo dõi: Có thể dư hàng,Acecook White Thượng Hạng 330ml
+1327,112.0,70.0,1.6,Theo dõi: Có thể dư hàng,Suntory These Đặc Biệt 250ml
+352,103.0,65.0,1.5846153846153845,Theo dõi: Có thể dư hàng,Ajinomoto Democrat Đặc Biệt 330ml
+1891,71.0,45.0,1.5777777777777777,Theo dõi: Có thể dư hàng,PepsiCo Land Đặc Biệt 250ml
+276,50.0,32.0,1.5625,Theo dõi: Có thể dư hàng,Acecook Traditional Dinh Dưỡng 100g
+1933,100.0,64.0,1.5625,Theo dõi: Có thể dư hàng,Nestlé Effect Thượng Hạng 500ml
+470,78.0,50.0,1.56,Theo dõi: Có thể dư hàng,Nestlé Investment Premium 1kg
+1155,92.0,59.0,1.5593220338983051,Theo dõi: Có thể dư hàng,P&G Economy Vị Mới 1L
+951,68.0,44.0,1.5454545454545454,Theo dõi: Có thể dư hàng,Suntory Pressure Premium 100g
+1597,83.0,54.0,1.537037037037037,Theo dõi: Có thể dư hàng,Acecook Change Thượng Hạng 700ml
+1747,89.0,58.0,1.5344827586206897,Theo dõi: Có thể dư hàng,PepsiCo She Premium 500g
+841,52.0,34.0,1.5294117647058822,Theo dõi: Có thể dư hàng,Nestlé Long Vị Mới 500ml
+2,32.0,21.0,1.5238095238095237,Theo dõi: Có thể dư hàng,CHIN-SU Nước mắm 750ml
+211,66.0,44.0,1.5,An toàn,P&G Great Đặc Biệt 100g
+1617,93.0,62.0,1.5,An toàn,Orion Effect Vị Mới 250ml
+97,87.0,58.0,1.5,An toàn,Acecook Effect Vị Mới 1L
+6,36.0,24.0,1.5,An toàn,Nam Ngư Nước mắm 500ml
+1874,54.0,36.0,1.5,An toàn,Nestlé Course Vị Mới 500ml
+661,75.0,50.0,1.5,An toàn,PepsiCo Water Thượng Hạng 330ml
+1280,33.0,22.0,1.5,An toàn,P&G Pull Đặc Biệt 500ml
+1298,49.0,33.0,1.4848484848484849,An toàn,Acecook Challenge Thượng Hạng 500g
+1713,92.0,62.0,1.4838709677419355,An toàn,Suntory All Premium 500g
+402,89.0,60.0,1.4833333333333334,An toàn,Nestlé Stage Thượng Hạng 330ml
+1473,91.0,62.0,1.467741935483871,An toàn,P&G Address Premium 1kg
+759,124.0,85.0,1.4588235294117646,An toàn,Unilever Wrong Đặc Biệt 1L
+1437,91.0,63.0,1.4444444444444444,An toàn,Suntory Treatment Vị Mới 1L
+957,43.0,30.0,1.4333333333333333,An toàn,Nestlé Understand Dinh Dưỡng 1kg
+1966,111.0,78.0,1.4230769230769231,An toàn,Ajinomoto Home Premium 250ml
+555,51.0,36.0,1.4166666666666667,An toàn,Ajinomoto Truth Thượng Hạng 1kg
+357,45.0,32.0,1.40625,An toàn,PepsiCo Throw Premium 1L
+818,63.0,45.0,1.4,An toàn,Acecook Pay Premium 330ml
+1766,42.0,30.0,1.4,An toàn,Ajinomoto Table Vị Mới 330ml
+1807,42.0,30.0,1.4,An toàn,Orion Before Đặc Biệt 1kg
+1633,102.0,73.0,1.3972602739726028,An toàn,P&G Ten Thượng Hạng 700ml
+554,53.0,38.0,1.394736842105263,An toàn,Unilever Computer Thượng Hạng 500ml
+1972,96.0,69.0,1.391304347826087,An toàn,Unilever Case Dinh Dưỡng 500g
+302,128.0,92.0,1.391304347826087,An toàn,TH True Milk What Đặc Biệt 250ml
+1164,54.0,39.0,1.3846153846153846,An toàn,Orion Health Đặc Biệt 1L
+624,51.0,37.0,1.3783783783783783,An toàn,Vinamilk Wrong Premium 250ml
+1562,100.0,73.0,1.36986301369863,An toàn,PepsiCo Will Premium 330ml
+183,93.0,68.0,1.3676470588235294,An toàn,Unilever There Đặc Biệt 500g
+351,71.0,52.0,1.3653846153846154,An toàn,Ajinomoto Share Vị Mới 330ml
+665,50.0,37.0,1.3513513513513513,An toàn,PepsiCo Force Đặc Biệt 1L
+416,27.0,20.0,1.35,An toàn,Orion Husband Vị Mới 700ml
+1672,51.0,38.0,1.3421052631578947,An toàn,PepsiCo Staff Premium 330ml
+892,84.0,63.0,1.3333333333333333,An toàn,Acecook Space Dinh Dưỡng 500g
+1339,43.0,33.0,1.303030303030303,An toàn,Ajinomoto Since Thượng Hạng 330ml
+361,106.0,82.0,1.2926829268292683,An toàn,Ajinomoto Nation Premium 330ml
+1444,58.0,45.0,1.288888888888889,An toàn,Orion Sit Premium 1kg
+1225,58.0,45.0,1.288888888888889,An toàn,Vinamilk Hotel Premium 1L
+2036,23.0,18.0,1.2777777777777777,An toàn,Nestlé Forget Đặc Biệt 330ml
+765,46.0,36.0,1.2777777777777777,An toàn,Unilever Mother Premium 500g
+119,30.0,24.0,1.25,An toàn,Vinamilk City Vị Mới 700ml
+96,113.0,91.0,1.2417582417582418,An toàn,Acecook Several Vị Mới 100g
+1303,21.0,17.0,1.2352941176470589,An toàn,Nestlé Agree Dinh Dưỡng 700ml
+1816,69.0,56.0,1.2321428571428572,An toàn,Suntory Red Thượng Hạng 1kg
+1707,80.0,65.0,1.2307692307692308,An toàn,P&G Serve Premium 1L
+533,92.0,75.0,1.2266666666666666,An toàn,Vinamilk Attorney Dinh Dưỡng 100g
+1037,17.0,14.0,1.2142857142857142,An toàn,Unilever Account Premium 1kg
+500,100.0,83.0,1.2048192771084338,An toàn,Acecook Help Đặc Biệt 250ml
+701,33.0,28.0,1.1785714285714286,An toàn,PepsiCo Agreement Thượng Hạng 1L
+1995,28.0,24.0,1.1666666666666667,An toàn,Nestlé Off Thượng Hạng 500ml
+1194,79.0,68.0,1.161764705882353,An toàn,P&G Crime Thượng Hạng 500g
+117,49.0,43.0,1.1395348837209303,An toàn,P&G Feel Dinh Dưỡng 500g
+741,74.0,65.0,1.1384615384615384,An toàn,P&G Speech Đặc Biệt 700ml
+1410,67.0,59.0,1.1355932203389831,An toàn,P&G White Đặc Biệt 330ml
+610,69.0,61.0,1.1311475409836065,An toàn,PepsiCo Since Dinh Dưỡng 1kg
+768,39.0,35.0,1.1142857142857143,An toàn,Suntory Might Vị Mới 330ml
+1735,60.0,54.0,1.1111111111111112,An toàn,PepsiCo Environment Dinh Dưỡng 700ml
+1815,71.0,64.0,1.109375,An toàn,P&G Condition Vị Mới 700ml
+1073,62.0,56.0,1.1071428571428572,An toàn,PepsiCo Pm Đặc Biệt 500g
+996,22.0,20.0,1.1,An toàn,Unilever Walk Premium 1L
+1098,132.0,121.0,1.0909090909090908,An toàn,Orion While Vị Mới 330ml
+1817,37.0,34.0,1.088235294117647,An toàn,P&G Study Premium 250ml
+934,38.0,35.0,1.0857142857142856,An toàn,PepsiCo Support Premium 500ml
+1525,40.0,37.0,1.0810810810810811,An toàn,Suntory Road Premium 1L
+1526,40.0,37.0,1.0810810810810811,An toàn,TH True Milk Occur Thượng Hạng 700ml
+643,26.0,25.0,1.04,An toàn,Nestlé Key Đặc Biệt 330ml
+939,54.0,52.0,1.0384615384615385,An toàn,Ajinomoto Small Thượng Hạng 700ml
+1506,28.0,27.0,1.037037037037037,An toàn,TH True Milk Window Premium 700ml
+1310,38.0,37.0,1.027027027027027,An toàn,Nestlé Responsibility Thượng Hạng 500g
+136,44.0,43.0,1.0232558139534884,An toàn,Unilever Time Vị Mới 500ml
+1332,56.0,55.0,1.018181818181818,An toàn,Unilever Drop Premium 1L
+793,35.0,35.0,1.0,An toàn,Nestlé Down Vị Mới 500g
+334,30.0,30.0,1.0,An toàn,Unilever Deep Thượng Hạng 500g
+1224,46.0,46.0,1.0,An toàn,P&G Medical Premium 700ml
+792,48.0,48.0,1.0,An toàn,PepsiCo Even Vị Mới 500ml
+1949,72.0,73.0,0.9863013698630136,An toàn,Nestlé Could Premium 500g
+156,40.0,41.0,0.975609756097561,An toàn,TH True Milk Other Vị Mới 100g
+141,40.0,41.0,0.975609756097561,An toàn,Ajinomoto Per Thượng Hạng 330ml
+876,33.0,34.0,0.9705882352941176,An toàn,Acecook Coach Dinh Dưỡng 1kg
+1711,30.0,31.0,0.967741935483871,An toàn,PepsiCo Open Premium 330ml
+1857,58.0,60.0,0.9666666666666667,An toàn,Suntory Care Đặc Biệt 1kg
+1197,41.0,43.0,0.9534883720930233,An toàn,PepsiCo Upon Premium 250ml
+794,41.0,43.0,0.9534883720930233,An toàn,Suntory Before Đặc Biệt 330ml
+1249,60.0,63.0,0.9523809523809523,An toàn,Ajinomoto Task Dinh Dưỡng 1kg
+1658,33.0,35.0,0.9428571428571428,An toàn,Suntory More Vị Mới 500ml
+1989,30.0,32.0,0.9375,An toàn,Orion Recent Vị Mới 700ml
+815,27.0,29.0,0.9310344827586207,An toàn,Acecook East Premium 1kg
+1609,72.0,78.0,0.9230769230769231,An toàn,PepsiCo Coach Vị Mới 1kg
+1033,50.0,55.0,0.9090909090909091,An toàn,TH True Milk Pressure Đặc Biệt 700ml
+888,55.0,61.0,0.9016393442622951,An toàn,Nestlé Particular Vị Mới 700ml
+184,36.0,40.0,0.9,An toàn,TH True Milk Group Vị Mới 500ml
+632,42.0,47.0,0.8936170212765957,An toàn,Suntory Right Vị Mới 1L
+1117,90.0,102.0,0.8823529411764706,An toàn,Ajinomoto Keep Đặc Biệt 500ml
+1677,52.0,59.0,0.8813559322033898,An toàn,Acecook Road Đặc Biệt 500g
+758,59.0,68.0,0.8676470588235294,An toàn,PepsiCo Matter Thượng Hạng 700ml
+850,43.0,50.0,0.86,An toàn,PepsiCo Ground Thượng Hạng 500g
+2013,51.0,60.0,0.85,An toàn,P&G Address Premium 250ml
+1833,42.0,50.0,0.84,An toàn,PepsiCo Lawyer Vị Mới 1kg
+1979,41.0,49.0,0.8367346938775511,An toàn,Acecook Leader Premium 330ml
+1577,48.0,58.0,0.8275862068965517,An toàn,Nestlé Fill Vị Mới 500ml
+1538,30.0,38.0,0.7894736842105263,An toàn,P&G Have Thượng Hạng 1kg
+566,37.0,47.0,0.7872340425531915,An toàn,Suntory Plant Đặc Biệt 100g
+1088,38.0,49.0,0.7755102040816326,An toàn,P&G Marriage Đặc Biệt 500g
+450,30.0,39.0,0.7692307692307693,An toàn,Suntory Do Dinh Dưỡng 1L
+2001,32.0,42.0,0.7619047619047619,An toàn,Vinamilk Pm Đặc Biệt 100g
+1940,51.0,68.0,0.75,An toàn,Unilever Any Đặc Biệt 700ml
+1849,52.0,70.0,0.7428571428571429,An toàn,Suntory Heavy Premium 500g
+1014,26.0,35.0,0.7428571428571429,An toàn,Nestlé Officer Premium 1kg
+1447,35.0,48.0,0.7291666666666666,An toàn,TH True Milk Camera Premium 330ml
+241,63.0,88.0,0.7159090909090909,An toàn,P&G In Dinh Dưỡng 500ml
+1002,22.0,31.0,0.7096774193548387,An toàn,Vinamilk Line Dinh Dưỡng 1L
+590,39.0,56.0,0.6964285714285714,An toàn,Acecook Teacher Dinh Dưỡng 500ml
+788,23.0,34.0,0.6764705882352942,An toàn,TH True Milk Remember Dinh Dưỡng 700ml
+565,25.0,37.0,0.6756756756756757,An toàn,Orion Simply Vị Mới 250ml
+1960,39.0,58.0,0.6724137931034483,An toàn,Acecook Hit Thượng Hạng 100g
+193,25.0,41.0,0.6097560975609756,An toàn,PepsiCo Wish Đặc Biệt 1L
+1063,39.0,64.0,0.609375,An toàn,Nestlé Miss Vị Mới 1L
+169,38.0,65.0,0.5846153846153846,An toàn,Orion Late Premium 1kg
+285,29.0,50.0,0.58,An toàn,PepsiCo Network Đặc Biệt 700ml
+61,26.0,45.0,0.5777777777777777,An toàn,Vinamilk Gun Vị Mới 250ml
+465,19.0,33.0,0.5757575757575758,An toàn,Unilever Course Premium 330ml
+921,24.0,42.0,0.5714285714285714,An toàn,PepsiCo Onto Thượng Hạng 1kg
+1715,46.0,83.0,0.5542168674698795,An toàn,Unilever Cover Dinh Dưỡng 100g
+1788,32.0,58.0,0.5517241379310345,An toàn,Suntory Position Thượng Hạng 700ml
+1983,22.0,42.0,0.5238095238095238,An toàn,Unilever Where Premium 1L
+1300,13.0,25.0,0.52,An toàn,Vinamilk Choose Vị Mới 330ml
+855,35.0,71.0,0.49295774647887325,An toàn,Vinamilk Field Đặc Biệt 500g
+206,22.0,47.0,0.46808510638297873,An toàn,PepsiCo Political Premium 500ml
+1591,35.0,75.0,0.4666666666666667,An toàn,Suntory Money Thượng Hạng 330ml
+1152,14.0,30.0,0.4666666666666667,An toàn,Suntory Case Đặc Biệt 500g
+828,27.0,59.0,0.4576271186440678,An toàn,Acecook Do Thượng Hạng 1kg
+280,33.0,73.0,0.4520547945205479,An toàn,TH True Milk Live Đặc Biệt 700ml
+679,27.0,67.0,0.40298507462686567,An toàn,Suntory Despite Thượng Hạng 250ml
+899,17.0,46.0,0.3695652173913043,An toàn,Nestlé Notice Thượng Hạng 330ml
+143,16.0,44.0,0.36363636363636365,An toàn,Unilever Along Đặc Biệt 500ml
+1487,16.0,44.0,0.36363636363636365,An toàn,Nestlé Television Đặc Biệt 250ml
+712,30.0,90.0,0.3333333333333333,An toàn,Vinamilk Someone Vị Mới 1kg
+1901,22.0,75.0,0.29333333333333333,An toàn,Suntory Quickly Thượng Hạng 330ml
+155,7.0,31.0,0.22580645161290322,An toàn,Ajinomoto Together Premium 700ml
+735,8.0,57.0,0.14035087719298245,An toàn,Nestlé To Thượng Hạng 250ml
+2007,0.0,14.0,0.0,An toàn,P&G By Thượng Hạng 330ml
+2008,0.0,23.0,0.0,An toàn,Suntory These Premium 250ml
+339,0.0,43.0,0.0,An toàn,P&G Something Đặc Biệt 100g
+1875,0.0,22.0,0.0,An toàn,Acecook Rise Dinh Dưỡng 500g
+614,0.0,20.0,0.0,An toàn,TH True Milk Alone Vị Mới 250ml
+1427,0.0,34.0,0.0,An toàn,Unilever Nice Vị Mới 100g
+168,0.0,5.0,0.0,An toàn,Unilever Assume Dinh Dưỡng 500g
+640,0.0,32.0,0.0,An toàn,P&G Federal Premium 250ml
+1991,0.0,27.0,0.0,An toàn,Acecook Despite Dinh Dưỡng 1kg
+43,0.0,31.0,0.0,An toàn,Vinamilk Both Premium 500ml
+48,0.0,10.0,0.0,An toàn,PepsiCo Him Đặc Biệt 700ml
+49,0.0,30.0,0.0,An toàn,Orion Culture Vị Mới 330ml
+54,0.0,44.0,0.0,An toàn,Orion Risk Premium 1kg
+58,0.0,5.0,0.0,An toàn,Acecook Carry Đặc Biệt 700ml
+14,0.0,29.0,0.0,An toàn,Omachi Mì gói 90g
+1362,0.0,5.0,0.0,An toàn,TH True Milk Almost Đặc Biệt 1L
+1363,0.0,75.0,0.0,An toàn,Unilever Yourself Vị Mới 100g
+831,0.0,14.0,0.0,An toàn,P&G Provide Đặc Biệt 500ml
+836,0.0,7.0,0.0,An toàn,Acecook Book Thượng Hạng 100g
+1842,0.0,30.0,0.0,An toàn,Nestlé Dog Premium 1kg
+1852,0.0,30.0,0.0,An toàn,Acecook Break Đặc Biệt 1L
+1860,0.0,10.0,0.0,An toàn,Suntory Boy Premium 500g
+1863,0.0,3.0,0.0,An toàn,Nestlé Purpose Premium 1kg
+1867,0.0,19.0,0.0,An toàn,Orion News Premium 330ml
+1393,0.0,26.0,0.0,An toàn,PepsiCo Carry Thượng Hạng 100g
+1880,0.0,7.0,0.0,An toàn,Unilever Else Premium 1kg
+742,0.0,40.0,0.0,An toàn,Vinamilk Speak Thượng Hạng 330ml
+744,0.0,10.0,0.0,An toàn,Nestlé Feel Thượng Hạng 1L
+761,0.0,36.0,0.0,An toàn,Acecook My Đặc Biệt 700ml
+762,0.0,15.0,0.0,An toàn,TH True Milk Success Vị Mới 250ml
+766,0.0,41.0,0.0,An toàn,Orion Discussion Đặc Biệt 500ml
+769,0.0,10.0,0.0,An toàn,P&G Course Dinh Dưỡng 700ml
+773,0.0,7.0,0.0,An toàn,Unilever Allow Vị Mới 500g
+284,0.0,7.0,0.0,An toàn,Suntory Interest Dinh Dưỡng 100g
+144,0.0,5.0,0.0,An toàn,Ajinomoto Run Premium 500g
+152,0.0,8.0,0.0,An toàn,Vinamilk Author Premium 100g
+510,0.0,14.0,0.0,An toàn,Unilever Level Thượng Hạng 1kg
+519,0.0,4.0,0.0,An toàn,Acecook Training Premium 250ml
+1441,0.0,1.0,0.0,An toàn,Nestlé Such Vị Mới 700ml
+1443,0.0,24.0,0.0,An toàn,Suntory Magazine Thượng Hạng 100g
+1449,0.0,9.0,0.0,An toàn,Acecook Small Đặc Biệt 1kg
+1452,0.0,4.0,0.0,An toàn,Ajinomoto Hospital Thượng Hạng 1L
+1265,0.0,63.0,0.0,An toàn,TH True Milk Nothing Vị Mới 1kg
+1290,0.0,25.0,0.0,An toàn,Orion Be Dinh Dưỡng 700ml
+1297,0.0,19.0,0.0,An toàn,Suntory Career Dinh Dưỡng 330ml
+158,0.0,11.0,0.0,An toàn,Unilever Weight Thượng Hạng 1L
+1374,0.0,42.0,0.0,An toàn,Nestlé Condition Vị Mới 100g
+620,0.0,6.0,0.0,An toàn,Suntory White Thượng Hạng 250ml
+633,0.0,24.0,0.0,An toàn,Ajinomoto Sure Vị Mới 250ml
+1710,0.0,29.0,0.0,An toàn,TH True Milk Morning Đặc Biệt 700ml
+1718,0.0,19.0,0.0,An toàn,Nestlé Small Vị Mới 700ml
+1726,0.0,8.0,0.0,An toàn,Orion Ago Đặc Biệt 500ml
+1728,0.0,24.0,0.0,An toàn,Ajinomoto Interview Vị Mới 500ml
+1730,0.0,47.0,0.0,An toàn,TH True Milk Mind Đặc Biệt 700ml
+1736,0.0,36.0,0.0,An toàn,Suntory Parent Dinh Dưỡng 100g
+1737,0.0,40.0,0.0,An toàn,Ajinomoto Everything Dinh Dưỡng 700ml
+1740,0.0,27.0,0.0,An toàn,Ajinomoto Financial Thượng Hạng 100g
+1742,0.0,39.0,0.0,An toàn,TH True Milk Manager Thượng Hạng 100g
+1743,0.0,24.0,0.0,An toàn,PepsiCo Boy Vị Mới 330ml
+975,0.0,7.0,0.0,An toàn,Suntory Political Thượng Hạng 700ml
+977,0.0,25.0,0.0,An toàn,Orion Physical Dinh Dưỡng 1L
+983,0.0,27.0,0.0,An toàn,Acecook Out Thượng Hạng 100g
+988,0.0,24.0,0.0,An toàn,Orion Require Đặc Biệt 100g
+989,0.0,18.0,0.0,An toàn,Suntory Imagine Dinh Dưỡng 500g
+1745,0.0,44.0,0.0,An toàn,PepsiCo Own Premium 330ml
+195,0.0,10.0,0.0,An toàn,Unilever Always Dinh Dưỡng 500ml
+572,0.0,75.0,0.0,An toàn,Vinamilk Enter Premium 330ml
+576,0.0,30.0,0.0,An toàn,P&G Relate Thượng Hạng 250ml
+607,0.0,8.0,0.0,An toàn,TH True Milk Wonder Đặc Biệt 250ml
+201,0.0,53.0,0.0,An toàn,Nestlé Design Dinh Dưỡng 1L
+1592,0.0,5.0,0.0,An toàn,PepsiCo Growth Premium 1L
+1601,0.0,47.0,0.0,An toàn,Suntory Across Dinh Dưỡng 700ml
+1602,0.0,12.0,0.0,An toàn,Orion Mouth Dinh Dưỡng 700ml
+1605,0.0,21.0,0.0,An toàn,Nestlé Democratic Đặc Biệt 500ml
+1618,0.0,18.0,0.0,An toàn,Nestlé Wall Đặc Biệt 250ml
+1621,0.0,31.0,0.0,An toàn,Ajinomoto Spring Thượng Hạng 700ml
+1624,0.0,8.0,0.0,An toàn,Nestlé President Premium 1kg
+384,0.0,10.0,0.0,An toàn,PepsiCo Foot Đặc Biệt 330ml
+395,0.0,3.0,0.0,An toàn,Unilever Want Premium 1L
+398,0.0,46.0,0.0,An toàn,Nestlé Build Đặc Biệt 1kg
+1754,0.0,33.0,0.0,An toàn,Vinamilk Must Đặc Biệt 700ml
+1755,0.0,34.0,0.0,An toàn,Orion Various Đặc Biệt 1L
+76,0.0,7.0,0.0,An toàn,Vinamilk Small Dinh Dưỡng 330ml
+77,0.0,10.0,0.0,An toàn,Vinamilk Rich Đặc Biệt 100g
+912,0.0,35.0,0.0,An toàn,Suntory Small Thượng Hạng 100g
+917,0.0,35.0,0.0,An toàn,Orion Usually Dinh Dưỡng 1kg
+920,0.0,38.0,0.0,An toàn,Vinamilk Successful Premium 500g
+931,0.0,39.0,0.0,An toàn,PepsiCo Baby Đặc Biệt 500g
+935,0.0,17.0,0.0,An toàn,Suntory Purpose Thượng Hạng 250ml
+936,0.0,14.0,0.0,An toàn,Orion National Thượng Hạng 330ml
+950,0.0,42.0,0.0,An toàn,P&G Follow Dinh Dưỡng 100g
+953,0.0,44.0,0.0,An toàn,PepsiCo Model Premium 700ml
+86,0.0,16.0,0.0,An toàn,Nestlé Dinner Đặc Biệt 700ml
+1202,0.0,14.0,0.0,An toàn,Vinamilk Development Premium 1L
+459,0.0,48.0,0.0,An toàn,Acecook Late Đặc Biệt 330ml
+473,0.0,7.0,0.0,An toàn,PepsiCo Remain Vị Mới 1L
+486,0.0,4.0,0.0,An toàn,Ajinomoto Maintain Thượng Hạng 500g
+139,0.0,45.0,0.0,An toàn,TH True Milk Able Thượng Hạng 330ml
+1566,0.0,37.0,0.0,An toàn,Orion Green Đặc Biệt 330ml
+1568,0.0,69.0,0.0,An toàn,Ajinomoto Road Vị Mới 700ml
+1569,0.0,7.0,0.0,An toàn,Vinamilk No Thượng Hạng 250ml
+1099,0.0,11.0,0.0,An toàn,Unilever Of Vị Mới 500ml
+1101,0.0,22.0,0.0,An toàn,Acecook Several Vị Mới 1kg
+1108,0.0,11.0,0.0,An toàn,PepsiCo Less Vị Mới 1kg
+1135,0.0,17.0,0.0,An toàn,P&G Within Đặc Biệt 100g
+1140,0.0,45.0,0.0,An toàn,Ajinomoto Whether Thượng Hạng 700ml
+1145,0.0,22.0,0.0,An toàn,Ajinomoto Religious Đặc Biệt 330ml
+90,0.0,58.0,0.0,An toàn,Vinamilk Enter Premium 700ml
+95,0.0,54.0,0.0,An toàn,Vinamilk Box Thượng Hạng 250ml
+102,0.0,14.0,0.0,An toàn,Orion Research Dinh Dưỡng 1kg
+1759,0.0,43.0,0.0,An toàn,Vinamilk Always Dinh Dưỡng 700ml
+1762,0.0,10.0,0.0,An toàn,TH True Milk Say Premium 100g
+1763,0.0,1.0,0.0,An toàn,Acecook Two Vị Mới 330ml
+1769,0.0,17.0,0.0,An toàn,Unilever Food Thượng Hạng 330ml
+1772,0.0,49.0,0.0,An toàn,Nestlé Hear Thượng Hạng 700ml
+1776,0.0,37.0,0.0,An toàn,TH True Milk Kid Thượng Hạng 500ml
+662,0.0,31.0,0.0,An toàn,Ajinomoto Interview Thượng Hạng 500g
+664,0.0,9.0,0.0,An toàn,Vinamilk None Đặc Biệt 500g
+669,0.0,33.0,0.0,An toàn,TH True Milk Exactly Vị Mới 330ml
+671,0.0,34.0,0.0,An toàn,TH True Milk Long Dinh Dưỡng 500ml
+672,0.0,13.0,0.0,An toàn,Unilever Agency Đặc Biệt 500ml
+673,0.0,11.0,0.0,An toàn,Vinamilk Fear Đặc Biệt 100g
+676,0.0,4.0,0.0,An toàn,P&G Positive Dinh Dưỡng 250ml
+682,0.0,60.0,0.0,An toàn,Unilever Detail Premium 500g
+683,0.0,18.0,0.0,An toàn,P&G Million Dinh Dưỡng 250ml
+233,0.0,21.0,0.0,An toàn,Nestlé Soldier Thượng Hạng 500g
+901,0.0,29.0,0.0,An toàn,Nestlé Ever Thượng Hạng 700ml
+1784,0.0,20.0,0.0,An toàn,Suntory There Dinh Dưỡng 100g
+1786,0.0,28.0,0.0,An toàn,TH True Milk Kid Premium 100g
+1218,0.0,37.0,0.0,An toàn,Acecook Drug Dinh Dưỡng 100g
+135,0.0,16.0,0.0,An toàn,Nestlé Leg Thượng Hạng 500ml
+447,0.0,10.0,0.0,An toàn,Orion Draw Premium 1kg
+449,0.0,61.0,0.0,An toàn,Orion Four Thượng Hạng 1kg
+451,0.0,17.0,0.0,An toàn,Acecook Toward Premium 100g
+2017,0.0,21.0,0.0,An toàn,Nestlé Mr Thượng Hạng 1kg
+1168,0.0,45.0,0.0,An toàn,PepsiCo Cost Vị Mới 100g
+1173,0.0,24.0,0.0,An toàn,TH True Milk Heart Premium 100g
+1176,0.0,43.0,0.0,An toàn,Vinamilk Kind Vị Mới 500ml
+1184,0.0,29.0,0.0,An toàn,TH True Milk This Thượng Hạng 1kg
+1189,0.0,23.0,0.0,An toàn,Orion Full Premium 250ml
+1192,0.0,8.0,0.0,An toàn,TH True Milk Bar Đặc Biệt 500g
+1193,0.0,20.0,0.0,An toàn,Vinamilk Ability Dinh Dưỡng 1kg
+1794,0.0,20.0,0.0,An toàn,TH True Milk Particularly Thượng Hạng 700ml
+1795,0.0,45.0,0.0,An toàn,PepsiCo If Đặc Biệt 500ml
+1802,0.0,16.0,0.0,An toàn,Ajinomoto Determine Đặc Biệt 330ml
+1804,0.0,70.0,0.0,An toàn,PepsiCo Executive Premium 500g
+1818,0.0,44.0,0.0,An toàn,Vinamilk Order Vị Mới 1L
+1820,0.0,11.0,0.0,An toàn,TH True Milk Almost Đặc Biệt 500ml
+212,0.0,15.0,0.0,An toàn,P&G Wide Đặc Biệt 100g
+214,0.0,6.0,0.0,An toàn,Ajinomoto Cell Premium 1L
+221,0.0,46.0,0.0,An toàn,PepsiCo Practice Dinh Dưỡng 1L
+225,0.0,34.0,0.0,An toàn,Nestlé General Vị Mới 100g
+230,0.0,38.0,0.0,An toàn,Unilever Reduce Vị Mới 700ml
+645,0.0,39.0,0.0,An toàn,TH True Milk Responsibility Premium 500g
+656,0.0,21.0,0.0,An toàn,PepsiCo Capital Dinh Dưỡng 1kg
+843,0.0,14.0,0.0,An toàn,Orion Democrat Đặc Biệt 250ml
+1255,0.0,43.0,0.0,An toàn,Ajinomoto Figure Dinh Dưỡng 100g
+1263,0.0,18.0,0.0,An toàn,Vinamilk Sea Premium 1L
+1507,0.0,2.0,0.0,An toàn,Nestlé Go Thượng Hạng 1kg
+1509,0.0,14.0,0.0,An toàn,Ajinomoto Condition Dinh Dưỡng 330ml
+1512,0.0,36.0,0.0,An toàn,Unilever Would Thượng Hạng 100g
+1521,0.0,5.0,0.0,An toàn,P&G Simply Đặc Biệt 700ml
+1522,0.0,92.0,0.0,An toàn,Nestlé Up Dinh Dưỡng 700ml
+1523,0.0,44.0,0.0,An toàn,Suntory Good Premium 500g
+1530,0.0,24.0,0.0,An toàn,PepsiCo Behavior Premium 1L
+1546,0.0,52.0,0.0,An toàn,PepsiCo Unit Premium 1kg
+1553,0.0,47.0,0.0,An toàn,Acecook Very Đặc Biệt 330ml
+1556,0.0,12.0,0.0,An toàn,Suntory Quality Đặc Biệt 330ml
+1559,0.0,41.0,0.0,An toàn,P&G Nature Thượng Hạng 100g
+1203,0.0,47.0,0.0,An toàn,Nestlé Clearly Vị Mới 250ml
+534,0.0,8.0,0.0,An toàn,P&G Rate Thượng Hạng 500g
+536,0.0,33.0,0.0,An toàn,Acecook Gun Vị Mới 1kg
+547,0.0,44.0,0.0,An toàn,Orion In Dinh Dưỡng 1kg
+564,0.0,12.0,0.0,An toàn,Orion Production Dinh Dưỡng 250ml
+853,0.0,78.0,0.0,An toàn,Nestlé Computer Đặc Biệt 500g
+868,0.0,5.0,0.0,An toàn,Unilever New Dinh Dưỡng 500ml
+870,0.0,2.0,0.0,An toàn,Vinamilk Strong Vị Mới 330ml
+366,0.0,27.0,0.0,An toàn,P&G Risk Dinh Dưỡng 500ml
+367,0.0,34.0,0.0,An toàn,Nestlé Image Dinh Dưỡng 500ml
+317,0.0,11.0,0.0,An toàn,P&G Water Thượng Hạng 100g
+318,0.0,4.0,0.0,An toàn,Acecook New Thượng Hạng 100g
+320,0.0,13.0,0.0,An toàn,Unilever Scene Premium 330ml
+322,0.0,26.0,0.0,An toàn,P&G Fine Dinh Dưỡng 100g
+324,0.0,55.0,0.0,An toàn,P&G Speech Thượng Hạng 100g
+1836,0.0,20.0,0.0,An toàn,Suntory Sure Đặc Biệt 500ml
+796,0.0,22.0,0.0,An toàn,PepsiCo Market Thượng Hạng 100g
+797,0.0,16.0,0.0,An toàn,TH True Milk Area Dinh Dưỡng 330ml
+799,0.0,7.0,0.0,An toàn,Ajinomoto Language Đặc Biệt 250ml
+1314,0.0,14.0,0.0,An toàn,Suntory Speak Thượng Hạng 1L
+1462,0.0,46.0,0.0,An toàn,Ajinomoto Treat Premium 500ml
+1480,0.0,39.0,0.0,An toàn,Acecook Fund Đặc Biệt 500g
+1481,0.0,25.0,0.0,An toàn,Orion Range Premium 500g
+1482,0.0,59.0,0.0,An toàn,Unilever Police Thượng Hạng 1kg
+1486,0.0,76.0,0.0,An toàn,Unilever Hard Vị Mới 1L
+723,0.0,26.0,0.0,An toàn,Acecook Decade Dinh Dưỡng 500g
+1495,0.0,11.0,0.0,An toàn,Nestlé Better Đặc Biệt 700ml
+1500,0.0,1.0,0.0,An toàn,Unilever Laugh Vị Mới 500g
+1502,0.0,31.0,0.0,An toàn,PepsiCo Simply Đặc Biệt 100g
+1223,0.0,43.0,0.0,An toàn,Vinamilk Meeting Vị Mới 1kg
+1229,0.0,57.0,0.0,An toàn,Suntory Resource Dinh Dưỡng 1L
+1238,0.0,20.0,0.0,An toàn,Vinamilk Individual Thượng Hạng 100g
+1250,0.0,8.0,0.0,An toàn,Suntory In Thượng Hạng 330ml
+819,0.0,15.0,0.0,An toàn,Suntory Shake Thượng Hạng 1L
+246,0.0,75.0,0.0,An toàn,Nestlé Building Thượng Hạng 330ml
+1330,0.0,53.0,0.0,An toàn,PepsiCo Focus Dinh Dưỡng 700ml
+1342,0.0,37.0,0.0,An toàn,Nestlé Story Premium 330ml
+1347,0.0,3.0,0.0,An toàn,Acecook Fire Dinh Dưỡng 1kg
+1409,0.0,7.0,0.0,An toàn,Orion Rock Premium 500g
+1414,0.0,24.0,0.0,An toàn,Acecook Even Vị Mới 500g
+1419,0.0,38.0,0.0,An toàn,Orion Past Dinh Dưỡng 100g
+1420,0.0,42.0,0.0,An toàn,Orion Others Vị Mới 1L
+1365,0.0,41.0,0.0,An toàn,Unilever Hour Premium 330ml
+1428,0.0,42.0,0.0,An toàn,PepsiCo Decade Đặc Biệt 250ml
+1434,0.0,47.0,0.0,An toàn,PepsiCo Hotel Dinh Dưỡng 700ml
+527,0.0,53.0,0.0,An toàn,Ajinomoto Party Premium 500ml
+776,0.0,29.0,0.0,An toàn,Nestlé Table Dinh Dưỡng 100g
+779,0.0,29.0,0.0,An toàn,TH True Milk Likely Premium 500g
+785,0.0,29.0,0.0,An toàn,Unilever Condition Vị Mới 700ml
+789,0.0,29.0,0.0,An toàn,PepsiCo City Dinh Dưỡng 100g
+1890,0.0,7.0,0.0,An toàn,Orion Kitchen Vị Mới 100g
+1894,0.0,30.0,0.0,An toàn,Suntory Pay Đặc Biệt 1kg
+1895,0.0,67.0,0.0,An toàn,Acecook Our Vị Mới 100g
+249,0.0,43.0,0.0,An toàn,TH True Milk Born Vị Mới 500ml
+1904,0.0,44.0,0.0,An toàn,Orion Million Thượng Hạng 330ml
+1939,0.0,29.0,0.0,An toàn,Nestlé Commercial Premium 330ml
+691,0.0,15.0,0.0,An toàn,P&G Mind Thượng Hạng 100g
+699,0.0,27.0,0.0,An toàn,TH True Milk Travel Premium 500g
+707,0.0,22.0,0.0,An toàn,Acecook Central Premium 700ml
+711,0.0,51.0,0.0,An toàn,PepsiCo Matter Đặc Biệt 700ml
+263,0.0,21.0,0.0,An toàn,TH True Milk Bag Vị Mới 500ml
+716,0.0,42.0,0.0,An toàn,Unilever Recognize Thượng Hạng 1L
+687,0.0,29.0,0.0,An toàn,TH True Milk Against Dinh Dưỡng 700ml
+1953,0.0,47.0,0.0,An toàn,Acecook Age Vị Mới 1L
+8,0.0,5.0,0.0,An toàn,Nam Ngư Nước mắm 1L
+1994,0.0,9.0,0.0,An toàn,Unilever Money Dinh Dưỡng 330ml
+1391,0.0,48.0,0.0,An toàn,Suntory Price Đặc Biệt 100g
+340,0.0,22.0,0.0,An toàn,Vinamilk Only Thượng Hạng 1L
+346,0.0,10.0,0.0,An toàn,PepsiCo Seven Vị Mới 330ml
+348,0.0,20.0,0.0,An toàn,Acecook South Thượng Hạng 330ml
+355,0.0,29.0,0.0,An toàn,P&G Almost Vị Mới 1kg
+1947,0.0,26.0,0.0,An toàn,PepsiCo Exist Vị Mới 1L
+2030,0.0,13.0,0.0,An toàn,P&G Fish Vị Mới 500g
+2032,0.0,30.0,0.0,An toàn,Ajinomoto Court Dinh Dưỡng 1kg
+1386,0.0,29.0,0.0,An toàn,Ajinomoto Middle Đặc Biệt 700ml
+644,0.0,5.0,0.0,An toàn,Ajinomoto Step Đặc Biệt 500ml
+1043,0.0,19.0,0.0,An toàn,Unilever Hard Premium 100g
+1052,0.0,3.0,0.0,An toàn,Vinamilk Challenge Dinh Dưỡng 500g
+1055,0.0,32.0,0.0,An toàn,Orion Quickly Premium 250ml
+1029,0.0,27.0,0.0,An toàn,TH True Milk Discover Thượng Hạng 1kg
+1645,0.0,19.0,0.0,An toàn,Nestlé Gas Thượng Hạng 330ml
+1660,0.0,24.0,0.0,An toàn,PepsiCo Home Vị Mới 250ml
+1665,0.0,14.0,0.0,An toàn,PepsiCo Believe Đặc Biệt 330ml
+1680,0.0,14.0,0.0,An toàn,PepsiCo Blood Dinh Dưỡng 700ml
+1684,0.0,18.0,0.0,An toàn,Suntory Mention Thượng Hạng 1L
+1692,0.0,22.0,0.0,An toàn,Ajinomoto Catch Premium 1L
+1706,0.0,13.0,0.0,An toàn,PepsiCo Eye Premium 330ml
+1082,0.0,18.0,0.0,An toàn,P&G Wall Thượng Hạng 330ml
+1084,0.0,41.0,0.0,An toàn,Suntory Expect Premium 500g
+182,0.0,10.0,0.0,An toàn,Vinamilk Any Vị Mới 500g
+1627,0.0,32.0,0.0,An toàn,Unilever Hard Vị Mới 250ml
+422,0.0,9.0,0.0,An toàn,TH True Milk Another Thượng Hạng 700ml
+425,0.0,39.0,0.0,An toàn,Unilever Sell Dinh Dưỡng 700ml
+431,0.0,9.0,0.0,An toàn,PepsiCo Take Dinh Dưỡng 100g
+436,0.0,22.0,0.0,An toàn,P&G Surface Thượng Hạng 500g
+437,0.0,26.0,0.0,An toàn,Suntory Thank Vị Mới 500g
+438,0.0,10.0,0.0,An toàn,Orion Exactly Đặc Biệt 100g
+1636,0.0,32.0,0.0,An toàn,Orion About Vị Mới 330ml
+1398,0.0,28.0,0.0,An toàn,P&G Activity Đặc Biệt 1L

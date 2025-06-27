@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,location,region_id,has_dry,has_fresh,has_frozen,capacity
+1,DC Hai Duong,Hải Dương,1,True,True,False,300000
+2,DC Hung Yen,Hưng Yên,1,True,True,False,250000
+3,DC Ha Noi,Hà Nội,1,True,True,False,280000
+4,DC Da Nang,Đà Nẵng,2,True,True,False,320000
+5,DC Binh Duong,Bình Dương,3,True,True,True,500000
+6,DC Tan Binh,TP.HCM,3,True,True,True,600000
+7,DC Dong Nai,Đồng Nai,3,True,True,True,700000
+8,DC Can Tho,Cần Thơ,3,True,False,False,270000

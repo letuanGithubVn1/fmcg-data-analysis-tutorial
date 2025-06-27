@@ -1,0 +1,91 @@
+competitor_id,competitor_brand,competitor_channel,competitor_location,product_id,competitor_price,competitor_promo_id,date_id
+1,B'smart,Convenience,Cần Thơ,1,34895.28,22,2023-10-13
+2,Lazada,Online,TP.HCM,1,27459.49,19,2023-11-12
+3,Lazada,Online,Đà Nẵng,1,15924.5,21,2023-02-15
+4,Emart,MT,TP.HCM,2,31648.03,1,2023-12-12
+5,Lazada,Online,Hà Nội,2,32640.95,21,2023-08-29
+6,Lazada,Online,Nha Trang,2,13370.6,17,2023-10-13
+7,Shopee,Online,Nha Trang,3,32905.72,10,2023-12-27
+8,FamilyMart,Convenience,Cần Thơ,3,11020.43,29,2023-01-01
+9,Tiki,Online,Hà Nội,3,14503.53,26,2023-01-16
+10,Circle K,Convenience,Cần Thơ,4,34405.58,9,2023-01-31
+11,Lotte Mart,MT,Cần Thơ,4,12458.43,22,2023-09-13
+12,Highlands Coffee,Horeca,Nha Trang,4,27708.14,28,2023-12-27
+13,Aeon Mall,MT,Cần Thơ,5,25546.71,16,2023-11-12
+14,The Coffee House,Horeca,Cần Thơ,5,14693.45,4,2023-02-15
+15,FamilyMart,Convenience,TP.HCM,5,22955.88,11,2023-09-28
+16,Big C,MT,TP.HCM,6,25039.78,6,2023-11-27
+17,Big C,MT,TP.HCM,6,9913.15,22,2023-05-31
+18,Aeon Mall,MT,Cần Thơ,6,22559.32,16,2023-04-01
+19,Highlands Coffee,Horeca,Cần Thơ,7,13141.07,28,2023-07-15
+20,B'smart,Convenience,Đà Nẵng,7,19099.76,11,2023-07-15
+21,Circle K,Convenience,TP.HCM,7,27661.77,26,2023-06-30
+22,Ministop,Convenience,Hà Nội,8,22479.72,10,2023-04-01
+23,Emart,MT,Hà Nội,8,20490.96,28,2023-05-01
+24,B'smart,Convenience,Nha Trang,8,9365.88,14,2023-02-15
+25,Circle K,Convenience,Hà Nội,9,18973.18,23,2023-03-17
+26,Highlands Coffee,Horeca,Cần Thơ,9,12445.2,22,2023-01-16
+27,B'smart,Convenience,Đà Nẵng,9,15701.73,22,2023-07-30
+28,Highlands Coffee,Horeca,Hà Nội,10,13877.92,12,2023-05-16
+29,Circle K,Convenience,Đà Nẵng,10,9353.84,28,2023-01-16
+30,The Coffee House,Horeca,Nha Trang,10,9535.75,25,2023-03-17
+31,Ministop,Convenience,TP.HCM,11,9834.94,6,2023-10-13
+32,Emart,MT,TP.HCM,11,14647.81,17,2023-09-28
+33,Circle K,Convenience,Cần Thơ,11,23759.15,25,2023-11-12
+34,Tiki,Online,Hà Nội,12,27337.18,26,2023-11-12
+35,Aeon Mall,MT,Cần Thơ,12,26135.64,20,2023-03-02
+36,Tiki,Online,Đà Nẵng,12,33264.83,24,2023-12-27
+37,B'smart,Convenience,Nha Trang,13,34894.6,18,2023-09-28
+38,Ministop,Convenience,Nha Trang,13,11576.33,30,2023-05-01
+39,Shopee,Online,Hà Nội,13,15694.66,30,2023-06-15
+40,The Coffee House,Horeca,Đà Nẵng,14,34564.04,23,2023-10-13
+41,FamilyMart,Convenience,TP.HCM,14,15140.58,19,2023-03-02
+42,Ministop,Convenience,Đà Nẵng,14,24330.41,29,2023-05-16
+43,Shopee,Online,Đà Nẵng,15,21190.36,8,2023-08-29
+44,Circle K,Convenience,Cần Thơ,15,9190.34,10,2023-05-01
+45,Shopee,Online,Đà Nẵng,15,28013.23,17,2023-03-17
+46,The Coffee House,Horeca,TP.HCM,16,10031.58,11,2023-02-15
+47,Big C,MT,Đà Nẵng,16,22918.18,5,2023-09-28
+48,Highlands Coffee,Horeca,TP.HCM,16,17845.59,28,2023-05-16
+49,FamilyMart,Convenience,Hà Nội,17,14737.3,17,2023-11-12
+50,FamilyMart,Convenience,Nha Trang,17,34293.6,30,2023-07-15
+51,Lotte Mart,MT,Hà Nội,17,31798.24,6,2023-03-17
+52,Ministop,Convenience,Đà Nẵng,18,29660.35,12,2023-07-15
+53,Aeon Mall,MT,Hà Nội,18,10918.58,29,2023-11-27
+54,B'smart,Convenience,Hà Nội,18,30047.84,27,2023-04-01
+55,Phúc Long,Horeca,Đà Nẵng,19,14018.94,28,2023-04-16
+56,Emart,MT,Đà Nẵng,19,31337.53,3,2023-05-01
+57,Tiki,Online,Nha Trang,19,26346.99,29,2023-06-30
+58,Shopee,Online,TP.HCM,20,12821.33,26,2023-05-01
+59,Shopee,Online,TP.HCM,20,19733.22,26,2023-10-13
+60,Tiki,Online,Nha Trang,20,11122.44,30,2023-08-29
+61,Aeon Mall,MT,TP.HCM,21,19773.55,9,2023-11-27
+62,Aeon Mall,MT,Cần Thơ,21,33619.61,14,2023-01-31
+63,Lazada,Online,Đà Nẵng,21,30896.41,4,2023-11-12
+64,Lazada,Online,Đà Nẵng,22,19026.61,20,2023-11-12
+65,The Coffee House,Horeca,Đà Nẵng,22,11436.77,19,2023-09-13
+66,The Coffee House,Horeca,Cần Thơ,22,28199.63,10,2023-11-12
+67,Aeon Mall,MT,Cần Thơ,23,30510.58,21,2023-09-13
+68,Tiki,Online,Hà Nội,23,29215.49,11,2023-07-15
+69,Tiki,Online,Cần Thơ,23,26241.94,9,2023-07-30
+70,The Coffee House,Horeca,Hà Nội,24,10289.48,17,2023-11-12
+71,Shopee,Online,Hà Nội,24,16381.33,18,2023-11-12
+72,Lotte Mart,MT,TP.HCM,24,14610.75,28,2023-01-16
+73,The Coffee House,Horeca,TP.HCM,25,19189.91,28,2023-07-30
+74,Emart,MT,Cần Thơ,25,14587.58,26,2023-06-30
+75,Circle K,Convenience,Cần Thơ,25,12748.94,7,2023-04-16
+76,Highlands Coffee,Horeca,Nha Trang,26,32771.69,24,2023-04-16
+77,B'smart,Convenience,Hà Nội,26,26024.6,26,2023-07-30
+78,Tiki,Online,Nha Trang,26,32084.55,22,2023-12-12
+79,The Coffee House,Horeca,Cần Thơ,27,28078.7,10,2023-03-17
+80,Phúc Long,Horeca,Đà Nẵng,27,14675.47,4,2023-12-27
+81,Lazada,Online,Cần Thơ,27,14459.64,6,2023-10-28
+82,Highlands Coffee,Horeca,Đà Nẵng,28,15336.31,17,2023-04-16
+83,Lazada,Online,TP.HCM,28,12072.43,7,2023-03-02
+84,The Coffee House,Horeca,Hà Nội,28,13776.73,11,2023-11-27
+85,Phúc Long,Horeca,Đà Nẵng,29,20579.96,13,2023-09-13
+86,Ministop,Convenience,Cần Thơ,29,32430.64,7,2023-06-30
+87,B'smart,Convenience,Cần Thơ,29,33454.02,19,2023-01-01
+88,Tiki,Online,Cần Thơ,30,28182.92,8,2023-09-13
+89,Emart,MT,Hà Nội,30,19767.57,25,2023-05-01
+90,B'smart,Convenience,Đà Nẵng,30,26336.83,28,2023-11-12

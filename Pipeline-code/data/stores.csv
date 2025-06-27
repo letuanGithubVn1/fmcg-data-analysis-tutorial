@@ -1,0 +1,3001 @@
+store_id,store_name,store_type,channel_type,region_id,warehouse_id,partner_name,opened_date
+1,WinMart Huế,WinMart,MT,2,4,,2024-04-09
+2,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-05-12
+3,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-10-31
+4,WinMart+ Cần Thơ,WinMart+,GT,3,7,,2025-04-03
+5,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,2,,2021-04-13
+6,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2022-01-23
+7,GS25 - Huế,Partner,Horeca,2,4,GS25,2024-11-29
+8,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2020-09-30
+9,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2020-08-09
+10,WinMart Hải Dương,WinMart,MT,1,2,,2020-07-14
+11,WinMart+ Hải Dương,WinMart+,GT,1,2,,2024-04-11
+12,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-02-09
+13,WinMart Hải Dương,WinMart,MT,1,1,,2022-10-26
+14,WinMart+ Hà Nội,WinMart+,MT,1,1,,2024-12-20
+15,WinMart Hải Dương,WinMart,Horeca,1,2,,2023-12-17
+16,WinMart+ Hải Dương,WinMart+,MT,1,1,,2025-05-02
+17,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2023-02-13
+18,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2024-01-22
+19,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-08-02
+20,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2023-01-11
+21,FamilyMart - Hải Dương,Partner,MT,1,3,FamilyMart,2021-02-27
+22,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2020-12-18
+23,The Coffee House - Bình Dương,Partner,MT,3,8,The Coffee House,2020-11-02
+24,WinMart+ Quảng Ngãi,WinMart+,Horeca,2,4,,2022-01-24
+25,WinMart+ Hà Nội,WinMart+,MT,1,3,,2022-03-07
+26,VinDS - Vĩnh Phúc,Partner,Horeca,1,1,VinDS,2021-08-24
+27,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,6,,2020-07-28
+28,Highlands Coffee - Bình Dương,Partner,Horeca,3,6,Highlands Coffee,2025-01-06
+29,WinMart+ Bình Dương,WinMart+,MT,3,6,,2024-10-24
+30,WinMart+ Cần Thơ,WinMart+,GT,3,8,,2020-09-03
+31,WinMart Đồng Nai,WinMart,MT,3,5,,2022-06-22
+32,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2024-05-11
+33,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2024-08-23
+34,WinMart Cần Thơ,WinMart,GT,3,7,,2023-04-02
+35,Bách Hóa Xanh - Hưng Yên,Partner,Horeca,1,3,Bách Hóa Xanh,2025-03-20
+36,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-06-30
+37,WinMart Huế,WinMart,MT,2,4,,2020-06-26
+38,WinMart+ Long An,WinMart+,Horeca,3,8,,2024-08-29
+39,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2022-09-10
+40,WinMart TP.HCM,WinMart,GT,3,6,,2025-02-09
+41,Tạp Hóa Chú Ba - Quảng Nam,Partner,GT,2,4,Tạp Hóa Chú Ba,2023-01-19
+42,Tạp Hóa Chú Ba - Quảng Ngãi,Partner,Horeca,2,4,Tạp Hóa Chú Ba,2023-01-20
+43,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2022-02-03
+44,FamilyMart - Bà Rịa-Vũng Tàu,Partner,GT,3,6,FamilyMart,2022-02-17
+45,FamilyMart - Bình Dương,Partner,MT,3,7,FamilyMart,2023-08-23
+46,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-08-29
+47,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-10-03
+48,Tạp Hóa Chú Ba - Quảng Ngãi,Partner,MT,2,4,Tạp Hóa Chú Ba,2021-11-09
+49,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-12-27
+50,Guardian - Long An,Partner,GT,3,5,Guardian,2021-08-19
+51,WinMart+ Bình Dương,WinMart+,MT,3,8,,2023-12-09
+52,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-11-17
+53,WinMart Quảng Ngãi,WinMart,MT,2,4,,2025-04-16
+54,WinMart+ Đồng Nai,WinMart+,GT,3,7,,2021-11-16
+55,WinMart Long An,WinMart,MT,3,5,,2021-03-07
+56,WinMart+ Hải Dương,WinMart+,GT,1,2,,2022-01-09
+57,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2022-06-22
+58,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2024-07-14
+59,Ministop - Quảng Nam,Partner,Horeca,2,4,Ministop,2020-10-19
+60,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2022-12-18
+61,WinMart Hải Dương,WinMart,MT,1,3,,2024-06-15
+62,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-01-12
+63,WinMart+ Hải Dương,WinMart+,MT,1,1,,2020-07-16
+64,WinMart Hải Dương,WinMart,GT,1,1,,2021-08-26
+65,WinMart Long An,WinMart,GT,3,5,,2022-05-06
+66,WinMart+ Huế,WinMart+,MT,2,4,,2021-04-27
+67,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-10-19
+68,WinMart Hưng Yên,WinMart,MT,1,2,,2021-09-01
+69,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2024-03-07
+70,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2022-09-22
+71,Tạp Hóa Bà Sáu - Bình Dương,Partner,MT,3,8,Tạp Hóa Bà Sáu,2024-10-22
+72,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2023-09-06
+73,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-11-15
+74,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-02-20
+75,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2024-10-02
+76,WinMart+ Bình Dương,WinMart+,GT,3,6,,2021-11-13
+77,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-02-05
+78,WinMart+ Huế,WinMart+,MT,2,4,,2022-10-15
+79,Circle K - TP.HCM,Partner,GT,3,5,Circle K,2023-06-23
+80,WinMart Hưng Yên,WinMart,GT,1,3,,2022-04-11
+81,WinMart+ Bình Dương,WinMart+,GT,3,7,,2024-05-09
+82,WinMart+ Huế,WinMart+,Horeca,2,4,,2022-07-03
+83,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-12-24
+84,WinMart+ Đồng Nai,WinMart+,GT,3,7,,2024-06-16
+85,Tạp Hóa Bà Sáu - Đồng Nai,Partner,Horeca,3,6,Tạp Hóa Bà Sáu,2022-04-29
+86,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-04-04
+87,WinMart+ Long An,WinMart+,Horeca,3,6,,2022-08-26
+88,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2025-03-07
+89,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-01-27
+90,WinMart Long An,WinMart,MT,3,5,,2024-09-13
+91,WinMart Quảng Nam,WinMart,MT,2,4,,2020-09-08
+92,WinMart+ Long An,WinMart+,MT,3,7,,2020-11-30
+93,Guardian - Hà Nội,Partner,GT,1,1,Guardian,2021-07-10
+94,Bách Hóa Xanh - Đồng Nai,Partner,GT,3,7,Bách Hóa Xanh,2021-10-11
+95,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-05-01
+96,FamilyMart - TP.HCM,Partner,MT,3,5,FamilyMart,2024-07-02
+97,GS25 - Cần Thơ,Partner,MT,3,7,GS25,2021-02-21
+98,WinMart+ Bắc Ninh,WinMart+,Horeca,1,1,,2023-03-14
+99,Circle K - Hưng Yên,Partner,MT,1,1,Circle K,2024-06-05
+100,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2025-05-20
+101,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2023-03-25
+102,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2021-04-22
+103,WinMart Cần Thơ,WinMart,GT,3,5,,2022-01-05
+104,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2021-12-12
+105,Guardian - Bình Dương,Partner,GT,3,6,Guardian,2024-06-13
+106,WinMart+ TP.HCM,WinMart+,GT,3,7,,2022-12-01
+107,WinMart+ Huế,WinMart+,MT,2,4,,2022-07-31
+108,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-11-27
+109,Highlands Coffee - Huế,Partner,GT,2,4,Highlands Coffee,2023-06-19
+110,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2020-12-20
+111,The Coffee House - Đà Nẵng,Partner,GT,2,4,The Coffee House,2024-10-16
+112,Highlands Coffee - TP.HCM,Partner,GT,3,8,Highlands Coffee,2021-10-14
+113,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2023-12-28
+114,Bách Hóa Xanh - Hưng Yên,Partner,MT,1,1,Bách Hóa Xanh,2022-02-28
+115,WinMart+ Hà Nội,WinMart+,GT,1,1,,2024-06-28
+116,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2025-02-12
+117,WinMart+ Huế,WinMart+,MT,2,4,,2023-02-14
+118,WinMart+ Hải Dương,WinMart+,GT,1,1,,2024-03-08
+119,Tạp Hóa Chú Ba - Bắc Ninh,Partner,MT,1,2,Tạp Hóa Chú Ba,2025-03-12
+120,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2025-02-26
+121,WinMart Huế,WinMart,MT,2,4,,2021-10-30
+122,VinDS - Hưng Yên,Partner,MT,1,2,VinDS,2022-12-03
+123,WinMart+ Huế,WinMart+,GT,2,4,,2021-06-25
+124,Tạp Hóa Bà Sáu - Quảng Nam,Partner,MT,2,4,Tạp Hóa Bà Sáu,2022-06-17
+125,WinMart Long An,WinMart,MT,3,6,,2021-01-30
+126,WinMart Hưng Yên,WinMart,MT,1,1,,2020-08-30
+127,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-08-18
+128,WinMart+ Long An,WinMart+,MT,3,8,,2021-11-19
+129,WinMart+ Hà Nội,WinMart+,MT,1,1,,2025-01-16
+130,WinMart+ Bình Dương,WinMart+,MT,3,5,,2020-09-25
+131,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-11-29
+132,Tạp Hóa Bà Sáu - Vĩnh Phúc,Partner,MT,1,2,Tạp Hóa Bà Sáu,2025-01-30
+133,WinMart Cần Thơ,WinMart,MT,3,5,,2024-12-07
+134,WinMart+ Huế,WinMart+,GT,2,4,,2023-11-12
+135,WinMart Long An,WinMart,GT,3,7,,2022-11-02
+136,WinMart+ Hưng Yên,WinMart+,Horeca,1,2,,2022-11-18
+137,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-11-10
+138,WinMart Quảng Nam,WinMart,GT,2,4,,2023-07-04
+139,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2023-07-28
+140,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2020-11-08
+141,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2022-09-08
+142,WinMart Đồng Nai,WinMart,MT,3,6,,2023-09-09
+143,WinMart+ TP.HCM,WinMart+,MT,3,8,,2020-11-04
+144,WinMart TP.HCM,WinMart,MT,3,7,,2022-01-05
+145,WinMart Cần Thơ,WinMart,GT,3,6,,2024-09-01
+146,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-02-22
+147,WinMart Huế,WinMart,MT,2,4,,2024-08-14
+148,Guardian - Hải Dương,Partner,GT,1,2,Guardian,2021-11-13
+149,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2024-10-08
+150,WinMart+ Long An,WinMart+,GT,3,5,,2023-04-06
+151,WinMart Cần Thơ,WinMart,GT,3,6,,2021-11-03
+152,WinMart Long An,WinMart,GT,3,6,,2021-07-21
+153,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2022-03-03
+154,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-10-12
+155,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2022-07-18
+156,GS25 - Hà Nội,Partner,GT,1,2,GS25,2025-02-06
+157,WinMart Long An,WinMart,MT,3,7,,2024-09-21
+158,WinMart+ Hà Nội,WinMart+,GT,1,2,,2025-02-20
+159,WinMart+ Bình Dương,WinMart+,Horeca,3,7,,2023-10-29
+160,WinMart+ Huế,WinMart+,MT,2,4,,2025-01-09
+161,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-06-25
+162,GS25 - Cần Thơ,Partner,Horeca,3,7,GS25,2023-10-02
+163,FamilyMart - Huế,Partner,MT,2,4,FamilyMart,2023-12-02
+164,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-09-09
+165,WinMart+ Hải Dương,WinMart+,GT,1,1,,2024-01-28
+166,WinMart+ Bình Dương,WinMart+,MT,3,7,,2024-03-20
+167,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2023-05-31
+168,WinMart Huế,WinMart,GT,2,4,,2021-02-24
+169,Tạp Hóa Bà Sáu - Bắc Ninh,Partner,Horeca,1,3,Tạp Hóa Bà Sáu,2021-03-28
+170,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2024-05-15
+171,Tạp Hóa Bà Sáu - Cần Thơ,Partner,GT,3,8,Tạp Hóa Bà Sáu,2021-05-11
+172,WinMart Vĩnh Phúc,WinMart,GT,1,1,,2020-10-08
+173,WinMart+ Hải Dương,WinMart+,GT,1,3,,2022-11-30
+174,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-10-06
+175,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2023-09-25
+176,WinMart+ Hà Nội,WinMart+,MT,1,2,,2021-01-15
+177,The Coffee House - TP.HCM,Partner,GT,3,5,The Coffee House,2021-09-21
+178,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-11-04
+179,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-05-25
+180,FamilyMart - Long An,Partner,Horeca,3,7,FamilyMart,2021-05-18
+181,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2025-02-22
+182,WinMart+ Long An,WinMart+,Horeca,3,7,,2024-09-15
+183,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2024-04-22
+184,WinMart Huế,WinMart,MT,2,4,,2021-07-02
+185,WinMart Huế,WinMart,MT,2,4,,2020-06-26
+186,Satra Foods - Quảng Ngãi,Partner,GT,2,4,Satra Foods,2024-10-07
+187,WinMart Đồng Nai,WinMart,GT,3,8,,2020-07-07
+188,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2020-11-02
+189,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-02-17
+190,WinMart+ Hải Dương,WinMart+,MT,1,1,,2022-08-02
+191,WinMart Quảng Ngãi,WinMart,MT,2,4,,2020-12-31
+192,WinMart+ Hà Nội,WinMart+,MT,1,1,,2020-07-31
+193,WinMart+ Bắc Ninh,WinMart+,Horeca,1,3,,2021-06-11
+194,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2021-07-16
+195,WinMart Đồng Nai,WinMart,MT,3,8,,2021-06-11
+196,WinMart Bình Dương,WinMart,MT,3,5,,2021-07-20
+197,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-11-09
+198,WinMart Bắc Ninh,WinMart,GT,1,3,,2024-04-04
+199,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-12-25
+200,WinMart Quảng Nam,WinMart,MT,2,4,,2021-01-20
+201,WinMart+ TP.HCM,WinMart+,MT,3,7,,2021-07-28
+202,WinMart+ Hà Nội,WinMart+,MT,1,2,,2021-10-22
+203,VinDS - Huế,Partner,GT,2,4,VinDS,2022-07-28
+204,WinMart Quảng Nam,WinMart,MT,2,4,,2023-03-27
+205,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2023-04-30
+206,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-11-17
+207,WinMart Vĩnh Phúc,WinMart,GT,1,2,,2022-01-20
+208,WinMart+ Bình Dương,WinMart+,GT,3,6,,2021-07-20
+209,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-10-31
+210,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-05-31
+211,GS25 - Bà Rịa-Vũng Tàu,Partner,MT,3,8,GS25,2023-12-23
+212,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2020-06-18
+213,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2024-04-18
+214,WinMart Hưng Yên,WinMart,MT,1,2,,2024-07-04
+215,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2024-11-02
+216,WinMart Huế,WinMart,MT,2,4,,2023-03-08
+217,Guardian - Đồng Nai,Partner,GT,3,6,Guardian,2021-02-20
+218,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2020-09-29
+219,WinMart TP.HCM,WinMart,GT,3,7,,2023-09-10
+220,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-03-11
+221,Satra Foods - Hà Nội,Partner,MT,1,1,Satra Foods,2022-01-03
+222,WinMart Hà Nội,WinMart,MT,1,2,,2021-08-18
+223,WinMart+ Hải Dương,WinMart+,MT,1,1,,2025-03-30
+224,WinMart Vĩnh Phúc,WinMart,GT,1,2,,2020-10-29
+225,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2024-09-15
+226,WinMart Huế,WinMart,GT,2,4,,2020-06-17
+227,WinMart Quảng Ngãi,WinMart,MT,2,4,,2022-08-13
+228,WinMart Hải Dương,WinMart,MT,1,1,,2024-06-04
+229,WinMart Hà Nội,WinMart,MT,1,2,,2024-05-28
+230,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2025-02-14
+231,Ministop - Huế,Partner,Horeca,2,4,Ministop,2021-06-02
+232,Co.op Food - Đà Nẵng,Partner,GT,2,4,Co.op Food,2024-07-29
+233,Co.op Food - Quảng Ngãi,Partner,MT,2,4,Co.op Food,2025-04-28
+234,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2022-05-05
+235,WinMart Long An,WinMart,GT,3,5,,2023-08-17
+236,Tạp Hóa Bà Sáu - Cần Thơ,Partner,MT,3,8,Tạp Hóa Bà Sáu,2021-11-24
+237,WinMart Long An,WinMart,MT,3,8,,2021-09-28
+238,WinMart Quảng Ngãi,WinMart,GT,2,4,,2021-03-06
+239,Circle K - Bình Dương,Partner,MT,3,6,Circle K,2021-04-20
+240,VinDS - Hà Nội,Partner,MT,1,2,VinDS,2024-08-04
+241,WinMart+ Hải Dương,WinMart+,Horeca,1,2,,2024-06-10
+242,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2023-07-08
+243,WinMart+ Long An,WinMart+,MT,3,6,,2021-05-08
+244,WinMart+ TP.HCM,WinMart+,Horeca,3,6,,2020-10-23
+245,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2021-04-05
+246,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2021-05-03
+247,WinMart Long An,WinMart,MT,3,6,,2022-04-23
+248,WinMart Đà Nẵng,WinMart,GT,2,4,,2022-07-26
+249,WinMart+ Hà Nội,WinMart+,MT,1,2,,2025-04-03
+250,Highlands Coffee - Vĩnh Phúc,Partner,MT,1,1,Highlands Coffee,2021-09-01
+251,Co.op Food - Hà Nội,Partner,MT,1,2,Co.op Food,2025-02-20
+252,WinMart+ Hà Nội,WinMart+,MT,1,3,,2021-12-12
+253,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-12-03
+254,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2020-07-05
+255,WinMart Hà Nội,WinMart,GT,1,2,,2021-07-23
+256,WinMart+ Bình Dương,WinMart+,MT,3,6,,2020-11-09
+257,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2023-06-24
+258,WinMart Hà Nội,WinMart,Horeca,1,2,,2025-03-02
+259,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-05-12
+260,WinMart Vĩnh Phúc,WinMart,GT,1,1,,2023-09-22
+261,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2022-12-10
+262,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-07-13
+263,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2020-12-25
+264,WinMart TP.HCM,WinMart,GT,3,6,,2022-03-21
+265,GS25 - Đồng Nai,Partner,MT,3,8,GS25,2023-05-23
+266,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2022-09-20
+267,VinDS - Bà Rịa-Vũng Tàu,Partner,MT,3,6,VinDS,2020-09-11
+268,Circle K - Quảng Ngãi,Partner,MT,2,4,Circle K,2025-04-29
+269,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2022-03-03
+270,WinMart Bắc Ninh,WinMart,Horeca,1,1,,2023-12-06
+271,WinMart Bình Dương,WinMart,MT,3,7,,2024-05-18
+272,WinMart Quảng Nam,WinMart,MT,2,4,,2024-02-17
+273,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2021-02-28
+274,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-08-01
+275,WinMart+ Long An,WinMart+,GT,3,6,,2022-09-21
+276,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2021-09-20
+277,WinMart Huế,WinMart,MT,2,4,,2024-05-31
+278,WinMart Hà Nội,WinMart,MT,1,2,,2020-06-21
+279,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,6,,2025-04-12
+280,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-07-29
+281,WinMart Vĩnh Phúc,WinMart,Horeca,1,3,,2025-05-27
+282,WinMart+ Quảng Ngãi,WinMart+,Horeca,2,4,,2025-01-26
+283,WinMart+ TP.HCM,WinMart+,MT,3,6,,2022-05-12
+284,WinMart+ Bình Dương,WinMart+,MT,3,6,,2021-11-06
+285,WinMart Hà Nội,WinMart,MT,1,1,,2023-12-01
+286,WinMart+ Long An,WinMart+,Horeca,3,8,,2025-02-12
+287,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2023-12-08
+288,WinMart+ TP.HCM,WinMart+,MT,3,5,,2024-03-02
+289,WinMart+ Hải Dương,WinMart+,MT,1,2,,2023-04-23
+290,WinMart Đồng Nai,WinMart,MT,3,8,,2020-09-06
+291,WinMart Hưng Yên,WinMart,MT,1,1,,2022-01-23
+292,WinMart+ TP.HCM,WinMart+,Horeca,3,5,,2021-11-27
+293,Satra Foods - Bắc Ninh,Partner,MT,1,3,Satra Foods,2021-12-21
+294,WinMart Huế,WinMart,MT,2,4,,2025-06-13
+295,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-07-19
+296,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2023-07-26
+297,WinMart Hà Nội,WinMart,MT,1,2,,2023-05-10
+298,WinMart Hưng Yên,WinMart,GT,1,1,,2023-12-03
+299,WinMart Huế,WinMart,GT,2,4,,2023-05-13
+300,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2020-08-02
+301,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-09-25
+302,WinMart+ Long An,WinMart+,GT,3,8,,2021-11-19
+303,WinMart Bình Dương,WinMart,GT,3,8,,2022-11-30
+304,VinDS - Quảng Ngãi,Partner,MT,2,4,VinDS,2024-01-05
+305,WinMart Vĩnh Phúc,WinMart,GT,1,2,,2022-11-12
+306,WinMart+ Long An,WinMart+,Horeca,3,7,,2022-04-14
+307,WinMart Quảng Ngãi,WinMart,GT,2,4,,2020-10-24
+308,WinMart Hưng Yên,WinMart,MT,1,2,,2023-09-28
+309,Circle K - Đà Nẵng,Partner,GT,2,4,Circle K,2025-01-29
+310,GS25 - Bắc Ninh,Partner,MT,1,3,GS25,2022-01-18
+311,FamilyMart - Long An,Partner,GT,3,8,FamilyMart,2021-07-31
+312,GS25 - Huế,Partner,MT,2,4,GS25,2024-04-27
+313,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-03-17
+314,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-07-19
+315,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-04-05
+316,Bách Hóa Xanh - Bình Dương,Partner,GT,3,5,Bách Hóa Xanh,2023-03-14
+317,WinMart Hải Dương,WinMart,MT,1,2,,2023-04-13
+318,WinMart+ Huế,WinMart+,MT,2,4,,2021-09-25
+319,WinMart Hưng Yên,WinMart,MT,1,2,,2021-08-09
+320,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,7,,2023-07-10
+321,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,3,,2022-12-10
+322,WinMart+ Hà Nội,WinMart+,MT,1,2,,2020-09-08
+323,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-09-30
+324,Circle K - Bình Dương,Partner,MT,3,8,Circle K,2022-06-11
+325,WinMart Bắc Ninh,WinMart,GT,1,3,,2023-05-21
+326,Tạp Hóa Chú Ba - Hà Nội,Partner,MT,1,2,Tạp Hóa Chú Ba,2023-09-11
+327,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-10-29
+328,WinMart Đồng Nai,WinMart,MT,3,6,,2021-09-15
+329,WinMart+ Bắc Ninh,WinMart+,Horeca,1,3,,2024-03-17
+330,Satra Foods - Cần Thơ,Partner,MT,3,5,Satra Foods,2024-11-09
+331,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2021-12-09
+332,WinMart Bắc Ninh,WinMart,GT,1,1,,2022-02-08
+333,WinMart Hưng Yên,WinMart,MT,1,2,,2024-03-03
+334,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2020-07-20
+335,WinMart+ Long An,WinMart+,MT,3,5,,2021-05-01
+336,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-04-13
+337,GS25 - Bắc Ninh,Partner,Horeca,1,1,GS25,2020-10-12
+338,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-11-10
+339,Circle K - Bà Rịa-Vũng Tàu,Partner,GT,3,8,Circle K,2020-07-19
+340,WinMart Hà Nội,WinMart,GT,1,3,,2022-01-06
+341,WinMart Huế,WinMart,GT,2,4,,2022-08-17
+342,WinMart Hải Dương,WinMart,GT,1,3,,2024-11-18
+343,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,5,,2021-02-03
+344,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-10-10
+345,WinMart Bình Dương,WinMart,GT,3,8,,2023-03-25
+346,WinMart+ TP.HCM,WinMart+,MT,3,6,,2021-07-09
+347,WinMart+ Bình Dương,WinMart+,MT,3,7,,2020-07-20
+348,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-11-10
+349,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2022-02-18
+350,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2021-12-21
+351,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2025-02-11
+352,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2021-11-28
+353,WinMart+ TP.HCM,WinMart+,GT,3,6,,2021-06-04
+354,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-08-16
+355,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-08-29
+356,WinMart Hà Nội,WinMart,MT,1,3,,2022-02-02
+357,Satra Foods - Vĩnh Phúc,Partner,MT,1,2,Satra Foods,2022-04-26
+358,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-02-23
+359,WinMart+ Long An,WinMart+,MT,3,6,,2024-03-05
+360,WinMart Hải Dương,WinMart,Horeca,1,1,,2023-06-07
+361,Bách Hóa Xanh - Cần Thơ,Partner,MT,3,5,Bách Hóa Xanh,2020-08-02
+362,WinMart Quảng Nam,WinMart,MT,2,4,,2022-04-01
+363,Highlands Coffee - Hà Nội,Partner,GT,1,3,Highlands Coffee,2022-01-27
+364,WinMart Cần Thơ,WinMart,GT,3,5,,2022-11-18
+365,Co.op Food - Hải Dương,Partner,MT,1,3,Co.op Food,2022-04-07
+366,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2023-10-13
+367,WinMart Bình Dương,WinMart,MT,3,6,,2022-07-31
+368,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2023-09-30
+369,FamilyMart - Quảng Nam,Partner,MT,2,4,FamilyMart,2023-03-22
+370,WinMart+ Bình Dương,WinMart+,MT,3,7,,2024-07-05
+371,Ministop - Long An,Partner,GT,3,6,Ministop,2025-03-26
+372,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2021-09-30
+373,WinMart+ Long An,WinMart+,MT,3,7,,2020-11-07
+374,WinMart Hưng Yên,WinMart,MT,1,2,,2021-07-24
+375,Guardian - Huế,Partner,GT,2,4,Guardian,2021-03-13
+376,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-07-01
+377,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2024-02-16
+378,WinMart Quảng Ngãi,WinMart,GT,2,4,,2024-12-12
+379,WinMart+ Hải Dương,WinMart+,MT,1,3,,2024-04-26
+380,WinMart+ TP.HCM,WinMart+,MT,3,8,,2021-01-21
+381,VinDS - Đồng Nai,Partner,MT,3,7,VinDS,2023-11-03
+382,WinMart+ TP.HCM,WinMart+,GT,3,5,,2021-01-03
+383,WinMart Long An,WinMart,MT,3,7,,2025-02-23
+384,Co.op Food - Quảng Nam,Partner,Horeca,2,4,Co.op Food,2024-08-10
+385,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,5,,2021-03-28
+386,WinMart TP.HCM,WinMart,GT,3,6,,2021-12-24
+387,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-03-15
+388,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2023-08-14
+389,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2023-05-20
+390,WinMart+ TP.HCM,WinMart+,MT,3,7,,2025-04-07
+391,WinMart+ Hải Dương,WinMart+,MT,1,1,,2025-05-10
+392,WinMart Đồng Nai,WinMart,MT,3,7,,2020-07-12
+393,WinMart+ Hải Dương,WinMart+,Horeca,1,3,,2024-04-12
+394,WinMart+ Long An,WinMart+,MT,3,6,,2024-02-18
+395,WinMart Đà Nẵng,WinMart,GT,2,4,,2021-02-26
+396,Tạp Hóa Bà Sáu - Hà Nội,Partner,MT,1,3,Tạp Hóa Bà Sáu,2025-01-02
+397,The Coffee House - Huế,Partner,MT,2,4,The Coffee House,2022-10-23
+398,Tạp Hóa Bà Sáu - Huế,Partner,GT,2,4,Tạp Hóa Bà Sáu,2021-12-15
+399,Bách Hóa Xanh - Bắc Ninh,Partner,MT,1,3,Bách Hóa Xanh,2024-03-13
+400,FamilyMart - Bà Rịa-Vũng Tàu,Partner,MT,3,6,FamilyMart,2023-04-21
+401,WinMart+ Hải Dương,WinMart+,GT,1,1,,2021-03-15
+402,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-03-16
+403,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2020-08-11
+404,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2025-05-05
+405,WinMart Hưng Yên,WinMart,MT,1,2,,2024-12-03
+406,WinMart+ Huế,WinMart+,GT,2,4,,2021-11-15
+407,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-09-09
+408,Guardian - Đà Nẵng,Partner,Horeca,2,4,Guardian,2022-02-15
+409,Satra Foods - Bình Dương,Partner,MT,3,5,Satra Foods,2022-01-08
+410,WinMart Quảng Nam,WinMart,MT,2,4,,2025-02-02
+411,Satra Foods - Quảng Nam,Partner,MT,2,4,Satra Foods,2025-05-18
+412,Satra Foods - Quảng Nam,Partner,Horeca,2,4,Satra Foods,2022-07-03
+413,The Coffee House - Đà Nẵng,Partner,GT,2,4,The Coffee House,2024-08-31
+414,GS25 - Vĩnh Phúc,Partner,MT,1,3,GS25,2024-11-26
+415,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-07-06
+416,Co.op Food - Bắc Ninh,Partner,MT,1,2,Co.op Food,2024-03-06
+417,WinMart+ Quảng Nam,WinMart+,Horeca,2,4,,2021-04-11
+418,FamilyMart - Bà Rịa-Vũng Tàu,Partner,GT,3,5,FamilyMart,2025-02-08
+419,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-05-28
+420,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-01-23
+421,WinMart Quảng Nam,WinMart,MT,2,4,,2020-11-18
+422,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-03-01
+423,WinMart Hưng Yên,WinMart,GT,1,1,,2024-04-27
+424,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-08-07
+425,WinMart Huế,WinMart,MT,2,4,,2022-03-17
+426,Tạp Hóa Chú Ba - Đồng Nai,Partner,MT,3,6,Tạp Hóa Chú Ba,2023-03-15
+427,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-09-12
+428,WinMart Hưng Yên,WinMart,MT,1,3,,2021-12-12
+429,WinMart Quảng Ngãi,WinMart,GT,2,4,,2020-08-13
+430,WinMart TP.HCM,WinMart,GT,3,8,,2024-05-03
+431,FamilyMart - Đồng Nai,Partner,MT,3,5,FamilyMart,2022-09-01
+432,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-09-22
+433,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2024-05-24
+434,Bách Hóa Xanh - Huế,Partner,MT,2,4,Bách Hóa Xanh,2024-08-14
+435,VinDS - Đà Nẵng,Partner,MT,2,4,VinDS,2023-07-21
+436,Tạp Hóa Chú Ba - Cần Thơ,Partner,GT,3,8,Tạp Hóa Chú Ba,2022-12-31
+437,WinMart+ Huế,WinMart+,MT,2,4,,2023-09-25
+438,WinMart Hà Nội,WinMart,GT,1,3,,2023-03-14
+439,WinMart Cần Thơ,WinMart,MT,3,6,,2021-12-04
+440,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2023-02-07
+441,WinMart+ Long An,WinMart+,MT,3,8,,2021-01-30
+442,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,5,,2023-06-20
+443,WinMart+ Bình Dương,WinMart+,MT,3,8,,2024-03-04
+444,WinMart+ Long An,WinMart+,MT,3,5,,2023-11-01
+445,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2024-09-03
+446,WinMart Quảng Nam,WinMart,Horeca,2,4,,2022-08-09
+447,Tạp Hóa Chú Ba - Hưng Yên,Partner,MT,1,2,Tạp Hóa Chú Ba,2023-03-29
+448,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,5,,2024-01-16
+449,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2021-03-06
+450,Co.op Food - Bắc Ninh,Partner,MT,1,1,Co.op Food,2022-09-19
+451,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2021-12-25
+452,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-11-03
+453,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2023-08-26
+454,WinMart Đồng Nai,WinMart,MT,3,6,,2024-04-05
+455,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2023-02-21
+456,WinMart+ Hà Nội,WinMart+,GT,1,2,,2023-05-19
+457,WinMart+ Huế,WinMart+,GT,2,4,,2025-02-04
+458,WinMart+ Huế,WinMart+,MT,2,4,,2025-02-19
+459,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-05-28
+460,Satra Foods - Đồng Nai,Partner,MT,3,6,Satra Foods,2024-04-30
+461,WinMart+ Huế,WinMart+,GT,2,4,,2021-06-05
+462,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-10-17
+463,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2022-11-15
+464,WinMart Hà Nội,WinMart,MT,1,2,,2021-08-12
+465,WinMart+ Huế,WinMart+,GT,2,4,,2022-07-15
+466,WinMart+ Đồng Nai,WinMart+,GT,3,7,,2024-11-26
+467,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-06-24
+468,Satra Foods - Vĩnh Phúc,Partner,Horeca,1,2,Satra Foods,2022-09-24
+469,WinMart+ TP.HCM,WinMart+,Horeca,3,7,,2023-03-23
+470,WinMart+ Huế,WinMart+,MT,2,4,,2023-03-26
+471,VinDS - Long An,Partner,MT,3,8,VinDS,2021-07-23
+472,WinMart+ Huế,WinMart+,GT,2,4,,2020-12-25
+473,WinMart+ TP.HCM,WinMart+,MT,3,7,,2022-05-03
+474,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,8,,2023-03-17
+475,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-09-26
+476,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-12-16
+477,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-05-02
+478,WinMart Huế,WinMart,MT,2,4,,2022-02-28
+479,WinMart+ Huế,WinMart+,MT,2,4,,2022-10-24
+480,FamilyMart - Huế,Partner,Horeca,2,4,FamilyMart,2021-08-08
+481,Circle K - Huế,Partner,GT,2,4,Circle K,2024-07-20
+482,The Coffee House - Đồng Nai,Partner,MT,3,6,The Coffee House,2024-03-18
+483,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2021-08-28
+484,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2024-06-02
+485,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-10-26
+486,WinMart TP.HCM,WinMart,MT,3,5,,2023-08-12
+487,Tạp Hóa Chú Ba - Huế,Partner,MT,2,4,Tạp Hóa Chú Ba,2020-08-17
+488,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2023-07-12
+489,WinMart Hải Dương,WinMart,MT,1,1,,2021-12-10
+490,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2024-08-27
+491,WinMart Cần Thơ,WinMart,MT,3,8,,2020-11-07
+492,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-03-07
+493,WinMart+ Quảng Nam,WinMart+,Horeca,2,4,,2021-08-29
+494,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-05-01
+495,Highlands Coffee - Quảng Ngãi,Partner,GT,2,4,Highlands Coffee,2022-03-05
+496,WinMart+ Huế,WinMart+,MT,2,4,,2021-12-07
+497,Tạp Hóa Chú Ba - Cần Thơ,Partner,MT,3,8,Tạp Hóa Chú Ba,2023-08-26
+498,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-03-18
+499,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2023-09-06
+500,GS25 - TP.HCM,Partner,GT,3,6,GS25,2024-04-06
+501,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2024-07-02
+502,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2022-09-25
+503,WinMart Huế,WinMart,MT,2,4,,2022-05-02
+504,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2021-02-24
+505,WinMart Quảng Ngãi,WinMart,MT,2,4,,2025-05-25
+506,WinMart Đà Nẵng,WinMart,GT,2,4,,2022-07-16
+507,WinMart Huế,WinMart,MT,2,4,,2022-03-23
+508,Satra Foods - Hưng Yên,Partner,MT,1,3,Satra Foods,2021-03-12
+509,WinMart Hưng Yên,WinMart,MT,1,2,,2022-02-12
+510,FamilyMart - Đồng Nai,Partner,Horeca,3,7,FamilyMart,2025-03-22
+511,WinMart+ Hà Nội,WinMart+,GT,1,2,,2020-07-03
+512,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-08-27
+513,WinMart+ Long An,WinMart+,MT,3,6,,2021-11-08
+514,WinMart+ Long An,WinMart+,MT,3,6,,2020-07-25
+515,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2021-10-10
+516,WinMart+ TP.HCM,WinMart+,GT,3,6,,2022-03-27
+517,WinMart+ Hải Dương,WinMart+,MT,1,2,,2022-07-02
+518,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,7,,2022-11-22
+519,Co.op Food - Vĩnh Phúc,Partner,GT,1,1,Co.op Food,2023-01-29
+520,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2020-10-18
+521,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-11-01
+522,WinMart+ Bình Dương,WinMart+,Horeca,3,5,,2021-07-16
+523,WinMart+ Hà Nội,WinMart+,GT,1,3,,2020-07-25
+524,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2024-12-24
+525,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-04-11
+526,Bách Hóa Xanh - Hưng Yên,Partner,MT,1,3,Bách Hóa Xanh,2022-07-25
+527,WinMart Huế,WinMart,MT,2,4,,2022-09-26
+528,WinMart+ Cần Thơ,WinMart+,Horeca,3,8,,2022-10-12
+529,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2023-03-25
+530,WinMart Bình Dương,WinMart,GT,3,8,,2023-01-24
+531,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2023-01-24
+532,The Coffee House - Quảng Nam,Partner,GT,2,4,The Coffee House,2025-03-31
+533,The Coffee House - Cần Thơ,Partner,MT,3,8,The Coffee House,2024-08-01
+534,WinMart Bắc Ninh,WinMart,Horeca,1,1,,2023-12-20
+535,Ministop - Quảng Ngãi,Partner,Horeca,2,4,Ministop,2022-01-28
+536,GS25 - Bắc Ninh,Partner,MT,1,2,GS25,2021-05-26
+537,Co.op Food - Quảng Nam,Partner,MT,2,4,Co.op Food,2024-05-02
+538,WinMart+ Đồng Nai,WinMart+,GT,3,7,,2022-10-27
+539,WinMart+ TP.HCM,WinMart+,MT,3,7,,2022-12-12
+540,WinMart Bình Dương,WinMart,GT,3,7,,2023-03-20
+541,GS25 - Bắc Ninh,Partner,GT,1,1,GS25,2022-03-29
+542,WinMart+ TP.HCM,WinMart+,MT,3,7,,2021-06-26
+543,The Coffee House - Bình Dương,Partner,MT,3,7,The Coffee House,2023-03-29
+544,GS25 - Vĩnh Phúc,Partner,GT,1,3,GS25,2023-07-22
+545,WinMart Quảng Nam,WinMart,MT,2,4,,2023-11-07
+546,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2020-09-18
+547,WinMart Quảng Ngãi,WinMart,GT,2,4,,2021-08-18
+548,WinMart Bắc Ninh,WinMart,GT,1,1,,2024-01-17
+549,Bách Hóa Xanh - Hưng Yên,Partner,MT,1,1,Bách Hóa Xanh,2020-12-27
+550,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2023-06-20
+551,WinMart Quảng Ngãi,WinMart,MT,2,4,,2020-11-27
+552,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-07-15
+553,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2025-02-27
+554,The Coffee House - Quảng Ngãi,Partner,GT,2,4,The Coffee House,2020-07-10
+555,WinMart Bắc Ninh,WinMart,MT,1,3,,2025-04-07
+556,WinMart Huế,WinMart,MT,2,4,,2023-06-16
+557,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2024-09-29
+558,Circle K - TP.HCM,Partner,MT,3,7,Circle K,2022-12-25
+559,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2024-05-29
+560,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2021-09-01
+561,Highlands Coffee - Hà Nội,Partner,Horeca,1,2,Highlands Coffee,2023-02-23
+562,Bách Hóa Xanh - Đồng Nai,Partner,Horeca,3,7,Bách Hóa Xanh,2022-11-13
+563,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,5,,2025-03-14
+564,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2023-09-30
+565,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,6,,2021-04-22
+566,WinMart+ Huế,WinMart+,GT,2,4,,2021-04-26
+567,WinMart+ Hà Nội,WinMart+,GT,1,3,,2022-06-14
+568,Guardian - Hưng Yên,Partner,MT,1,2,Guardian,2024-11-12
+569,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2023-10-15
+570,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2023-09-19
+571,WinMart+ Long An,WinMart+,GT,3,5,,2025-04-27
+572,GS25 - Bà Rịa-Vũng Tàu,Partner,GT,3,8,GS25,2024-06-24
+573,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2020-07-11
+574,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2021-02-03
+575,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2025-03-01
+576,WinMart Hải Dương,WinMart,MT,1,1,,2024-05-30
+577,WinMart+ Cần Thơ,WinMart+,GT,3,7,,2021-03-17
+578,WinMart Huế,WinMart,MT,2,4,,2021-03-08
+579,WinMart Quảng Nam,WinMart,MT,2,4,,2022-08-21
+580,WinMart Đà Nẵng,WinMart,GT,2,4,,2024-02-04
+581,GS25 - Quảng Nam,Partner,MT,2,4,GS25,2022-10-04
+582,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-04-21
+583,WinMart+ Hà Nội,WinMart+,MT,1,2,,2021-01-29
+584,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2021-05-18
+585,WinMart Quảng Nam,WinMart,MT,2,4,,2023-08-29
+586,Tạp Hóa Chú Ba - Huế,Partner,MT,2,4,Tạp Hóa Chú Ba,2023-12-09
+587,WinMart+ Long An,WinMart+,Horeca,3,8,,2024-01-08
+588,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2022-09-02
+589,FamilyMart - Quảng Nam,Partner,GT,2,4,FamilyMart,2023-10-08
+590,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-07-16
+591,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-08-20
+592,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2023-11-11
+593,Satra Foods - Quảng Ngãi,Partner,Horeca,2,4,Satra Foods,2021-10-18
+594,WinMart Hải Dương,WinMart,Horeca,1,1,,2022-03-29
+595,Ministop - Huế,Partner,Horeca,2,4,Ministop,2022-12-22
+596,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-05-29
+597,WinMart Quảng Nam,WinMart,GT,2,4,,2024-09-26
+598,GS25 - TP.HCM,Partner,GT,3,6,GS25,2021-12-07
+599,FamilyMart - Vĩnh Phúc,Partner,MT,1,1,FamilyMart,2025-04-04
+600,Highlands Coffee - Đồng Nai,Partner,MT,3,7,Highlands Coffee,2024-06-15
+601,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-07-22
+602,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2020-09-14
+603,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2024-12-05
+604,WinMart+ Long An,WinMart+,GT,3,7,,2024-03-16
+605,WinMart Hải Dương,WinMart,MT,1,3,,2021-08-15
+606,WinMart Huế,WinMart,MT,2,4,,2023-11-12
+607,WinMart+ Huế,WinMart+,MT,2,4,,2022-01-21
+608,WinMart+ Long An,WinMart+,GT,3,8,,2022-04-23
+609,WinMart+ Bình Dương,WinMart+,GT,3,8,,2022-08-14
+610,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2025-06-05
+611,WinMart Quảng Ngãi,WinMart,MT,2,4,,2025-04-12
+612,WinMart+ Huế,WinMart+,MT,2,4,,2021-07-29
+613,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2021-07-28
+614,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-03-16
+615,WinMart Hải Dương,WinMart,MT,1,2,,2025-02-12
+616,WinMart+ TP.HCM,WinMart+,MT,3,7,,2024-04-02
+617,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,3,,2024-12-30
+618,WinMart Hải Dương,WinMart,GT,1,3,,2023-02-12
+619,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2021-05-09
+620,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2022-01-05
+621,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-10-06
+622,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2024-10-17
+623,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-02-23
+624,The Coffee House - Bà Rịa-Vũng Tàu,Partner,GT,3,5,The Coffee House,2020-07-13
+625,WinMart+ Huế,WinMart+,GT,2,4,,2020-11-30
+626,The Coffee House - Hưng Yên,Partner,GT,1,1,The Coffee House,2023-12-21
+627,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-05-29
+628,WinMart Bắc Ninh,WinMart,GT,1,3,,2024-01-05
+629,Co.op Food - Huế,Partner,Horeca,2,4,Co.op Food,2025-04-01
+630,WinMart+ Bình Dương,WinMart+,MT,3,8,,2024-07-22
+631,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-04-20
+632,WinMart Huế,WinMart,GT,2,4,,2022-11-05
+633,WinMart Bình Dương,WinMart,MT,3,6,,2023-04-05
+634,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2023-06-12
+635,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-02-20
+636,WinMart+ Huế,WinMart+,MT,2,4,,2021-03-08
+637,WinMart+ Bình Dương,WinMart+,MT,3,6,,2022-08-16
+638,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-03-16
+639,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-02-22
+640,WinMart Bắc Ninh,WinMart,GT,1,1,,2023-09-28
+641,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-05-17
+642,WinMart+ Hải Dương,WinMart+,GT,1,1,,2022-01-19
+643,WinMart TP.HCM,WinMart,MT,3,6,,2022-11-13
+644,WinMart Huế,WinMart,MT,2,4,,2020-09-26
+645,WinMart Đồng Nai,WinMart,MT,3,8,,2022-02-28
+646,WinMart Quảng Nam,WinMart,Horeca,2,4,,2025-04-05
+647,Tạp Hóa Chú Ba - Quảng Ngãi,Partner,MT,2,4,Tạp Hóa Chú Ba,2023-04-12
+648,WinMart Quảng Ngãi,WinMart,GT,2,4,,2023-01-10
+649,WinMart Đà Nẵng,WinMart,GT,2,4,,2024-12-20
+650,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-09-22
+651,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2023-05-27
+652,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-06-25
+653,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2024-08-18
+654,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2024-05-08
+655,WinMart Bắc Ninh,WinMart,GT,1,2,,2020-07-16
+656,WinMart TP.HCM,WinMart,MT,3,6,,2023-12-14
+657,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,2,,2024-11-16
+658,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2022-11-09
+659,WinMart+ Hải Dương,WinMart+,MT,1,2,,2020-11-14
+660,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-06-03
+661,WinMart+ Huế,WinMart+,MT,2,4,,2021-10-20
+662,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-08-30
+663,Highlands Coffee - Vĩnh Phúc,Partner,Horeca,1,1,Highlands Coffee,2021-07-08
+664,WinMart+ Long An,WinMart+,MT,3,7,,2024-08-22
+665,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2022-10-13
+666,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,7,,2020-09-26
+667,WinMart Hải Dương,WinMart,MT,1,3,,2021-11-13
+668,WinMart+ TP.HCM,WinMart+,MT,3,5,,2022-08-19
+669,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-11-22
+670,WinMart+ TP.HCM,WinMart+,MT,3,6,,2022-11-09
+671,Bách Hóa Xanh - TP.HCM,Partner,MT,3,6,Bách Hóa Xanh,2021-01-03
+672,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2023-02-05
+673,WinMart+ Hà Nội,WinMart+,GT,1,3,,2023-01-15
+674,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2022-08-04
+675,Satra Foods - Đà Nẵng,Partner,MT,2,4,Satra Foods,2021-02-27
+676,WinMart+ Bình Dương,WinMart+,GT,3,5,,2024-08-14
+677,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-06-29
+678,WinMart+ Huế,WinMart+,GT,2,4,,2025-06-15
+679,Circle K - Huế,Partner,MT,2,4,Circle K,2022-06-06
+680,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-09-18
+681,VinDS - TP.HCM,Partner,GT,3,8,VinDS,2023-06-25
+682,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-01-07
+683,Highlands Coffee - Hưng Yên,Partner,GT,1,3,Highlands Coffee,2024-08-19
+684,GS25 - Long An,Partner,MT,3,6,GS25,2022-09-20
+685,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-11-16
+686,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2025-03-10
+687,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2023-12-10
+688,Highlands Coffee - Bà Rịa-Vũng Tàu,Partner,Horeca,3,6,Highlands Coffee,2024-11-19
+689,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-05-02
+690,WinMart+ Bình Dương,WinMart+,MT,3,6,,2022-06-06
+691,WinMart+ Bình Dương,WinMart+,MT,3,8,,2023-03-12
+692,WinMart Cần Thơ,WinMart,MT,3,8,,2023-08-14
+693,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-12-06
+694,Circle K - Quảng Ngãi,Partner,MT,2,4,Circle K,2024-05-28
+695,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-11-06
+696,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2020-12-27
+697,Satra Foods - Cần Thơ,Partner,GT,3,7,Satra Foods,2025-04-22
+698,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2022-02-08
+699,Bách Hóa Xanh - Đà Nẵng,Partner,MT,2,4,Bách Hóa Xanh,2021-04-17
+700,WinMart Bình Dương,WinMart,GT,3,7,,2024-11-02
+701,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-11-27
+702,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-06-29
+703,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2024-09-04
+704,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-03-29
+705,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2022-04-08
+706,Ministop - Bắc Ninh,Partner,MT,1,3,Ministop,2022-02-18
+707,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2023-08-05
+708,WinMart Long An,WinMart,Horeca,3,7,,2025-04-18
+709,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-08-11
+710,WinMart Bà Rịa-Vũng Tàu,WinMart,Horeca,3,7,,2024-06-23
+711,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2025-01-24
+712,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2021-11-04
+713,WinMart+ Hải Dương,WinMart+,MT,1,3,,2021-03-18
+714,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2021-11-25
+715,WinMart Long An,WinMart,MT,3,5,,2024-12-20
+716,Satra Foods - Hà Nội,Partner,MT,1,2,Satra Foods,2021-04-08
+717,WinMart+ Huế,WinMart+,MT,2,4,,2024-11-10
+718,The Coffee House - Đồng Nai,Partner,MT,3,8,The Coffee House,2024-06-13
+719,WinMart Long An,WinMart,GT,3,8,,2020-11-17
+720,WinMart Quảng Nam,WinMart,MT,2,4,,2021-02-12
+721,WinMart+ Hà Nội,WinMart+,GT,1,3,,2024-08-07
+722,Satra Foods - Cần Thơ,Partner,MT,3,8,Satra Foods,2022-12-07
+723,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-05-17
+724,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2022-05-28
+725,Guardian - Cần Thơ,Partner,MT,3,5,Guardian,2024-07-01
+726,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2023-07-11
+727,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-01-01
+728,WinMart+ TP.HCM,WinMart+,Horeca,3,5,,2021-08-18
+729,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-07-30
+730,Guardian - Cần Thơ,Partner,GT,3,8,Guardian,2023-03-01
+731,WinMart Long An,WinMart,MT,3,8,,2020-09-17
+732,WinMart+ Đồng Nai,WinMart+,Horeca,3,7,,2025-01-13
+733,VinDS - Đà Nẵng,Partner,MT,2,4,VinDS,2023-01-03
+734,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2025-03-04
+735,WinMart Quảng Ngãi,WinMart,GT,2,4,,2022-09-11
+736,Guardian - Hải Dương,Partner,MT,1,1,Guardian,2022-10-25
+737,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2023-05-02
+738,WinMart Hà Nội,WinMart,Horeca,1,3,,2024-11-21
+739,WinMart+ Huế,WinMart+,Horeca,2,4,,2022-09-22
+740,WinMart+ TP.HCM,WinMart+,Horeca,3,6,,2025-05-24
+741,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-10-06
+742,WinMart Long An,WinMart,MT,3,6,,2021-07-08
+743,WinMart+ Long An,WinMart+,MT,3,7,,2025-04-06
+744,Bách Hóa Xanh - Vĩnh Phúc,Partner,MT,1,2,Bách Hóa Xanh,2021-04-16
+745,Tạp Hóa Bà Sáu - Hà Nội,Partner,MT,1,2,Tạp Hóa Bà Sáu,2025-05-03
+746,WinMart+ Hải Dương,WinMart+,GT,1,3,,2024-11-05
+747,FamilyMart - Quảng Nam,Partner,GT,2,4,FamilyMart,2022-11-10
+748,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-03-18
+749,Bách Hóa Xanh - Vĩnh Phúc,Partner,Horeca,1,2,Bách Hóa Xanh,2023-07-04
+750,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2021-02-19
+751,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2021-03-02
+752,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2022-01-10
+753,WinMart+ Huế,WinMart+,MT,2,4,,2022-02-18
+754,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-06-29
+755,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-10-13
+756,WinMart Hưng Yên,WinMart,MT,1,1,,2020-12-01
+757,WinMart+ Bình Dương,WinMart+,GT,3,6,,2024-10-20
+758,Co.op Food - Đồng Nai,Partner,MT,3,8,Co.op Food,2024-07-02
+759,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-10-10
+760,WinMart+ Hải Dương,WinMart+,Horeca,1,2,,2025-04-12
+761,VinDS - Bình Dương,Partner,MT,3,8,VinDS,2024-07-31
+762,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2021-04-25
+763,WinMart+ TP.HCM,WinMart+,GT,3,8,,2021-03-12
+764,FamilyMart - Huế,Partner,GT,2,4,FamilyMart,2022-01-09
+765,Tạp Hóa Bà Sáu - Quảng Nam,Partner,MT,2,4,Tạp Hóa Bà Sáu,2023-01-13
+766,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,1,,2023-07-22
+767,WinMart+ Bắc Ninh,WinMart+,Horeca,1,2,,2020-07-07
+768,WinMart Đồng Nai,WinMart,MT,3,7,,2022-07-17
+769,WinMart Vĩnh Phúc,WinMart,GT,1,2,,2021-06-14
+770,Tạp Hóa Chú Ba - Quảng Ngãi,Partner,MT,2,4,Tạp Hóa Chú Ba,2025-03-05
+771,WinMart TP.HCM,WinMart,MT,3,5,,2025-02-22
+772,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2021-02-26
+773,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2023-01-18
+774,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-11-03
+775,WinMart Đà Nẵng,WinMart,GT,2,4,,2023-11-23
+776,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2020-08-10
+777,WinMart Cần Thơ,WinMart,MT,3,5,,2024-08-23
+778,WinMart Bình Dương,WinMart,GT,3,8,,2023-05-26
+779,WinMart Đà Nẵng,WinMart,GT,2,4,,2021-10-11
+780,WinMart+ Hưng Yên,WinMart+,Horeca,1,2,,2024-11-18
+781,WinMart Quảng Nam,WinMart,MT,2,4,,2024-10-25
+782,WinMart+ Long An,WinMart+,MT,3,8,,2022-11-04
+783,Tạp Hóa Chú Ba - Quảng Ngãi,Partner,MT,2,4,Tạp Hóa Chú Ba,2023-09-06
+784,Guardian - Bình Dương,Partner,MT,3,7,Guardian,2024-08-01
+785,WinMart+ Long An,WinMart+,GT,3,6,,2021-06-26
+786,WinMart Hải Dương,WinMart,MT,1,1,,2023-12-24
+787,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2021-01-13
+788,Highlands Coffee - Long An,Partner,Horeca,3,6,Highlands Coffee,2020-11-30
+789,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-09-21
+790,WinMart+ Huế,WinMart+,MT,2,4,,2024-02-20
+791,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2023-11-25
+792,WinMart Hưng Yên,WinMart,MT,1,3,,2025-05-25
+793,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-08-25
+794,Highlands Coffee - Hà Nội,Partner,MT,1,2,Highlands Coffee,2023-08-04
+795,The Coffee House - Bắc Ninh,Partner,MT,1,2,The Coffee House,2025-02-28
+796,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,7,,2025-06-01
+797,WinMart Hải Dương,WinMart,MT,1,1,,2024-10-18
+798,WinMart Huế,WinMart,MT,2,4,,2023-07-26
+799,WinMart+ Huế,WinMart+,MT,2,4,,2025-01-21
+800,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-01-29
+801,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-09-28
+802,WinMart Hà Nội,WinMart,GT,1,2,,2020-09-12
+803,WinMart Đồng Nai,WinMart,GT,3,7,,2021-02-26
+804,WinMart+ Hưng Yên,WinMart+,Horeca,1,1,,2020-08-14
+805,WinMart+ Long An,WinMart+,MT,3,8,,2024-10-15
+806,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2022-09-19
+807,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2022-02-13
+808,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-08-31
+809,WinMart+ Huế,WinMart+,GT,2,4,,2021-11-17
+810,WinMart+ Huế,WinMart+,MT,2,4,,2024-08-26
+811,WinMart Bắc Ninh,WinMart,MT,1,2,,2021-09-27
+812,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2024-11-25
+813,WinMart Hà Nội,WinMart,MT,1,1,,2021-10-21
+814,WinMart+ Hải Dương,WinMart+,MT,1,1,,2023-03-23
+815,WinMart Quảng Ngãi,WinMart,GT,2,4,,2024-02-25
+816,Satra Foods - Quảng Nam,Partner,GT,2,4,Satra Foods,2023-09-17
+817,WinMart Quảng Nam,WinMart,MT,2,4,,2022-10-22
+818,WinMart+ Long An,WinMart+,MT,3,6,,2022-01-09
+819,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-12-02
+820,WinMart+ Quảng Nam,WinMart+,Horeca,2,4,,2022-05-09
+821,Tạp Hóa Chú Ba - Hải Dương,Partner,MT,1,2,Tạp Hóa Chú Ba,2021-02-14
+822,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2023-09-17
+823,WinMart TP.HCM,WinMart,Horeca,3,8,,2020-07-27
+824,WinMart Hà Nội,WinMart,GT,1,3,,2024-12-07
+825,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2024-05-10
+826,WinMart Bình Dương,WinMart,MT,3,6,,2023-03-23
+827,Tạp Hóa Bà Sáu - Long An,Partner,MT,3,6,Tạp Hóa Bà Sáu,2024-11-12
+828,WinMart+ Huế,WinMart+,MT,2,4,,2021-04-17
+829,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-11-08
+830,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2022-11-19
+831,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2025-01-23
+832,WinMart Hà Nội,WinMart,GT,1,3,,2023-04-23
+833,Co.op Food - Quảng Ngãi,Partner,MT,2,4,Co.op Food,2024-12-15
+834,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-02-21
+835,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2021-12-24
+836,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-10-16
+837,WinMart Huế,WinMart,MT,2,4,,2023-11-03
+838,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,7,,2025-01-05
+839,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2025-03-29
+840,Tạp Hóa Chú Ba - Hải Dương,Partner,MT,1,1,Tạp Hóa Chú Ba,2022-01-05
+841,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2023-01-29
+842,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2022-12-28
+843,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2024-05-23
+844,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-05-09
+845,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2023-11-20
+846,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2025-01-25
+847,WinMart Hưng Yên,WinMart,GT,1,3,,2020-10-29
+848,WinMart+ TP.HCM,WinMart+,GT,3,5,,2021-07-21
+849,Bách Hóa Xanh - Hải Dương,Partner,GT,1,2,Bách Hóa Xanh,2024-11-15
+850,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-10-22
+851,Bách Hóa Xanh - Bà Rịa-Vũng Tàu,Partner,MT,3,6,Bách Hóa Xanh,2023-01-27
+852,WinMart+ Cần Thơ,WinMart+,GT,3,7,,2021-10-26
+853,Bách Hóa Xanh - TP.HCM,Partner,GT,3,7,Bách Hóa Xanh,2021-09-18
+854,WinMart Hải Dương,WinMart,MT,1,1,,2022-01-26
+855,Bách Hóa Xanh - Hưng Yên,Partner,GT,1,2,Bách Hóa Xanh,2022-10-17
+856,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2023-12-01
+857,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2020-08-24
+858,WinMart Đồng Nai,WinMart,MT,3,5,,2021-07-25
+859,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2024-04-29
+860,WinMart Quảng Ngãi,WinMart,GT,2,4,,2021-01-04
+861,Tạp Hóa Bà Sáu - TP.HCM,Partner,MT,3,5,Tạp Hóa Bà Sáu,2023-12-07
+862,WinMart+ TP.HCM,WinMart+,GT,3,8,,2022-01-16
+863,Co.op Food - Bà Rịa-Vũng Tàu,Partner,MT,3,8,Co.op Food,2022-10-05
+864,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-12-15
+865,FamilyMart - Đà Nẵng,Partner,GT,2,4,FamilyMart,2024-08-24
+866,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2020-11-01
+867,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-07-02
+868,GS25 - Quảng Nam,Partner,MT,2,4,GS25,2024-05-25
+869,FamilyMart - Đồng Nai,Partner,MT,3,6,FamilyMart,2023-04-11
+870,WinMart TP.HCM,WinMart,MT,3,8,,2020-12-19
+871,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2024-02-28
+872,WinMart Hà Nội,WinMart,MT,1,1,,2024-09-14
+873,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-06-02
+874,WinMart Hà Nội,WinMart,MT,1,2,,2022-04-27
+875,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2023-11-18
+876,Guardian - Vĩnh Phúc,Partner,GT,1,2,Guardian,2024-10-30
+877,WinMart+ Đồng Nai,WinMart+,Horeca,3,8,,2020-07-24
+878,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2024-08-21
+879,WinMart+ Vĩnh Phúc,WinMart+,GT,1,2,,2023-02-11
+880,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,8,,2023-12-13
+881,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2021-11-27
+882,WinMart+ Bình Dương,WinMart+,GT,3,8,,2022-01-16
+883,WinMart+ Huế,WinMart+,GT,2,4,,2024-03-20
+884,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2021-01-06
+885,WinMart+ Bình Dương,WinMart+,Horeca,3,7,,2023-03-27
+886,WinMart Đồng Nai,WinMart,GT,3,5,,2023-09-05
+887,WinMart TP.HCM,WinMart,MT,3,5,,2024-08-04
+888,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2023-10-18
+889,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-08-03
+890,WinMart Long An,WinMart,GT,3,5,,2024-06-14
+891,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2022-05-05
+892,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-10-21
+893,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-01-03
+894,Satra Foods - Cần Thơ,Partner,MT,3,5,Satra Foods,2021-09-01
+895,WinMart+ Cần Thơ,WinMart+,GT,3,8,,2022-06-16
+896,WinMart Bình Dương,WinMart,MT,3,7,,2022-10-06
+897,VinDS - Quảng Nam,Partner,MT,2,4,VinDS,2021-06-03
+898,WinMart+ Hải Dương,WinMart+,MT,1,2,,2023-03-02
+899,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2021-02-07
+900,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-01-28
+901,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-06-21
+902,Circle K - Vĩnh Phúc,Partner,GT,1,1,Circle K,2023-06-04
+903,WinMart Huế,WinMart,MT,2,4,,2024-08-08
+904,WinMart Quảng Nam,WinMart,MT,2,4,,2023-07-31
+905,WinMart Quảng Ngãi,WinMart,GT,2,4,,2025-06-08
+906,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2021-02-01
+907,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2021-03-13
+908,WinMart Quảng Ngãi,WinMart,MT,2,4,,2022-04-20
+909,WinMart+ Huế,WinMart+,MT,2,4,,2021-02-02
+910,WinMart Hải Dương,WinMart,MT,1,1,,2020-08-29
+911,WinMart+ Bình Dương,WinMart+,MT,3,7,,2022-12-28
+912,WinMart+ Huế,WinMart+,GT,2,4,,2020-09-18
+913,WinMart+ Huế,WinMart+,MT,2,4,,2021-09-17
+914,Tạp Hóa Chú Ba - Cần Thơ,Partner,GT,3,8,Tạp Hóa Chú Ba,2021-10-19
+915,WinMart Hải Dương,WinMart,MT,1,3,,2022-12-26
+916,WinMart+ Long An,WinMart+,GT,3,6,,2020-08-18
+917,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2022-10-24
+918,Circle K - Đà Nẵng,Partner,MT,2,4,Circle K,2021-09-08
+919,Guardian - Quảng Ngãi,Partner,MT,2,4,Guardian,2025-04-01
+920,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2024-04-29
+921,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-06-15
+922,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-09-06
+923,Tạp Hóa Bà Sáu - Bắc Ninh,Partner,GT,1,2,Tạp Hóa Bà Sáu,2023-05-13
+924,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-02-13
+925,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2025-01-23
+926,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2021-12-18
+927,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-02-13
+928,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2023-12-08
+929,WinMart Hà Nội,WinMart,MT,1,1,,2024-10-29
+930,WinMart+ Hà Nội,WinMart+,MT,1,3,,2020-12-24
+931,The Coffee House - Vĩnh Phúc,Partner,MT,1,3,The Coffee House,2022-01-31
+932,WinMart Huế,WinMart,MT,2,4,,2023-03-03
+933,WinMart Bắc Ninh,WinMart,MT,1,3,,2021-07-14
+934,Highlands Coffee - Long An,Partner,MT,3,7,Highlands Coffee,2023-10-26
+935,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-03-23
+936,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-11-13
+937,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-04-21
+938,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-03-16
+939,WinMart TP.HCM,WinMart,Horeca,3,8,,2023-11-06
+940,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,8,,2021-06-17
+941,WinMart+ Bình Dương,WinMart+,GT,3,7,,2024-09-16
+942,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2021-07-05
+943,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-02-26
+944,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-07-21
+945,WinMart+ Bình Dương,WinMart+,Horeca,3,8,,2023-11-02
+946,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-05-13
+947,Co.op Food - Huế,Partner,GT,2,4,Co.op Food,2024-01-14
+948,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-05-24
+949,WinMart Bình Dương,WinMart,GT,3,8,,2022-02-16
+950,GS25 - Đồng Nai,Partner,GT,3,7,GS25,2021-12-23
+951,WinMart Cần Thơ,WinMart,MT,3,7,,2021-06-09
+952,WinMart+ Bình Dương,WinMart+,MT,3,8,,2024-04-26
+953,Co.op Food - Huế,Partner,MT,2,4,Co.op Food,2022-05-25
+954,WinMart Hưng Yên,WinMart,MT,1,3,,2023-12-24
+955,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-10-10
+956,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-02-11
+957,Highlands Coffee - Cần Thơ,Partner,GT,3,8,Highlands Coffee,2021-12-07
+958,The Coffee House - Bắc Ninh,Partner,MT,1,2,The Coffee House,2022-06-01
+959,WinMart+ Hà Nội,WinMart+,GT,1,2,,2024-01-30
+960,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-12-12
+961,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2020-12-03
+962,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-02-01
+963,WinMart Hải Dương,WinMart,MT,1,1,,2024-11-25
+964,WinMart+ Huế,WinMart+,GT,2,4,,2022-04-13
+965,WinMart Hà Nội,WinMart,Horeca,1,2,,2023-04-01
+966,WinMart Bắc Ninh,WinMart,MT,1,2,,2025-05-05
+967,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-04-06
+968,WinMart Hải Dương,WinMart,MT,1,3,,2022-06-02
+969,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2023-01-11
+970,WinMart+ Hà Nội,WinMart+,GT,1,2,,2020-12-11
+971,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-05-21
+972,WinMart+ Huế,WinMart+,MT,2,4,,2024-04-10
+973,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2020-11-18
+974,WinMart TP.HCM,WinMart,MT,3,7,,2024-01-10
+975,Co.op Food - Quảng Ngãi,Partner,MT,2,4,Co.op Food,2022-09-04
+976,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2024-07-18
+977,Tạp Hóa Bà Sáu - Đà Nẵng,Partner,MT,2,4,Tạp Hóa Bà Sáu,2021-09-21
+978,Tạp Hóa Chú Ba - Bình Dương,Partner,MT,3,5,Tạp Hóa Chú Ba,2020-07-17
+979,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2024-07-16
+980,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2025-02-25
+981,WinMart Bắc Ninh,WinMart,MT,1,3,,2022-08-14
+982,WinMart+ Huế,WinMart+,MT,2,4,,2023-06-13
+983,WinMart Đồng Nai,WinMart,MT,3,5,,2022-03-11
+984,WinMart Quảng Nam,WinMart,GT,2,4,,2020-10-05
+985,VinDS - Hải Dương,Partner,MT,1,3,VinDS,2021-01-22
+986,WinMart+ Long An,WinMart+,MT,3,6,,2023-11-25
+987,WinMart+ Hải Dương,WinMart+,MT,1,2,,2020-07-24
+988,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-04-18
+989,WinMart Cần Thơ,WinMart,GT,3,5,,2022-09-01
+990,WinMart+ Hải Dương,WinMart+,MT,1,2,,2023-08-15
+991,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2021-05-30
+992,WinMart+ Long An,WinMart+,MT,3,7,,2022-11-13
+993,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-08-05
+994,Bách Hóa Xanh - Vĩnh Phúc,Partner,GT,1,1,Bách Hóa Xanh,2021-07-31
+995,Co.op Food - Huế,Partner,MT,2,4,Co.op Food,2020-10-18
+996,The Coffee House - Đà Nẵng,Partner,MT,2,4,The Coffee House,2021-04-08
+997,Satra Foods - Cần Thơ,Partner,MT,3,8,Satra Foods,2023-12-22
+998,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-07-21
+999,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2021-05-20
+1000,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,7,,2023-10-22
+1001,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2025-03-23
+1002,WinMart Cần Thơ,WinMart,Horeca,3,5,,2022-12-19
+1003,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2023-11-03
+1004,WinMart Quảng Nam,WinMart,GT,2,4,,2023-02-26
+1005,WinMart Long An,WinMart,MT,3,8,,2020-11-14
+1006,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2024-05-27
+1007,WinMart Bắc Ninh,WinMart,GT,1,1,,2022-04-02
+1008,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2024-05-03
+1009,The Coffee House - Bắc Ninh,Partner,MT,1,1,The Coffee House,2023-05-01
+1010,WinMart Bắc Ninh,WinMart,MT,1,2,,2024-12-02
+1011,Bách Hóa Xanh - Huế,Partner,MT,2,4,Bách Hóa Xanh,2020-07-22
+1012,WinMart Huế,WinMart,GT,2,4,,2021-10-01
+1013,WinMart+ TP.HCM,WinMart+,MT,3,6,,2022-05-09
+1014,WinMart Hưng Yên,WinMart,MT,1,2,,2024-10-01
+1015,VinDS - Quảng Nam,Partner,MT,2,4,VinDS,2024-12-04
+1016,WinMart Long An,WinMart,MT,3,7,,2022-12-27
+1017,WinMart+ Huế,WinMart+,GT,2,4,,2025-01-31
+1018,Circle K - Hải Dương,Partner,GT,1,2,Circle K,2022-11-11
+1019,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-12-09
+1020,WinMart+ Hưng Yên,WinMart+,Horeca,1,2,,2022-09-12
+1021,WinMart Hưng Yên,WinMart,MT,1,1,,2025-04-13
+1022,WinMart+ Cần Thơ,WinMart+,Horeca,3,7,,2020-07-02
+1023,WinMart Hải Dương,WinMart,MT,1,1,,2021-03-17
+1024,WinMart Long An,WinMart,GT,3,8,,2022-05-15
+1025,Highlands Coffee - Cần Thơ,Partner,MT,3,6,Highlands Coffee,2021-12-20
+1026,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-12-05
+1027,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-04-10
+1028,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2022-11-05
+1029,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-11-11
+1030,WinMart Long An,WinMart,GT,3,6,,2025-01-22
+1031,WinMart+ Đồng Nai,WinMart+,Horeca,3,7,,2023-08-25
+1032,WinMart Bắc Ninh,WinMart,MT,1,2,,2024-03-31
+1033,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-03-27
+1034,Guardian - Hưng Yên,Partner,GT,1,3,Guardian,2024-05-06
+1035,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2025-04-24
+1036,Highlands Coffee - Quảng Nam,Partner,MT,2,4,Highlands Coffee,2020-10-01
+1037,WinMart+ Hải Dương,WinMart+,Horeca,1,3,,2021-09-26
+1038,WinMart+ Huế,WinMart+,GT,2,4,,2023-05-15
+1039,Bách Hóa Xanh - Huế,Partner,MT,2,4,Bách Hóa Xanh,2024-12-17
+1040,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-04-28
+1041,WinMart Quảng Nam,WinMart,MT,2,4,,2021-02-23
+1042,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-08-07
+1043,FamilyMart - Đồng Nai,Partner,GT,3,8,FamilyMart,2023-05-08
+1044,Bách Hóa Xanh - Đồng Nai,Partner,MT,3,5,Bách Hóa Xanh,2023-08-26
+1045,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-01-14
+1046,WinMart Bắc Ninh,WinMart,MT,1,3,,2023-12-25
+1047,Tạp Hóa Chú Ba - Vĩnh Phúc,Partner,MT,1,2,Tạp Hóa Chú Ba,2021-09-03
+1048,WinMart+ Hà Nội,WinMart+,MT,1,2,,2023-10-05
+1049,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2020-11-20
+1050,WinMart+ Bình Dương,WinMart+,MT,3,7,,2023-04-15
+1051,Tạp Hóa Bà Sáu - Đà Nẵng,Partner,Horeca,2,4,Tạp Hóa Bà Sáu,2023-08-06
+1052,Satra Foods - Vĩnh Phúc,Partner,MT,1,1,Satra Foods,2023-11-04
+1053,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2024-03-27
+1054,FamilyMart - Vĩnh Phúc,Partner,GT,1,3,FamilyMart,2020-12-19
+1055,WinMart Vĩnh Phúc,WinMart,GT,1,2,,2021-11-26
+1056,WinMart+ TP.HCM,WinMart+,GT,3,6,,2023-10-26
+1057,WinMart+ Huế,WinMart+,MT,2,4,,2022-03-27
+1058,WinMart+ Hà Nội,WinMart+,MT,1,1,,2025-05-24
+1059,Circle K - Quảng Nam,Partner,GT,2,4,Circle K,2020-10-04
+1060,VinDS - TP.HCM,Partner,MT,3,5,VinDS,2022-03-28
+1061,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2021-09-23
+1062,WinMart+ Huế,WinMart+,MT,2,4,,2024-10-27
+1063,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2023-05-31
+1064,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-01-06
+1065,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2023-08-14
+1066,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-03-26
+1067,WinMart Quảng Nam,WinMart,MT,2,4,,2024-05-31
+1068,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-09-04
+1069,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-05-17
+1070,GS25 - TP.HCM,Partner,GT,3,8,GS25,2023-01-13
+1071,WinMart Hải Dương,WinMart,MT,1,1,,2024-01-03
+1072,WinMart Hà Nội,WinMart,GT,1,1,,2024-03-04
+1073,Ministop - TP.HCM,Partner,GT,3,6,Ministop,2020-11-16
+1074,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-08-07
+1075,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-01-12
+1076,WinMart+ Long An,WinMart+,GT,3,7,,2020-07-07
+1077,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2020-10-19
+1078,WinMart+ Huế,WinMart+,GT,2,4,,2024-09-12
+1079,WinMart Đồng Nai,WinMart,MT,3,6,,2022-03-11
+1080,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2022-07-31
+1081,WinMart+ Bình Dương,WinMart+,MT,3,5,,2024-06-26
+1082,WinMart+ Hải Dương,WinMart+,MT,1,3,,2024-08-11
+1083,Ministop - Hà Nội,Partner,GT,1,2,Ministop,2020-09-29
+1084,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2020-08-08
+1085,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2021-06-11
+1086,WinMart Quảng Nam,WinMart,MT,2,4,,2024-05-08
+1087,WinMart Bình Dương,WinMart,MT,3,5,,2021-08-12
+1088,WinMart+ Huế,WinMart+,MT,2,4,,2025-01-19
+1089,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2020-08-25
+1090,WinMart+ Cần Thơ,WinMart+,Horeca,3,6,,2022-04-07
+1091,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2024-08-28
+1092,Tạp Hóa Chú Ba - Quảng Ngãi,Partner,MT,2,4,Tạp Hóa Chú Ba,2023-09-23
+1093,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2022-02-06
+1094,WinMart Hưng Yên,WinMart,GT,1,2,,2021-03-24
+1095,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-10-02
+1096,GS25 - Đồng Nai,Partner,MT,3,6,GS25,2024-12-05
+1097,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-02-12
+1098,WinMart+ Hà Nội,WinMart+,GT,1,2,,2022-11-16
+1099,FamilyMart - TP.HCM,Partner,GT,3,6,FamilyMart,2024-04-17
+1100,WinMart Hưng Yên,WinMart,Horeca,1,1,,2024-07-08
+1101,WinMart Đồng Nai,WinMart,MT,3,8,,2020-11-21
+1102,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2024-04-16
+1103,WinMart+ Long An,WinMart+,MT,3,5,,2021-12-27
+1104,WinMart+ TP.HCM,WinMart+,GT,3,5,,2021-05-02
+1105,WinMart+ Long An,WinMart+,Horeca,3,6,,2021-03-11
+1106,WinMart Bình Dương,WinMart,MT,3,8,,2022-12-19
+1107,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2025-03-21
+1108,WinMart Bắc Ninh,WinMart,GT,1,2,,2021-01-25
+1109,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2023-04-25
+1110,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2024-09-10
+1111,VinDS - Hưng Yên,Partner,GT,1,2,VinDS,2022-03-24
+1112,WinMart Long An,WinMart,MT,3,6,,2022-10-09
+1113,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-06-17
+1114,WinMart+ Huế,WinMart+,GT,2,4,,2021-12-13
+1115,GS25 - Bình Dương,Partner,GT,3,8,GS25,2025-04-30
+1116,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2022-12-02
+1117,Tạp Hóa Bà Sáu - Vĩnh Phúc,Partner,MT,1,3,Tạp Hóa Bà Sáu,2024-10-24
+1118,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2024-02-07
+1119,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-07-28
+1120,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2021-01-18
+1121,Highlands Coffee - Bà Rịa-Vũng Tàu,Partner,GT,3,5,Highlands Coffee,2024-05-28
+1122,WinMart Quảng Nam,WinMart,GT,2,4,,2023-02-11
+1123,WinMart+ Hải Dương,WinMart+,MT,1,3,,2021-12-11
+1124,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-10-22
+1125,Ministop - TP.HCM,Partner,MT,3,6,Ministop,2020-10-18
+1126,WinMart+ Huế,WinMart+,MT,2,4,,2022-06-13
+1127,Tạp Hóa Bà Sáu - Huế,Partner,MT,2,4,Tạp Hóa Bà Sáu,2021-07-18
+1128,WinMart+ Bình Dương,WinMart+,MT,3,6,,2025-04-05
+1129,VinDS - Vĩnh Phúc,Partner,MT,1,2,VinDS,2022-12-17
+1130,WinMart+ Hà Nội,WinMart+,MT,1,1,,2024-11-14
+1131,WinMart Đà Nẵng,WinMart,GT,2,4,,2022-12-09
+1132,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-09-07
+1133,The Coffee House - Đồng Nai,Partner,MT,3,5,The Coffee House,2023-03-30
+1134,Tạp Hóa Bà Sáu - Bắc Ninh,Partner,GT,1,2,Tạp Hóa Bà Sáu,2024-02-05
+1135,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2022-08-17
+1136,Ministop - Quảng Ngãi,Partner,MT,2,4,Ministop,2022-06-20
+1137,WinMart Đồng Nai,WinMart,MT,3,8,,2021-08-10
+1138,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2022-09-09
+1139,WinMart Quảng Nam,WinMart,MT,2,4,,2021-05-01
+1140,WinMart+ Bình Dương,WinMart+,Horeca,3,8,,2025-04-07
+1141,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-02-02
+1142,WinMart Đồng Nai,WinMart,Horeca,3,5,,2023-08-11
+1143,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2021-12-13
+1144,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-03-06
+1145,WinMart Hưng Yên,WinMart,MT,1,1,,2023-12-23
+1146,WinMart Quảng Nam,WinMart,Horeca,2,4,,2021-11-15
+1147,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2024-05-24
+1148,WinMart Cần Thơ,WinMart,MT,3,6,,2024-04-07
+1149,WinMart Long An,WinMart,Horeca,3,8,,2022-09-18
+1150,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-01-17
+1151,Bách Hóa Xanh - Quảng Ngãi,Partner,GT,2,4,Bách Hóa Xanh,2024-05-18
+1152,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-07-22
+1153,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2024-09-08
+1154,WinMart Bình Dương,WinMart,MT,3,7,,2020-08-06
+1155,WinMart Đồng Nai,WinMart,MT,3,5,,2024-08-15
+1156,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-03-22
+1157,WinMart Bắc Ninh,WinMart,MT,1,2,,2023-07-04
+1158,WinMart Quảng Ngãi,WinMart,GT,2,4,,2024-05-15
+1159,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2021-01-22
+1160,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-03-27
+1161,WinMart Long An,WinMart,GT,3,7,,2021-05-28
+1162,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2025-01-13
+1163,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2025-01-14
+1164,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2025-05-26
+1165,Satra Foods - Hà Nội,Partner,MT,1,3,Satra Foods,2022-07-13
+1166,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2023-11-13
+1167,WinMart Bắc Ninh,WinMart,MT,1,1,,2021-07-12
+1168,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2024-03-20
+1169,WinMart Bình Dương,WinMart,GT,3,5,,2025-03-01
+1170,WinMart+ Hà Nội,WinMart+,GT,1,1,,2023-03-10
+1171,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-02-20
+1172,Tạp Hóa Bà Sáu - Bà Rịa-Vũng Tàu,Partner,MT,3,7,Tạp Hóa Bà Sáu,2021-04-29
+1173,WinMart+ Hải Dương,WinMart+,GT,1,1,,2022-11-30
+1174,WinMart+ Hà Nội,WinMart+,MT,1,3,,2022-03-04
+1175,WinMart+ Long An,WinMart+,GT,3,6,,2023-03-07
+1176,Circle K - Quảng Nam,Partner,Horeca,2,4,Circle K,2024-09-21
+1177,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-04-04
+1178,Ministop - Huế,Partner,GT,2,4,Ministop,2023-05-31
+1179,WinMart+ Huế,WinMart+,Horeca,2,4,,2022-12-22
+1180,WinMart+ TP.HCM,WinMart+,GT,3,8,,2024-03-07
+1181,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2023-12-25
+1182,WinMart Hải Dương,WinMart,MT,1,2,,2023-01-29
+1183,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2020-12-14
+1184,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-12-02
+1185,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2020-10-03
+1186,Tạp Hóa Bà Sáu - Hải Dương,Partner,MT,1,3,Tạp Hóa Bà Sáu,2022-01-25
+1187,WinMart TP.HCM,WinMart,GT,3,5,,2020-12-30
+1188,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-05-24
+1189,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-02-12
+1190,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2024-06-06
+1191,WinMart Cần Thơ,WinMart,MT,3,7,,2023-06-21
+1192,WinMart+ Huế,WinMart+,MT,2,4,,2025-05-16
+1193,WinMart+ Huế,WinMart+,MT,2,4,,2024-05-03
+1194,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-10-14
+1195,Tạp Hóa Bà Sáu - Bình Dương,Partner,GT,3,7,Tạp Hóa Bà Sáu,2025-03-30
+1196,WinMart Đà Nẵng,WinMart,GT,2,4,,2025-02-18
+1197,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2025-05-04
+1198,WinMart Quảng Nam,WinMart,MT,2,4,,2024-08-02
+1199,WinMart Đà Nẵng,WinMart,GT,2,4,,2021-10-01
+1200,WinMart+ Hà Nội,WinMart+,GT,1,1,,2022-07-14
+1201,WinMart+ Hải Dương,WinMart+,Horeca,1,3,,2024-05-27
+1202,Co.op Food - Quảng Ngãi,Partner,MT,2,4,Co.op Food,2022-12-08
+1203,WinMart+ Hà Nội,WinMart+,MT,1,1,,2022-07-08
+1204,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2021-12-31
+1205,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-11-24
+1206,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2024-04-15
+1207,WinMart+ Huế,WinMart+,MT,2,4,,2021-08-04
+1208,Co.op Food - Bình Dương,Partner,MT,3,5,Co.op Food,2022-10-17
+1209,FamilyMart - Bình Dương,Partner,MT,3,7,FamilyMart,2024-10-24
+1210,WinMart Huế,WinMart,Horeca,2,4,,2022-12-10
+1211,GS25 - Hà Nội,Partner,MT,1,2,GS25,2020-12-21
+1212,Bách Hóa Xanh - TP.HCM,Partner,MT,3,7,Bách Hóa Xanh,2021-05-02
+1213,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2025-06-02
+1214,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,8,,2023-01-19
+1215,WinMart+ Cần Thơ,WinMart+,Horeca,3,6,,2022-08-08
+1216,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2024-11-18
+1217,Satra Foods - Cần Thơ,Partner,MT,3,8,Satra Foods,2021-09-30
+1218,Ministop - Đồng Nai,Partner,MT,3,7,Ministop,2023-11-09
+1219,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2021-01-07
+1220,WinMart+ Hà Nội,WinMart+,MT,1,1,,2025-01-03
+1221,WinMart Quảng Nam,WinMart,GT,2,4,,2023-12-02
+1222,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2024-03-27
+1223,WinMart+ Bình Dương,WinMart+,GT,3,8,,2021-09-16
+1224,Highlands Coffee - Hải Dương,Partner,MT,1,1,Highlands Coffee,2020-11-02
+1225,WinMart+ Hà Nội,WinMart+,GT,1,3,,2023-11-13
+1226,WinMart+ TP.HCM,WinMart+,GT,3,5,,2023-01-16
+1227,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2020-09-01
+1228,FamilyMart - Huế,Partner,Horeca,2,4,FamilyMart,2024-01-13
+1229,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-10-11
+1230,WinMart+ Cần Thơ,WinMart+,GT,3,7,,2022-08-11
+1231,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-12-22
+1232,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2021-02-26
+1233,WinMart Long An,WinMart,MT,3,5,,2021-02-04
+1234,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-09-03
+1235,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-10-18
+1236,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2022-05-29
+1237,WinMart Hà Nội,WinMart,MT,1,3,,2024-06-01
+1238,WinMart Quảng Nam,WinMart,MT,2,4,,2021-10-06
+1239,WinMart Hà Nội,WinMart,MT,1,2,,2022-08-29
+1240,WinMart+ Cần Thơ,WinMart+,GT,3,8,,2022-12-29
+1241,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2021-08-16
+1242,FamilyMart - Hải Dương,Partner,MT,1,2,FamilyMart,2023-08-01
+1243,WinMart+ Cần Thơ,WinMart+,Horeca,3,6,,2021-03-18
+1244,WinMart+ Huế,WinMart+,Horeca,2,4,,2021-12-29
+1245,WinMart Long An,WinMart,Horeca,3,6,,2025-05-18
+1246,WinMart Đồng Nai,WinMart,MT,3,5,,2023-06-21
+1247,WinMart+ Bình Dương,WinMart+,MT,3,8,,2021-05-11
+1248,The Coffee House - Quảng Nam,Partner,MT,2,4,The Coffee House,2023-08-05
+1249,Tạp Hóa Chú Ba - Đồng Nai,Partner,MT,3,7,Tạp Hóa Chú Ba,2022-04-11
+1250,WinMart Cần Thơ,WinMart,MT,3,8,,2023-06-09
+1251,The Coffee House - Hưng Yên,Partner,MT,1,1,The Coffee House,2023-11-18
+1252,WinMart Huế,WinMart,GT,2,4,,2024-01-22
+1253,WinMart+ Bắc Ninh,WinMart+,Horeca,1,1,,2024-03-26
+1254,Co.op Food - Bắc Ninh,Partner,Horeca,1,1,Co.op Food,2024-06-20
+1255,WinMart Huế,WinMart,MT,2,4,,2022-09-12
+1256,WinMart Hà Nội,WinMart,MT,1,1,,2020-10-24
+1257,WinMart+ Vĩnh Phúc,WinMart+,GT,1,2,,2023-08-26
+1258,The Coffee House - Đà Nẵng,Partner,Horeca,2,4,The Coffee House,2021-05-25
+1259,WinMart+ Hưng Yên,WinMart+,Horeca,1,2,,2022-05-24
+1260,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2023-07-13
+1261,WinMart Quảng Ngãi,WinMart,GT,2,4,,2024-04-15
+1262,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2024-02-04
+1263,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-02-28
+1264,GS25 - Bắc Ninh,Partner,MT,1,2,GS25,2025-02-24
+1265,WinMart TP.HCM,WinMart,MT,3,8,,2025-03-20
+1266,Guardian - Quảng Ngãi,Partner,GT,2,4,Guardian,2023-04-06
+1267,WinMart Huế,WinMart,GT,2,4,,2021-01-18
+1268,Ministop - Quảng Nam,Partner,MT,2,4,Ministop,2023-11-02
+1269,Guardian - Huế,Partner,GT,2,4,Guardian,2023-04-16
+1270,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2021-09-16
+1271,WinMart+ Huế,WinMart+,MT,2,4,,2025-04-04
+1272,VinDS - Huế,Partner,MT,2,4,VinDS,2023-03-19
+1273,WinMart+ Long An,WinMart+,MT,3,6,,2023-07-24
+1274,Tạp Hóa Bà Sáu - Bắc Ninh,Partner,MT,1,1,Tạp Hóa Bà Sáu,2024-07-11
+1275,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-10-22
+1276,WinMart+ TP.HCM,WinMart+,GT,3,7,,2021-07-25
+1277,WinMart Quảng Nam,WinMart,GT,2,4,,2025-02-26
+1278,WinMart+ Huế,WinMart+,Horeca,2,4,,2024-01-06
+1279,WinMart+ Đồng Nai,WinMart+,GT,3,8,,2025-05-19
+1280,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-12-06
+1281,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-04-25
+1282,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-02-19
+1283,WinMart+ Hải Dương,WinMart+,MT,1,1,,2022-10-07
+1284,WinMart+ Long An,WinMart+,GT,3,8,,2021-01-20
+1285,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2020-07-29
+1286,Highlands Coffee - Đà Nẵng,Partner,MT,2,4,Highlands Coffee,2022-12-07
+1287,WinMart Vĩnh Phúc,WinMart,GT,1,1,,2024-01-18
+1288,WinMart+ Hải Dương,WinMart+,MT,1,3,,2025-02-27
+1289,Tạp Hóa Bà Sáu - Huế,Partner,MT,2,4,Tạp Hóa Bà Sáu,2021-03-17
+1290,WinMart Đà Nẵng,WinMart,MT,2,4,,2024-11-21
+1291,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2024-12-21
+1292,Highlands Coffee - Huế,Partner,GT,2,4,Highlands Coffee,2022-11-08
+1293,WinMart+ Bình Dương,WinMart+,MT,3,8,,2020-12-18
+1294,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-04-11
+1295,WinMart+ Huế,WinMart+,GT,2,4,,2021-12-16
+1296,WinMart+ Hà Nội,WinMart+,MT,1,2,,2022-05-25
+1297,WinMart Hà Nội,WinMart,GT,1,3,,2021-08-22
+1298,WinMart+ Huế,WinMart+,MT,2,4,,2023-07-19
+1299,WinMart Long An,WinMart,MT,3,7,,2023-08-02
+1300,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,7,,2021-04-30
+1301,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2024-09-18
+1302,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-10-17
+1303,WinMart Bắc Ninh,WinMart,MT,1,1,,2023-02-21
+1304,VinDS - Quảng Nam,Partner,GT,2,4,VinDS,2025-01-04
+1305,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2023-12-16
+1306,FamilyMart - Đồng Nai,Partner,GT,3,6,FamilyMart,2021-11-10
+1307,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2022-07-14
+1308,WinMart Long An,WinMart,MT,3,8,,2022-08-26
+1309,The Coffee House - Huế,Partner,MT,2,4,The Coffee House,2023-09-24
+1310,WinMart+ Huế,WinMart+,GT,2,4,,2020-07-25
+1311,WinMart+ Long An,WinMart+,GT,3,5,,2020-11-27
+1312,WinMart+ Hải Dương,WinMart+,MT,1,3,,2020-07-31
+1313,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-05-05
+1314,WinMart+ Huế,WinMart+,GT,2,4,,2024-03-05
+1315,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2023-03-24
+1316,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2021-08-25
+1317,WinMart Bình Dương,WinMart,MT,3,5,,2024-07-17
+1318,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,6,,2022-09-15
+1319,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2020-09-15
+1320,WinMart+ Bình Dương,WinMart+,GT,3,8,,2020-11-13
+1321,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2021-10-10
+1322,WinMart+ Hà Nội,WinMart+,MT,1,2,,2023-01-16
+1323,Tạp Hóa Chú Ba - Huế,Partner,MT,2,4,Tạp Hóa Chú Ba,2023-12-04
+1324,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-09-08
+1325,Highlands Coffee - Vĩnh Phúc,Partner,MT,1,3,Highlands Coffee,2021-02-04
+1326,Co.op Food - Hưng Yên,Partner,MT,1,3,Co.op Food,2022-08-12
+1327,Ministop - Bình Dương,Partner,MT,3,5,Ministop,2024-07-06
+1328,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2022-04-30
+1329,WinMart+ Long An,WinMart+,GT,3,5,,2024-11-21
+1330,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2020-07-11
+1331,WinMart Vĩnh Phúc,WinMart,GT,1,1,,2022-03-06
+1332,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2021-03-22
+1333,WinMart+ Hưng Yên,WinMart+,Horeca,1,3,,2023-01-07
+1334,WinMart+ Hải Dương,WinMart+,Horeca,1,1,,2021-12-20
+1335,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-09-10
+1336,WinMart Huế,WinMart,MT,2,4,,2025-03-25
+1337,WinMart TP.HCM,WinMart,MT,3,6,,2022-09-19
+1338,WinMart+ TP.HCM,WinMart+,MT,3,8,,2023-03-21
+1339,WinMart Đà Nẵng,WinMart,GT,2,4,,2024-01-07
+1340,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,8,,2022-06-20
+1341,WinMart+ Hà Nội,WinMart+,GT,1,3,,2023-04-22
+1342,WinMart Cần Thơ,WinMart,MT,3,8,,2022-03-29
+1343,Highlands Coffee - Hải Dương,Partner,MT,1,1,Highlands Coffee,2022-10-17
+1344,WinMart+ Huế,WinMart+,MT,2,4,,2023-09-17
+1345,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2023-11-13
+1346,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2024-09-21
+1347,WinMart+ Hà Nội,WinMart+,GT,1,3,,2024-12-04
+1348,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-09-19
+1349,Ministop - Hải Dương,Partner,MT,1,3,Ministop,2022-12-20
+1350,WinMart+ TP.HCM,WinMart+,GT,3,8,,2021-03-23
+1351,WinMart+ Long An,WinMart+,GT,3,5,,2022-01-29
+1352,WinMart Quảng Nam,WinMart,MT,2,4,,2024-06-05
+1353,WinMart Bà Rịa-Vũng Tàu,WinMart,Horeca,3,8,,2024-04-10
+1354,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-06-25
+1355,WinMart+ Hà Nội,WinMart+,MT,1,3,,2022-04-24
+1356,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-12-18
+1357,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-08-18
+1358,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2023-01-24
+1359,VinDS - Hưng Yên,Partner,MT,1,2,VinDS,2024-02-11
+1360,WinMart+ Huế,WinMart+,MT,2,4,,2024-02-19
+1361,Highlands Coffee - TP.HCM,Partner,GT,3,6,Highlands Coffee,2025-06-08
+1362,WinMart Bắc Ninh,WinMart,Horeca,1,3,,2020-12-08
+1363,WinMart Hưng Yên,WinMart,GT,1,2,,2023-04-22
+1364,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2024-02-05
+1365,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2020-10-23
+1366,WinMart Long An,WinMart,GT,3,7,,2022-07-11
+1367,WinMart Long An,WinMart,GT,3,7,,2022-08-25
+1368,WinMart Quảng Ngãi,WinMart,GT,2,4,,2020-11-23
+1369,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2021-09-23
+1370,WinMart+ Quảng Nam,WinMart+,Horeca,2,4,,2021-08-10
+1371,WinMart+ Huế,WinMart+,MT,2,4,,2020-11-17
+1372,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2021-11-02
+1373,WinMart+ Long An,WinMart+,GT,3,8,,2024-05-29
+1374,The Coffee House - Đà Nẵng,Partner,GT,2,4,The Coffee House,2022-06-23
+1375,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,6,,2024-07-14
+1376,Co.op Food - Bà Rịa-Vũng Tàu,Partner,Horeca,3,8,Co.op Food,2022-11-05
+1377,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-08-23
+1378,Ministop - Quảng Nam,Partner,MT,2,4,Ministop,2025-03-25
+1379,WinMart TP.HCM,WinMart,GT,3,6,,2022-05-07
+1380,WinMart+ Hải Dương,WinMart+,GT,1,2,,2023-05-25
+1381,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2025-05-16
+1382,Bách Hóa Xanh - Đồng Nai,Partner,MT,3,7,Bách Hóa Xanh,2023-11-23
+1383,WinMart Hưng Yên,WinMart,MT,1,2,,2025-06-07
+1384,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2024-12-25
+1385,WinMart Long An,WinMart,MT,3,7,,2024-08-12
+1386,WinMart+ Hải Dương,WinMart+,MT,1,3,,2022-11-16
+1387,GS25 - Quảng Ngãi,Partner,MT,2,4,GS25,2023-06-01
+1388,FamilyMart - Quảng Ngãi,Partner,GT,2,4,FamilyMart,2021-12-10
+1389,WinMart+ TP.HCM,WinMart+,GT,3,6,,2024-02-20
+1390,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-03-17
+1391,Ministop - Hải Dương,Partner,MT,1,1,Ministop,2023-11-18
+1392,WinMart Quảng Nam,WinMart,MT,2,4,,2023-06-06
+1393,WinMart+ TP.HCM,WinMart+,MT,3,5,,2022-09-11
+1394,WinMart Quảng Nam,WinMart,MT,2,4,,2021-12-27
+1395,WinMart Hải Dương,WinMart,Horeca,1,3,,2022-03-11
+1396,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2024-08-25
+1397,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2023-12-15
+1398,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2022-07-04
+1399,Tạp Hóa Bà Sáu - Hải Dương,Partner,GT,1,3,Tạp Hóa Bà Sáu,2024-04-20
+1400,WinMart TP.HCM,WinMart,MT,3,6,,2021-07-31
+1401,WinMart Long An,WinMart,GT,3,8,,2021-09-27
+1402,Guardian - Quảng Ngãi,Partner,MT,2,4,Guardian,2024-12-02
+1403,WinMart Hà Nội,WinMart,MT,1,2,,2021-09-21
+1404,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2024-12-20
+1405,Tạp Hóa Bà Sáu - Huế,Partner,MT,2,4,Tạp Hóa Bà Sáu,2021-01-08
+1406,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2023-02-17
+1407,WinMart Cần Thơ,WinMart,GT,3,5,,2021-07-14
+1408,WinMart Long An,WinMart,GT,3,7,,2024-07-21
+1409,FamilyMart - Quảng Nam,Partner,MT,2,4,FamilyMart,2024-01-07
+1410,WinMart Cần Thơ,WinMart,GT,3,6,,2025-05-13
+1411,Ministop - Bắc Ninh,Partner,MT,1,3,Ministop,2023-08-18
+1412,WinMart Quảng Ngãi,WinMart,GT,2,4,,2024-07-27
+1413,WinMart Hưng Yên,WinMart,GT,1,1,,2024-08-18
+1414,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2025-05-09
+1415,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2023-10-27
+1416,WinMart Cần Thơ,WinMart,GT,3,7,,2023-01-15
+1417,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2022-11-16
+1418,WinMart+ Hà Nội,WinMart+,MT,1,1,,2025-04-15
+1419,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2024-01-07
+1420,Highlands Coffee - Cần Thơ,Partner,MT,3,6,Highlands Coffee,2024-05-23
+1421,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-09-05
+1422,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-03-02
+1423,WinMart Hải Dương,WinMart,GT,1,3,,2022-04-06
+1424,WinMart+ Hải Dương,WinMart+,MT,1,1,,2022-09-15
+1425,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-04-25
+1426,WinMart Bắc Ninh,WinMart,GT,1,2,,2023-06-27
+1427,WinMart+ Long An,WinMart+,MT,3,8,,2021-11-23
+1428,WinMart+ Long An,WinMart+,GT,3,7,,2024-04-14
+1429,Bách Hóa Xanh - Huế,Partner,MT,2,4,Bách Hóa Xanh,2025-05-18
+1430,VinDS - Bắc Ninh,Partner,MT,1,3,VinDS,2022-11-19
+1431,VinDS - Vĩnh Phúc,Partner,MT,1,3,VinDS,2023-11-29
+1432,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2023-02-19
+1433,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-01-02
+1434,VinDS - Đồng Nai,Partner,MT,3,8,VinDS,2021-03-05
+1435,WinMart Bình Dương,WinMart,GT,3,5,,2021-10-30
+1436,Tạp Hóa Bà Sáu - Quảng Ngãi,Partner,MT,2,4,Tạp Hóa Bà Sáu,2023-04-01
+1437,Co.op Food - Hà Nội,Partner,MT,1,1,Co.op Food,2020-12-22
+1438,WinMart Bắc Ninh,WinMart,MT,1,1,,2022-07-03
+1439,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-04-01
+1440,Co.op Food - TP.HCM,Partner,MT,3,7,Co.op Food,2024-07-28
+1441,WinMart Huế,WinMart,MT,2,4,,2022-04-07
+1442,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2021-04-19
+1443,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2023-11-12
+1444,WinMart Đồng Nai,WinMart,Horeca,3,6,,2025-04-09
+1445,Bách Hóa Xanh - Long An,Partner,MT,3,8,Bách Hóa Xanh,2024-09-27
+1446,WinMart TP.HCM,WinMart,MT,3,6,,2020-08-21
+1447,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2022-05-04
+1448,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2024-03-06
+1449,Tạp Hóa Chú Ba - Quảng Nam,Partner,MT,2,4,Tạp Hóa Chú Ba,2025-05-09
+1450,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,1,,2021-11-24
+1451,WinMart Đồng Nai,WinMart,MT,3,6,,2025-04-16
+1452,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-11-23
+1453,WinMart+ Huế,WinMart+,Horeca,2,4,,2021-05-01
+1454,WinMart+ Huế,WinMart+,MT,2,4,,2025-04-28
+1455,WinMart Hải Dương,WinMart,GT,1,1,,2023-04-12
+1456,WinMart Hải Dương,WinMart,GT,1,3,,2024-08-28
+1457,WinMart+ Hà Nội,WinMart+,Horeca,1,3,,2023-02-28
+1458,Tạp Hóa Bà Sáu - Vĩnh Phúc,Partner,GT,1,3,Tạp Hóa Bà Sáu,2021-02-13
+1459,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2024-11-16
+1460,WinMart+ Long An,WinMart+,Horeca,3,7,,2024-03-19
+1461,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2023-05-19
+1462,Co.op Food - Bắc Ninh,Partner,MT,1,3,Co.op Food,2022-05-31
+1463,WinMart+ Hải Dương,WinMart+,MT,1,2,,2022-12-02
+1464,WinMart+ Huế,WinMart+,MT,2,4,,2024-12-30
+1465,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2021-09-14
+1466,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2023-02-10
+1467,WinMart TP.HCM,WinMart,GT,3,5,,2023-10-27
+1468,WinMart Hưng Yên,WinMart,GT,1,1,,2021-11-24
+1469,WinMart+ TP.HCM,WinMart+,MT,3,8,,2023-05-28
+1470,WinMart+ Huế,WinMart+,GT,2,4,,2022-03-16
+1471,Bách Hóa Xanh - Bình Dương,Partner,MT,3,8,Bách Hóa Xanh,2022-03-17
+1472,The Coffee House - Quảng Nam,Partner,GT,2,4,The Coffee House,2023-07-07
+1473,Tạp Hóa Bà Sáu - TP.HCM,Partner,GT,3,5,Tạp Hóa Bà Sáu,2023-11-14
+1474,WinMart+ TP.HCM,WinMart+,GT,3,8,,2021-03-18
+1475,WinMart+ Bình Dương,WinMart+,GT,3,7,,2022-07-23
+1476,WinMart Hưng Yên,WinMart,GT,1,2,,2024-07-10
+1477,Co.op Food - Long An,Partner,GT,3,5,Co.op Food,2023-07-02
+1478,WinMart+ Long An,WinMart+,GT,3,7,,2022-08-18
+1479,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,6,,2023-01-14
+1480,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2021-05-01
+1481,WinMart Hải Dương,WinMart,GT,1,2,,2023-12-21
+1482,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2020-10-18
+1483,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2021-12-15
+1484,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-10-04
+1485,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-11-07
+1486,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-10-14
+1487,WinMart Hải Dương,WinMart,MT,1,1,,2021-07-17
+1488,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2021-03-10
+1489,WinMart Bình Dương,WinMart,MT,3,5,,2023-11-20
+1490,WinMart Hưng Yên,WinMart,MT,1,2,,2021-09-30
+1491,FamilyMart - Hà Nội,Partner,MT,1,2,FamilyMart,2023-01-20
+1492,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2022-02-28
+1493,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2025-04-09
+1494,WinMart Long An,WinMart,GT,3,8,,2021-10-05
+1495,WinMart+ TP.HCM,WinMart+,GT,3,6,,2025-05-01
+1496,WinMart Cần Thơ,WinMart,MT,3,5,,2022-11-21
+1497,Highlands Coffee - Quảng Nam,Partner,MT,2,4,Highlands Coffee,2021-04-26
+1498,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-12-11
+1499,GS25 - Huế,Partner,MT,2,4,GS25,2023-12-29
+1500,WinMart+ Hà Nội,WinMart+,MT,1,1,,2024-10-11
+1501,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2022-10-15
+1502,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2020-08-21
+1503,WinMart Quảng Ngãi,WinMart,MT,2,4,,2020-10-09
+1504,WinMart Bắc Ninh,WinMart,GT,1,1,,2022-09-26
+1505,VinDS - Đà Nẵng,Partner,GT,2,4,VinDS,2021-11-22
+1506,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2023-01-28
+1507,WinMart+ Hải Dương,WinMart+,GT,1,1,,2022-08-05
+1508,WinMart+ Hải Dương,WinMart+,MT,1,1,,2022-06-26
+1509,Tạp Hóa Chú Ba - Hưng Yên,Partner,GT,1,2,Tạp Hóa Chú Ba,2022-10-08
+1510,WinMart+ Hải Dương,WinMart+,MT,1,2,,2023-06-06
+1511,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2021-11-21
+1512,WinMart TP.HCM,WinMart,MT,3,8,,2024-01-10
+1513,WinMart+ TP.HCM,WinMart+,GT,3,5,,2024-08-15
+1514,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-07-08
+1515,Tạp Hóa Bà Sáu - Hà Nội,Partner,GT,1,3,Tạp Hóa Bà Sáu,2022-04-24
+1516,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-10-24
+1517,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-12-11
+1518,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2022-08-21
+1519,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-10-26
+1520,VinDS - Vĩnh Phúc,Partner,MT,1,2,VinDS,2023-07-23
+1521,WinMart Bắc Ninh,WinMart,MT,1,2,,2023-03-18
+1522,WinMart Quảng Nam,WinMart,MT,2,4,,2021-01-01
+1523,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2024-10-19
+1524,WinMart+ TP.HCM,WinMart+,MT,3,7,,2024-11-23
+1525,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2021-09-15
+1526,WinMart Cần Thơ,WinMart,MT,3,8,,2020-09-16
+1527,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,7,,2021-08-20
+1528,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2020-07-08
+1529,WinMart+ Cần Thơ,WinMart+,Horeca,3,5,,2023-05-05
+1530,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2020-07-05
+1531,Circle K - Hưng Yên,Partner,MT,1,1,Circle K,2023-09-25
+1532,Highlands Coffee - Cần Thơ,Partner,MT,3,6,Highlands Coffee,2021-06-15
+1533,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2024-01-30
+1534,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2023-05-04
+1535,Circle K - Bắc Ninh,Partner,MT,1,3,Circle K,2022-09-30
+1536,Satra Foods - Huế,Partner,Horeca,2,4,Satra Foods,2021-11-22
+1537,WinMart Bắc Ninh,WinMart,GT,1,3,,2024-08-09
+1538,Highlands Coffee - Long An,Partner,MT,3,5,Highlands Coffee,2023-07-21
+1539,WinMart+ Hải Dương,WinMart+,GT,1,1,,2024-02-27
+1540,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2025-06-14
+1541,WinMart Hưng Yên,WinMart,MT,1,2,,2022-06-27
+1542,WinMart Hà Nội,WinMart,GT,1,1,,2022-08-14
+1543,WinMart+ Huế,WinMart+,GT,2,4,,2024-01-10
+1544,WinMart+ TP.HCM,WinMart+,GT,3,5,,2024-07-24
+1545,GS25 - Huế,Partner,GT,2,4,GS25,2020-07-19
+1546,The Coffee House - Đà Nẵng,Partner,MT,2,4,The Coffee House,2021-07-24
+1547,WinMart Hưng Yên,WinMart,MT,1,3,,2024-08-02
+1548,WinMart+ Hải Dương,WinMart+,Horeca,1,3,,2023-12-18
+1549,WinMart+ TP.HCM,WinMart+,MT,3,6,,2021-01-09
+1550,VinDS - Quảng Ngãi,Partner,GT,2,4,VinDS,2021-11-27
+1551,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2025-05-06
+1552,WinMart+ Huế,WinMart+,Horeca,2,4,,2022-08-03
+1553,WinMart+ Hà Nội,WinMart+,MT,1,3,,2024-02-26
+1554,WinMart Long An,WinMart,MT,3,5,,2024-12-19
+1555,Satra Foods - Bình Dương,Partner,MT,3,5,Satra Foods,2022-10-26
+1556,WinMart+ Bình Dương,WinMart+,MT,3,8,,2024-04-27
+1557,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,8,,2024-05-04
+1558,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-06-07
+1559,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-07-05
+1560,WinMart Quảng Nam,WinMart,GT,2,4,,2022-04-24
+1561,Ministop - Bắc Ninh,Partner,MT,1,2,Ministop,2021-01-03
+1562,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2023-02-26
+1563,Satra Foods - Cần Thơ,Partner,MT,3,8,Satra Foods,2022-05-11
+1564,WinMart+ Hà Nội,WinMart+,GT,1,2,,2020-12-31
+1565,GS25 - Huế,Partner,GT,2,4,GS25,2024-03-09
+1566,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-12-03
+1567,WinMart Đồng Nai,WinMart,MT,3,5,,2022-01-23
+1568,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-03-15
+1569,WinMart Hưng Yên,WinMart,MT,1,1,,2024-04-11
+1570,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-09-29
+1571,WinMart+ Long An,WinMart+,MT,3,7,,2021-09-22
+1572,FamilyMart - Quảng Ngãi,Partner,MT,2,4,FamilyMart,2024-12-21
+1573,Bách Hóa Xanh - Bà Rịa-Vũng Tàu,Partner,GT,3,6,Bách Hóa Xanh,2021-06-28
+1574,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2022-04-30
+1575,WinMart TP.HCM,WinMart,MT,3,5,,2021-08-02
+1576,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,5,,2022-09-12
+1577,Ministop - Đồng Nai,Partner,Horeca,3,6,Ministop,2022-03-29
+1578,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2022-01-27
+1579,WinMart+ Huế,WinMart+,Horeca,2,4,,2021-07-05
+1580,Circle K - Bà Rịa-Vũng Tàu,Partner,GT,3,7,Circle K,2023-04-07
+1581,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2023-12-27
+1582,Bách Hóa Xanh - Cần Thơ,Partner,GT,3,8,Bách Hóa Xanh,2021-04-11
+1583,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-07-16
+1584,WinMart+ Huế,WinMart+,Horeca,2,4,,2020-06-25
+1585,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-05-22
+1586,WinMart Long An,WinMart,MT,3,6,,2023-08-04
+1587,WinMart+ TP.HCM,WinMart+,MT,3,7,,2025-01-12
+1588,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-03-16
+1589,Bách Hóa Xanh - Hà Nội,Partner,MT,1,1,Bách Hóa Xanh,2025-01-23
+1590,WinMart+ Hải Dương,WinMart+,GT,1,3,,2020-10-16
+1591,WinMart Bắc Ninh,WinMart,MT,1,3,,2022-11-26
+1592,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-10-05
+1593,WinMart+ Cần Thơ,WinMart+,Horeca,3,7,,2022-04-06
+1594,WinMart+ Huế,WinMart+,Horeca,2,4,,2021-10-21
+1595,WinMart Hưng Yên,WinMart,MT,1,1,,2022-01-31
+1596,WinMart Bắc Ninh,WinMart,MT,1,1,,2021-12-13
+1597,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2024-09-06
+1598,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-09-11
+1599,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-05-02
+1600,WinMart Đồng Nai,WinMart,Horeca,3,7,,2021-08-04
+1601,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2020-10-16
+1602,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2023-06-23
+1603,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2025-03-06
+1604,WinMart Long An,WinMart,GT,3,5,,2023-01-04
+1605,Co.op Food - Quảng Ngãi,Partner,GT,2,4,Co.op Food,2023-09-12
+1606,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-09-15
+1607,WinMart Quảng Nam,WinMart,GT,2,4,,2021-10-09
+1608,WinMart+ Hưng Yên,WinMart+,Horeca,1,1,,2023-08-11
+1609,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2024-09-09
+1610,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2024-02-02
+1611,VinDS - Bắc Ninh,Partner,MT,1,1,VinDS,2025-03-19
+1612,WinMart TP.HCM,WinMart,MT,3,8,,2022-06-22
+1613,WinMart Quảng Ngãi,WinMart,MT,2,4,,2025-02-05
+1614,Tạp Hóa Bà Sáu - TP.HCM,Partner,GT,3,7,Tạp Hóa Bà Sáu,2021-12-10
+1615,WinMart+ TP.HCM,WinMart+,GT,3,7,,2023-12-14
+1616,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-10-24
+1617,WinMart+ Huế,WinMart+,MT,2,4,,2024-11-26
+1618,FamilyMart - Bắc Ninh,Partner,MT,1,2,FamilyMart,2023-05-13
+1619,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-03-10
+1620,Guardian - Hà Nội,Partner,Horeca,1,2,Guardian,2022-01-17
+1621,WinMart+ Huế,WinMart+,MT,2,4,,2021-09-08
+1622,WinMart+ Hà Nội,WinMart+,MT,1,1,,2023-02-22
+1623,WinMart+ Huế,WinMart+,GT,2,4,,2020-12-04
+1624,WinMart Bắc Ninh,WinMart,MT,1,2,,2025-03-23
+1625,WinMart TP.HCM,WinMart,MT,3,6,,2023-12-13
+1626,WinMart Huế,WinMart,Horeca,2,4,,2024-09-14
+1627,Tạp Hóa Bà Sáu - Bình Dương,Partner,MT,3,5,Tạp Hóa Bà Sáu,2021-02-13
+1628,FamilyMart - Quảng Nam,Partner,MT,2,4,FamilyMart,2025-06-01
+1629,WinMart Huế,WinMart,GT,2,4,,2022-05-16
+1630,The Coffee House - Long An,Partner,MT,3,5,The Coffee House,2023-04-01
+1631,WinMart+ TP.HCM,WinMart+,MT,3,8,,2023-11-06
+1632,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2023-03-22
+1633,WinMart Hải Dương,WinMart,GT,1,3,,2023-11-11
+1634,WinMart Cần Thơ,WinMart,GT,3,7,,2022-01-28
+1635,WinMart Cần Thơ,WinMart,MT,3,8,,2024-04-01
+1636,WinMart Hải Dương,WinMart,MT,1,2,,2024-04-06
+1637,WinMart+ Long An,WinMart+,MT,3,6,,2023-11-14
+1638,WinMart Cần Thơ,WinMart,MT,3,6,,2021-01-28
+1639,WinMart Bắc Ninh,WinMart,Horeca,1,3,,2023-09-25
+1640,FamilyMart - Đà Nẵng,Partner,MT,2,4,FamilyMart,2022-09-13
+1641,WinMart Quảng Nam,WinMart,MT,2,4,,2023-09-29
+1642,FamilyMart - Cần Thơ,Partner,MT,3,7,FamilyMart,2022-12-25
+1643,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2020-08-23
+1644,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2020-12-14
+1645,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-02-19
+1646,WinMart+ Bình Dương,WinMart+,MT,3,5,,2022-09-13
+1647,WinMart Quảng Nam,WinMart,MT,2,4,,2024-12-04
+1648,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-02-09
+1649,Circle K - Quảng Ngãi,Partner,MT,2,4,Circle K,2021-02-07
+1650,WinMart+ Đồng Nai,WinMart+,Horeca,3,8,,2021-11-01
+1651,WinMart Hà Nội,WinMart,MT,1,2,,2022-08-12
+1652,WinMart+ Hải Dương,WinMart+,Horeca,1,2,,2022-12-28
+1653,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-04-09
+1654,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2024-01-09
+1655,Bách Hóa Xanh - Hưng Yên,Partner,Horeca,1,1,Bách Hóa Xanh,2025-04-16
+1656,WinMart+ Huế,WinMart+,MT,2,4,,2021-06-06
+1657,WinMart Huế,WinMart,MT,2,4,,2021-10-10
+1658,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-09-05
+1659,WinMart+ Huế,WinMart+,MT,2,4,,2023-02-26
+1660,Bách Hóa Xanh - Bắc Ninh,Partner,MT,1,3,Bách Hóa Xanh,2024-01-16
+1661,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-04-27
+1662,Highlands Coffee - Quảng Nam,Partner,MT,2,4,Highlands Coffee,2023-11-09
+1663,WinMart+ Long An,WinMart+,GT,3,7,,2021-03-29
+1664,WinMart+ Hà Nội,WinMart+,Horeca,1,2,,2021-07-10
+1665,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-06-08
+1666,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2023-06-26
+1667,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-01-05
+1668,WinMart Hưng Yên,WinMart,GT,1,3,,2021-05-13
+1669,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2023-03-30
+1670,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2022-01-02
+1671,VinDS - Huế,Partner,Horeca,2,4,VinDS,2023-07-04
+1672,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2021-12-25
+1673,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2021-12-27
+1674,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2021-12-08
+1675,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-04-30
+1676,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-11-08
+1677,WinMart Hải Dương,WinMart,GT,1,3,,2021-06-21
+1678,WinMart+ Hà Nội,WinMart+,GT,1,3,,2021-11-16
+1679,The Coffee House - Vĩnh Phúc,Partner,MT,1,1,The Coffee House,2023-12-13
+1680,WinMart+ Long An,WinMart+,MT,3,8,,2024-04-12
+1681,The Coffee House - Vĩnh Phúc,Partner,MT,1,2,The Coffee House,2023-10-18
+1682,GS25 - Quảng Nam,Partner,MT,2,4,GS25,2024-03-12
+1683,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2024-02-27
+1684,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2024-08-15
+1685,WinMart+ Hưng Yên,WinMart+,Horeca,1,1,,2020-12-02
+1686,WinMart Hưng Yên,WinMart,Horeca,1,3,,2025-01-22
+1687,WinMart Vĩnh Phúc,WinMart,GT,1,1,,2020-08-19
+1688,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2021-04-30
+1689,WinMart+ Huế,WinMart+,MT,2,4,,2021-10-29
+1690,WinMart Quảng Nam,WinMart,MT,2,4,,2021-11-07
+1691,Highlands Coffee - Quảng Nam,Partner,MT,2,4,Highlands Coffee,2021-06-16
+1692,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2024-07-17
+1693,Tạp Hóa Chú Ba - Hưng Yên,Partner,MT,1,2,Tạp Hóa Chú Ba,2022-09-05
+1694,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2024-11-22
+1695,WinMart+ Bình Dương,WinMart+,Horeca,3,8,,2024-09-04
+1696,WinMart Long An,WinMart,MT,3,6,,2021-08-13
+1697,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,7,,2024-05-21
+1698,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-09-17
+1699,WinMart Bình Dương,WinMart,MT,3,8,,2023-02-14
+1700,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-03-29
+1701,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2022-11-21
+1702,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2022-09-01
+1703,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,7,,2021-08-08
+1704,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2025-03-31
+1705,WinMart Đồng Nai,WinMart,MT,3,6,,2024-09-07
+1706,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-05-10
+1707,WinMart Đà Nẵng,WinMart,GT,2,4,,2022-08-15
+1708,WinMart Hải Dương,WinMart,MT,1,3,,2021-02-01
+1709,Ministop - Bắc Ninh,Partner,GT,1,3,Ministop,2024-07-12
+1710,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2024-12-12
+1711,WinMart Bình Dương,WinMart,MT,3,7,,2020-12-09
+1712,WinMart TP.HCM,WinMart,MT,3,5,,2022-09-12
+1713,WinMart Hưng Yên,WinMart,MT,1,1,,2021-09-09
+1714,WinMart TP.HCM,WinMart,MT,3,8,,2025-03-14
+1715,WinMart Hải Dương,WinMart,MT,1,3,,2022-04-11
+1716,WinMart Quảng Nam,WinMart,MT,2,4,,2022-05-12
+1717,WinMart Cần Thơ,WinMart,MT,3,8,,2022-05-22
+1718,GS25 - Huế,Partner,MT,2,4,GS25,2022-10-01
+1719,Highlands Coffee - Bà Rịa-Vũng Tàu,Partner,MT,3,5,Highlands Coffee,2021-01-14
+1720,WinMart+ Bình Dương,WinMart+,MT,3,5,,2021-09-14
+1721,Tạp Hóa Chú Ba - Bình Dương,Partner,GT,3,6,Tạp Hóa Chú Ba,2023-07-11
+1722,WinMart Hải Dương,WinMart,MT,1,1,,2022-07-20
+1723,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-05-30
+1724,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2021-02-28
+1725,WinMart Huế,WinMart,GT,2,4,,2021-10-16
+1726,WinMart Quảng Nam,WinMart,GT,2,4,,2021-08-21
+1727,WinMart+ TP.HCM,WinMart+,MT,3,7,,2022-01-28
+1728,WinMart+ Long An,WinMart+,Horeca,3,7,,2021-02-27
+1729,WinMart Quảng Nam,WinMart,Horeca,2,4,,2023-12-30
+1730,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2025-06-06
+1731,WinMart Đồng Nai,WinMart,GT,3,8,,2021-06-22
+1732,Highlands Coffee - Bình Dương,Partner,MT,3,5,Highlands Coffee,2021-09-15
+1733,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-01-20
+1734,Co.op Food - Hưng Yên,Partner,MT,1,2,Co.op Food,2024-02-26
+1735,WinMart Bắc Ninh,WinMart,GT,1,1,,2021-12-24
+1736,WinMart+ Bình Dương,WinMart+,MT,3,5,,2024-01-02
+1737,WinMart+ Long An,WinMart+,GT,3,5,,2021-09-27
+1738,Tạp Hóa Chú Ba - Hải Dương,Partner,MT,1,2,Tạp Hóa Chú Ba,2022-10-06
+1739,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-05-19
+1740,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-12-09
+1741,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2023-09-08
+1742,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-09-08
+1743,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2024-07-27
+1744,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-12-06
+1745,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-01-19
+1746,WinMart Bắc Ninh,WinMart,MT,1,2,,2024-08-25
+1747,Bách Hóa Xanh - Cần Thơ,Partner,MT,3,7,Bách Hóa Xanh,2020-11-25
+1748,Bách Hóa Xanh - Đồng Nai,Partner,MT,3,8,Bách Hóa Xanh,2024-11-01
+1749,Bách Hóa Xanh - Bình Dương,Partner,MT,3,6,Bách Hóa Xanh,2022-02-10
+1750,WinMart+ Bình Dương,WinMart+,GT,3,5,,2024-10-27
+1751,The Coffee House - TP.HCM,Partner,MT,3,8,The Coffee House,2023-08-12
+1752,WinMart+ Long An,WinMart+,MT,3,7,,2024-07-19
+1753,WinMart Hà Nội,WinMart,Horeca,1,1,,2021-06-10
+1754,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2024-01-02
+1755,WinMart Bắc Ninh,WinMart,MT,1,2,,2023-05-04
+1756,WinMart Bình Dương,WinMart,Horeca,3,7,,2024-07-15
+1757,Tạp Hóa Chú Ba - Đà Nẵng,Partner,GT,2,4,Tạp Hóa Chú Ba,2023-03-27
+1758,WinMart+ Hà Nội,WinMart+,GT,1,2,,2021-03-30
+1759,WinMart+ TP.HCM,WinMart+,MT,3,6,,2020-12-14
+1760,GS25 - Đồng Nai,Partner,MT,3,6,GS25,2020-08-23
+1761,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2023-01-13
+1762,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,8,,2023-07-31
+1763,WinMart+ Bình Dương,WinMart+,GT,3,7,,2022-09-07
+1764,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-12-16
+1765,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2023-06-20
+1766,VinDS - Hà Nội,Partner,GT,1,2,VinDS,2023-11-18
+1767,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2022-11-14
+1768,GS25 - Hà Nội,Partner,MT,1,1,GS25,2022-11-13
+1769,WinMart+ Hải Dương,WinMart+,GT,1,1,,2024-08-27
+1770,WinMart Bắc Ninh,WinMart,MT,1,3,,2023-07-15
+1771,WinMart+ Đồng Nai,WinMart+,GT,3,8,,2022-03-23
+1772,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2021-06-11
+1773,WinMart Bắc Ninh,WinMart,MT,1,1,,2023-06-26
+1774,WinMart+ Bình Dương,WinMart+,GT,3,8,,2022-10-17
+1775,Satra Foods - Bình Dương,Partner,MT,3,6,Satra Foods,2024-06-16
+1776,Tạp Hóa Bà Sáu - Cần Thơ,Partner,GT,3,7,Tạp Hóa Bà Sáu,2022-08-13
+1777,WinMart+ Huế,WinMart+,GT,2,4,,2024-05-01
+1778,WinMart Hà Nội,WinMart,MT,1,2,,2020-10-17
+1779,WinMart+ Hưng Yên,WinMart+,Horeca,1,3,,2020-07-05
+1780,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2021-07-13
+1781,WinMart+ Bình Dương,WinMart+,MT,3,5,,2024-06-10
+1782,WinMart Quảng Nam,WinMart,MT,2,4,,2022-11-24
+1783,Ministop - Hải Dương,Partner,MT,1,3,Ministop,2022-12-02
+1784,WinMart+ Hải Dương,WinMart+,MT,1,2,,2021-01-24
+1785,WinMart Vĩnh Phúc,WinMart,Horeca,1,1,,2022-07-20
+1786,Tạp Hóa Bà Sáu - Long An,Partner,MT,3,7,Tạp Hóa Bà Sáu,2023-07-20
+1787,WinMart Cần Thơ,WinMart,MT,3,6,,2021-09-09
+1788,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2021-11-03
+1789,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-02-18
+1790,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2020-08-18
+1791,FamilyMart - Vĩnh Phúc,Partner,MT,1,3,FamilyMart,2022-11-22
+1792,WinMart+ Hải Dương,WinMart+,MT,1,3,,2022-07-15
+1793,Tạp Hóa Chú Ba - Hải Dương,Partner,MT,1,2,Tạp Hóa Chú Ba,2021-03-07
+1794,WinMart Bình Dương,WinMart,MT,3,5,,2024-06-20
+1795,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2021-11-09
+1796,WinMart Long An,WinMart,Horeca,3,8,,2021-07-10
+1797,Tạp Hóa Chú Ba - Hưng Yên,Partner,MT,1,3,Tạp Hóa Chú Ba,2022-01-31
+1798,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2024-10-13
+1799,VinDS - Hưng Yên,Partner,MT,1,2,VinDS,2021-11-04
+1800,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-04-05
+1801,GS25 - Bắc Ninh,Partner,Horeca,1,2,GS25,2022-02-07
+1802,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2023-07-14
+1803,Ministop - Đà Nẵng,Partner,MT,2,4,Ministop,2021-09-12
+1804,WinMart Hải Dương,WinMart,GT,1,1,,2024-09-01
+1805,Ministop - Huế,Partner,MT,2,4,Ministop,2021-09-07
+1806,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-01-05
+1807,WinMart Huế,WinMart,Horeca,2,4,,2022-07-12
+1808,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2021-05-15
+1809,WinMart+ Hà Nội,WinMart+,GT,1,1,,2024-08-13
+1810,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-02-26
+1811,The Coffee House - Bắc Ninh,Partner,Horeca,1,3,The Coffee House,2024-03-13
+1812,WinMart Hải Dương,WinMart,MT,1,1,,2022-06-05
+1813,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-11-18
+1814,WinMart+ Hà Nội,WinMart+,GT,1,3,,2025-05-23
+1815,Circle K - Quảng Ngãi,Partner,MT,2,4,Circle K,2020-07-21
+1816,Co.op Food - Đồng Nai,Partner,MT,3,5,Co.op Food,2024-07-22
+1817,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2021-11-04
+1818,WinMart+ Hưng Yên,WinMart+,Horeca,1,3,,2023-04-22
+1819,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-05-24
+1820,WinMart+ Hưng Yên,WinMart+,Horeca,1,1,,2023-03-12
+1821,WinMart Long An,WinMart,GT,3,6,,2024-12-05
+1822,WinMart Cần Thơ,WinMart,GT,3,7,,2020-06-19
+1823,WinMart+ Long An,WinMart+,MT,3,7,,2022-04-30
+1824,WinMart+ Bình Dương,WinMart+,MT,3,8,,2020-12-27
+1825,Highlands Coffee - Bắc Ninh,Partner,GT,1,3,Highlands Coffee,2021-01-08
+1826,WinMart+ Hải Dương,WinMart+,MT,1,2,,2024-08-11
+1827,WinMart+ TP.HCM,WinMart+,GT,3,5,,2022-02-25
+1828,WinMart+ TP.HCM,WinMart+,GT,3,7,,2022-04-06
+1829,WinMart Huế,WinMart,MT,2,4,,2023-05-08
+1830,Guardian - Bắc Ninh,Partner,MT,1,2,Guardian,2025-06-13
+1831,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,7,,2022-12-21
+1832,WinMart+ TP.HCM,WinMart+,GT,3,8,,2022-07-25
+1833,WinMart+ Cần Thơ,WinMart+,Horeca,3,5,,2021-02-01
+1834,WinMart Long An,WinMart,GT,3,6,,2024-07-12
+1835,WinMart+ Huế,WinMart+,Horeca,2,4,,2021-09-21
+1836,Tạp Hóa Bà Sáu - Hà Nội,Partner,MT,1,2,Tạp Hóa Bà Sáu,2022-08-21
+1837,WinMart+ Long An,WinMart+,MT,3,8,,2021-05-24
+1838,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2025-05-29
+1839,GS25 - Huế,Partner,MT,2,4,GS25,2021-08-14
+1840,Tạp Hóa Chú Ba - Đà Nẵng,Partner,GT,2,4,Tạp Hóa Chú Ba,2023-08-04
+1841,WinMart Quảng Nam,WinMart,MT,2,4,,2023-10-26
+1842,WinMart+ Cần Thơ,WinMart+,Horeca,3,5,,2023-03-22
+1843,WinMart Hưng Yên,WinMart,MT,1,2,,2022-12-19
+1844,WinMart+ Long An,WinMart+,GT,3,8,,2023-10-23
+1845,GS25 - Bắc Ninh,Partner,Horeca,1,1,GS25,2022-02-23
+1846,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-08-17
+1847,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2021-03-04
+1848,WinMart+ Hải Dương,WinMart+,GT,1,1,,2022-10-10
+1849,WinMart Huế,WinMart,MT,2,4,,2023-03-31
+1850,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-05-30
+1851,VinDS - Huế,Partner,GT,2,4,VinDS,2021-11-17
+1852,WinMart+ Hà Nội,WinMart+,MT,1,1,,2023-02-14
+1853,WinMart+ Huế,WinMart+,GT,2,4,,2024-06-12
+1854,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2024-09-29
+1855,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2020-11-07
+1856,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-07-23
+1857,The Coffee House - TP.HCM,Partner,MT,3,5,The Coffee House,2023-04-03
+1858,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-11-23
+1859,WinMart+ Huế,WinMart+,MT,2,4,,2020-07-29
+1860,WinMart Hưng Yên,WinMart,MT,1,2,,2023-02-08
+1861,WinMart Vĩnh Phúc,WinMart,Horeca,1,2,,2023-08-05
+1862,WinMart Huế,WinMart,MT,2,4,,2021-06-11
+1863,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2025-03-02
+1864,WinMart Cần Thơ,WinMart,MT,3,6,,2021-12-17
+1865,Co.op Food - Quảng Ngãi,Partner,MT,2,4,Co.op Food,2023-06-01
+1866,WinMart+ Hải Dương,WinMart+,MT,1,3,,2022-01-04
+1867,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-06-30
+1868,WinMart Long An,WinMart,GT,3,8,,2024-05-07
+1869,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,3,,2021-01-22
+1870,WinMart Bình Dương,WinMart,MT,3,7,,2022-05-27
+1871,WinMart+ Hải Dương,WinMart+,GT,1,2,,2021-04-30
+1872,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2020-12-12
+1873,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-08-31
+1874,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-02-15
+1875,Circle K - Đồng Nai,Partner,GT,3,6,Circle K,2023-07-22
+1876,WinMart Quảng Nam,WinMart,GT,2,4,,2020-12-20
+1877,WinMart+ Huế,WinMart+,GT,2,4,,2021-07-30
+1878,WinMart+ Quảng Ngãi,WinMart+,Horeca,2,4,,2025-04-28
+1879,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-03-19
+1880,WinMart+ Hải Dương,WinMart+,MT,1,3,,2022-02-17
+1881,Tạp Hóa Chú Ba - Hải Dương,Partner,GT,1,2,Tạp Hóa Chú Ba,2023-11-16
+1882,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2020-08-22
+1883,Guardian - Bình Dương,Partner,MT,3,6,Guardian,2023-03-01
+1884,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2023-03-05
+1885,Bách Hóa Xanh - Cần Thơ,Partner,MT,3,8,Bách Hóa Xanh,2021-04-16
+1886,WinMart+ Hà Nội,WinMart+,GT,1,1,,2022-02-12
+1887,WinMart+ TP.HCM,WinMart+,MT,3,8,,2021-03-22
+1888,WinMart Hưng Yên,WinMart,MT,1,3,,2025-02-01
+1889,WinMart Huế,WinMart,MT,2,4,,2022-03-10
+1890,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2020-09-28
+1891,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-09-19
+1892,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-01-12
+1893,WinMart+ Hưng Yên,WinMart+,Horeca,1,2,,2022-03-20
+1894,WinMart+ Bình Dương,WinMart+,GT,3,8,,2024-01-30
+1895,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-06-10
+1896,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-11-23
+1897,Highlands Coffee - Hà Nội,Partner,MT,1,3,Highlands Coffee,2022-06-25
+1898,VinDS - Hải Dương,Partner,GT,1,1,VinDS,2021-04-11
+1899,The Coffee House - Bắc Ninh,Partner,MT,1,3,The Coffee House,2021-07-24
+1900,WinMart Cần Thơ,WinMart,MT,3,6,,2025-05-09
+1901,WinMart Hà Nội,WinMart,MT,1,1,,2024-10-20
+1902,Highlands Coffee - Quảng Nam,Partner,GT,2,4,Highlands Coffee,2024-10-29
+1903,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-01-30
+1904,WinMart+ Huế,WinMart+,MT,2,4,,2021-07-10
+1905,Tạp Hóa Bà Sáu - Long An,Partner,Horeca,3,7,Tạp Hóa Bà Sáu,2021-03-07
+1906,WinMart Quảng Nam,WinMart,MT,2,4,,2021-07-18
+1907,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-10-09
+1908,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-01-07
+1909,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2020-07-02
+1910,Highlands Coffee - Hải Dương,Partner,MT,1,3,Highlands Coffee,2022-08-09
+1911,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2023-05-15
+1912,GS25 - Hải Dương,Partner,MT,1,2,GS25,2025-04-28
+1913,Satra Foods - Bình Dương,Partner,GT,3,5,Satra Foods,2024-04-02
+1914,WinMart+ Hải Dương,WinMart+,GT,1,2,,2022-11-05
+1915,WinMart Bình Dương,WinMart,MT,3,7,,2020-10-22
+1916,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2025-04-22
+1917,WinMart+ TP.HCM,WinMart+,GT,3,6,,2021-03-25
+1918,Ministop - Đà Nẵng,Partner,MT,2,4,Ministop,2025-02-10
+1919,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2025-06-08
+1920,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2024-09-14
+1921,WinMart+ Bình Dương,WinMart+,GT,3,8,,2021-09-16
+1922,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2023-01-27
+1923,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-07-31
+1924,The Coffee House - Quảng Ngãi,Partner,GT,2,4,The Coffee House,2022-01-30
+1925,WinMart+ Cần Thơ,WinMart+,GT,3,7,,2023-05-18
+1926,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-10-05
+1927,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2024-10-14
+1928,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2024-03-19
+1929,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2020-07-12
+1930,WinMart Đà Nẵng,WinMart,GT,2,4,,2022-03-26
+1931,WinMart+ TP.HCM,WinMart+,GT,3,6,,2025-04-16
+1932,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-05-24
+1933,WinMart Huế,WinMart,MT,2,4,,2021-11-22
+1934,GS25 - Vĩnh Phúc,Partner,GT,1,3,GS25,2021-03-05
+1935,WinMart+ Quảng Ngãi,WinMart+,Horeca,2,4,,2022-12-13
+1936,WinMart Quảng Ngãi,WinMart,MT,2,4,,2022-11-04
+1937,WinMart+ TP.HCM,WinMart+,GT,3,6,,2021-12-28
+1938,WinMart+ Long An,WinMart+,MT,3,8,,2024-05-02
+1939,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2025-02-09
+1940,Satra Foods - Cần Thơ,Partner,GT,3,5,Satra Foods,2020-09-18
+1941,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2021-03-19
+1942,The Coffee House - Long An,Partner,Horeca,3,5,The Coffee House,2024-03-04
+1943,WinMart TP.HCM,WinMart,GT,3,5,,2023-08-10
+1944,WinMart Quảng Ngãi,WinMart,GT,2,4,,2020-11-09
+1945,GS25 - Đà Nẵng,Partner,Horeca,2,4,GS25,2025-02-19
+1946,WinMart+ Huế,WinMart+,MT,2,4,,2022-07-10
+1947,The Coffee House - Quảng Ngãi,Partner,MT,2,4,The Coffee House,2022-03-06
+1948,WinMart+ Bình Dương,WinMart+,GT,3,6,,2023-05-18
+1949,WinMart+ Hải Dương,WinMart+,MT,1,3,,2022-08-29
+1950,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-12-31
+1951,WinMart TP.HCM,WinMart,Horeca,3,7,,2023-06-15
+1952,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-05-19
+1953,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-08-22
+1954,WinMart+ Bình Dương,WinMart+,MT,3,8,,2023-10-22
+1955,FamilyMart - Đồng Nai,Partner,MT,3,8,FamilyMart,2021-04-25
+1956,WinMart+ TP.HCM,WinMart+,Horeca,3,5,,2021-01-31
+1957,WinMart+ Long An,WinMart+,GT,3,8,,2023-12-08
+1958,WinMart Đồng Nai,WinMart,GT,3,5,,2023-08-26
+1959,WinMart Quảng Ngãi,WinMart,MT,2,4,,2020-11-15
+1960,WinMart Hải Dương,WinMart,Horeca,1,1,,2022-12-02
+1961,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-07-29
+1962,WinMart+ Bình Dương,WinMart+,MT,3,8,,2024-02-11
+1963,Co.op Food - Long An,Partner,MT,3,8,Co.op Food,2023-09-11
+1964,WinMart+ Đồng Nai,WinMart+,Horeca,3,6,,2021-04-02
+1965,Guardian - Hà Nội,Partner,MT,1,3,Guardian,2020-11-05
+1966,Ministop - Bình Dương,Partner,GT,3,6,Ministop,2022-02-06
+1967,WinMart Quảng Nam,WinMart,MT,2,4,,2022-08-04
+1968,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2020-10-13
+1969,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-04-29
+1970,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2022-10-19
+1971,Tạp Hóa Bà Sáu - Hưng Yên,Partner,MT,1,1,Tạp Hóa Bà Sáu,2024-12-11
+1972,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,5,,2024-03-26
+1973,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2024-07-10
+1974,WinMart+ Huế,WinMart+,MT,2,4,,2023-06-21
+1975,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2021-08-18
+1976,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-04-08
+1977,WinMart TP.HCM,WinMart,Horeca,3,6,,2024-10-04
+1978,GS25 - Vĩnh Phúc,Partner,MT,1,3,GS25,2024-12-13
+1979,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2022-11-06
+1980,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2021-06-29
+1981,WinMart+ Hà Nội,WinMart+,MT,1,3,,2021-03-03
+1982,WinMart Đồng Nai,WinMart,MT,3,5,,2022-07-17
+1983,WinMart Cần Thơ,WinMart,MT,3,8,,2021-07-07
+1984,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2023-09-10
+1985,WinMart+ Hà Nội,WinMart+,MT,1,3,,2024-02-03
+1986,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2025-01-16
+1987,Satra Foods - TP.HCM,Partner,MT,3,8,Satra Foods,2024-05-17
+1988,Guardian - Bình Dương,Partner,GT,3,5,Guardian,2024-09-02
+1989,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-06-08
+1990,Tạp Hóa Chú Ba - Huế,Partner,MT,2,4,Tạp Hóa Chú Ba,2022-07-29
+1991,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2020-06-26
+1992,VinDS - Bắc Ninh,Partner,MT,1,1,VinDS,2022-05-15
+1993,WinMart+ Hà Nội,WinMart+,GT,1,1,,2021-10-08
+1994,VinDS - Hưng Yên,Partner,GT,1,2,VinDS,2022-07-09
+1995,WinMart Quảng Ngãi,WinMart,GT,2,4,,2022-03-12
+1996,Co.op Food - Hưng Yên,Partner,GT,1,3,Co.op Food,2020-12-09
+1997,Ministop - Vĩnh Phúc,Partner,GT,1,2,Ministop,2024-03-02
+1998,WinMart+ TP.HCM,WinMart+,MT,3,7,,2021-04-03
+1999,WinMart+ Bình Dương,WinMart+,MT,3,8,,2021-01-10
+2000,WinMart Đồng Nai,WinMart,MT,3,8,,2022-03-03
+2001,Tạp Hóa Bà Sáu - TP.HCM,Partner,GT,3,8,Tạp Hóa Bà Sáu,2023-02-08
+2002,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-01-09
+2003,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-09-26
+2004,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2022-10-24
+2005,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2022-10-20
+2006,Ministop - Hải Dương,Partner,MT,1,3,Ministop,2022-02-06
+2007,WinMart Bình Dương,WinMart,Horeca,3,6,,2023-12-02
+2008,WinMart+ Huế,WinMart+,GT,2,4,,2025-04-19
+2009,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-07-09
+2010,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2022-11-11
+2011,WinMart+ TP.HCM,WinMart+,GT,3,8,,2022-08-15
+2012,WinMart+ Hải Dương,WinMart+,GT,1,2,,2022-08-19
+2013,Tạp Hóa Chú Ba - Hà Nội,Partner,MT,1,2,Tạp Hóa Chú Ba,2020-08-17
+2014,Bách Hóa Xanh - Huế,Partner,GT,2,4,Bách Hóa Xanh,2021-03-28
+2015,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2021-11-23
+2016,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2025-05-13
+2017,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-10-04
+2018,WinMart Long An,WinMart,Horeca,3,8,,2022-01-30
+2019,WinMart Bình Dương,WinMart,GT,3,8,,2020-10-24
+2020,GS25 - Hà Nội,Partner,MT,1,3,GS25,2025-02-28
+2021,WinMart TP.HCM,WinMart,MT,3,6,,2021-03-11
+2022,WinMart+ Bình Dương,WinMart+,MT,3,8,,2021-03-17
+2023,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-04-10
+2024,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-12-12
+2025,WinMart Bắc Ninh,WinMart,GT,1,2,,2025-05-21
+2026,WinMart Quảng Nam,WinMart,MT,2,4,,2023-05-25
+2027,WinMart Đà Nẵng,WinMart,MT,2,4,,2024-01-19
+2028,WinMart+ TP.HCM,WinMart+,MT,3,8,,2022-02-24
+2029,WinMart Quảng Nam,WinMart,MT,2,4,,2020-11-06
+2030,WinMart+ Long An,WinMart+,Horeca,3,6,,2021-01-30
+2031,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2022-09-25
+2032,WinMart+ Huế,WinMart+,MT,2,4,,2024-09-21
+2033,WinMart Huế,WinMart,MT,2,4,,2021-12-04
+2034,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2021-10-04
+2035,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-03-02
+2036,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2024-03-19
+2037,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-02-08
+2038,WinMart Hưng Yên,WinMart,MT,1,1,,2023-03-08
+2039,Co.op Food - Đà Nẵng,Partner,GT,2,4,Co.op Food,2024-07-23
+2040,WinMart+ Bình Dương,WinMart+,GT,3,5,,2020-06-18
+2041,VinDS - TP.HCM,Partner,MT,3,6,VinDS,2023-08-27
+2042,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2025-05-20
+2043,Highlands Coffee - Hưng Yên,Partner,Horeca,1,2,Highlands Coffee,2024-07-30
+2044,VinDS - Bà Rịa-Vũng Tàu,Partner,MT,3,6,VinDS,2025-02-04
+2045,GS25 - Bà Rịa-Vũng Tàu,Partner,MT,3,6,GS25,2021-07-13
+2046,WinMart+ Bình Dương,WinMart+,MT,3,7,,2025-03-31
+2047,WinMart Quảng Nam,WinMart,Horeca,2,4,,2020-11-19
+2048,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-04-28
+2049,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-10-21
+2050,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-04-06
+2051,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2025-02-10
+2052,WinMart Cần Thơ,WinMart,MT,3,8,,2022-08-30
+2053,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2024-05-14
+2054,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2020-07-21
+2055,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,3,,2022-11-21
+2056,Circle K - Đồng Nai,Partner,Horeca,3,6,Circle K,2023-08-23
+2057,WinMart Cần Thơ,WinMart,GT,3,8,,2023-10-29
+2058,FamilyMart - Cần Thơ,Partner,GT,3,5,FamilyMart,2023-09-01
+2059,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,5,,2024-04-16
+2060,WinMart Cần Thơ,WinMart,GT,3,8,,2022-05-03
+2061,WinMart+ Bình Dương,WinMart+,MT,3,5,,2024-01-12
+2062,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-03-19
+2063,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2021-01-24
+2064,Highlands Coffee - Hà Nội,Partner,MT,1,2,Highlands Coffee,2022-02-23
+2065,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2020-08-24
+2066,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-05-25
+2067,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2025-05-04
+2068,WinMart Hà Nội,WinMart,GT,1,3,,2022-04-02
+2069,WinMart+ Hải Dương,WinMart+,MT,1,3,,2020-12-20
+2070,WinMart+ Hà Nội,WinMart+,GT,1,3,,2021-05-26
+2071,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2022-01-02
+2072,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,5,,2025-05-05
+2073,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2023-11-06
+2074,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-06-26
+2075,Highlands Coffee - Quảng Nam,Partner,Horeca,2,4,Highlands Coffee,2025-01-20
+2076,Satra Foods - Quảng Nam,Partner,Horeca,2,4,Satra Foods,2023-04-01
+2077,WinMart+ Hà Nội,WinMart+,MT,1,3,,2024-03-03
+2078,Bách Hóa Xanh - Đà Nẵng,Partner,MT,2,4,Bách Hóa Xanh,2023-11-12
+2079,Tạp Hóa Chú Ba - Vĩnh Phúc,Partner,GT,1,1,Tạp Hóa Chú Ba,2021-10-11
+2080,WinMart Hà Nội,WinMart,MT,1,3,,2023-08-12
+2081,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2023-09-30
+2082,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2021-07-05
+2083,Bách Hóa Xanh - Bắc Ninh,Partner,GT,1,2,Bách Hóa Xanh,2021-03-30
+2084,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2025-05-24
+2085,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-02-10
+2086,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2021-03-29
+2087,Guardian - Hải Dương,Partner,Horeca,1,3,Guardian,2024-02-10
+2088,Tạp Hóa Chú Ba - Huế,Partner,MT,2,4,Tạp Hóa Chú Ba,2023-05-26
+2089,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-11-02
+2090,WinMart+ Hưng Yên,WinMart+,Horeca,1,1,,2021-02-05
+2091,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2022-10-20
+2092,WinMart Bình Dương,WinMart,MT,3,8,,2023-08-25
+2093,WinMart+ TP.HCM,WinMart+,MT,3,6,,2024-12-20
+2094,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-12-06
+2095,WinMart Hà Nội,WinMart,MT,1,1,,2025-03-04
+2096,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-09-30
+2097,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-03-03
+2098,WinMart+ Hải Dương,WinMart+,MT,1,2,,2025-05-08
+2099,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2025-01-12
+2100,WinMart TP.HCM,WinMart,GT,3,5,,2024-05-26
+2101,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2024-01-13
+2102,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2022-12-09
+2103,WinMart Hưng Yên,WinMart,MT,1,2,,2021-11-05
+2104,WinMart+ Huế,WinMart+,GT,2,4,,2024-07-31
+2105,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2020-12-09
+2106,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-06-14
+2107,WinMart+ Hà Nội,WinMart+,Horeca,1,3,,2025-04-22
+2108,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-01-04
+2109,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-08-17
+2110,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-11-08
+2111,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-11-23
+2112,WinMart Quảng Nam,WinMart,Horeca,2,4,,2021-01-19
+2113,The Coffee House - Quảng Ngãi,Partner,Horeca,2,4,The Coffee House,2021-02-18
+2114,VinDS - Long An,Partner,GT,3,6,VinDS,2024-06-11
+2115,WinMart+ Long An,WinMart+,MT,3,8,,2024-04-20
+2116,Co.op Food - Đồng Nai,Partner,MT,3,8,Co.op Food,2024-12-20
+2117,Guardian - Quảng Ngãi,Partner,GT,2,4,Guardian,2022-10-23
+2118,WinMart Quảng Ngãi,WinMart,MT,2,4,,2025-03-13
+2119,The Coffee House - Bà Rịa-Vũng Tàu,Partner,MT,3,8,The Coffee House,2021-07-28
+2120,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-04-13
+2121,The Coffee House - Đồng Nai,Partner,GT,3,5,The Coffee House,2021-09-23
+2122,WinMart+ TP.HCM,WinMart+,MT,3,7,,2023-05-08
+2123,Tạp Hóa Chú Ba - Long An,Partner,MT,3,7,Tạp Hóa Chú Ba,2023-09-17
+2124,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-04-05
+2125,Guardian - Đà Nẵng,Partner,MT,2,4,Guardian,2021-10-05
+2126,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-01-23
+2127,WinMart Đà Nẵng,WinMart,GT,2,4,,2025-05-20
+2128,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2021-10-07
+2129,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-01-23
+2130,Tạp Hóa Chú Ba - Huế,Partner,Horeca,2,4,Tạp Hóa Chú Ba,2022-12-11
+2131,WinMart Quảng Ngãi,WinMart,GT,2,4,,2021-08-26
+2132,WinMart Hà Nội,WinMart,MT,1,2,,2024-11-17
+2133,WinMart Bắc Ninh,WinMart,GT,1,2,,2025-06-02
+2134,WinMart Hải Dương,WinMart,MT,1,3,,2025-05-08
+2135,WinMart+ Long An,WinMart+,MT,3,8,,2024-01-25
+2136,Co.op Food - Quảng Ngãi,Partner,MT,2,4,Co.op Food,2021-05-14
+2137,WinMart Đà Nẵng,WinMart,GT,2,4,,2024-01-06
+2138,Guardian - Bình Dương,Partner,Horeca,3,6,Guardian,2024-07-18
+2139,WinMart+ Long An,WinMart+,MT,3,7,,2021-12-22
+2140,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2021-12-06
+2141,WinMart TP.HCM,WinMart,MT,3,6,,2022-04-23
+2142,WinMart+ Huế,WinMart+,MT,2,4,,2022-11-19
+2143,Satra Foods - Quảng Ngãi,Partner,MT,2,4,Satra Foods,2021-03-30
+2144,WinMart Huế,WinMart,MT,2,4,,2025-05-22
+2145,Bách Hóa Xanh - Bình Dương,Partner,MT,3,7,Bách Hóa Xanh,2022-09-08
+2146,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2021-03-08
+2147,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2022-03-23
+2148,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-06-19
+2149,WinMart Cần Thơ,WinMart,MT,3,5,,2020-09-06
+2150,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2023-05-28
+2151,WinMart+ Long An,WinMart+,MT,3,8,,2023-04-30
+2152,Ministop - Quảng Nam,Partner,MT,2,4,Ministop,2022-01-02
+2153,WinMart+ Hải Dương,WinMart+,MT,1,2,,2025-01-30
+2154,WinMart+ Huế,WinMart+,MT,2,4,,2024-06-02
+2155,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2023-07-29
+2156,WinMart Bắc Ninh,WinMart,GT,1,3,,2022-03-02
+2157,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-09-12
+2158,WinMart Bình Dương,WinMart,MT,3,8,,2022-03-16
+2159,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-05-17
+2160,WinMart+ Đồng Nai,WinMart+,MT,3,5,,2021-06-11
+2161,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2023-04-17
+2162,WinMart+ Hà Nội,WinMart+,Horeca,1,3,,2024-11-24
+2163,WinMart Hưng Yên,WinMart,MT,1,3,,2023-01-09
+2164,WinMart Bắc Ninh,WinMart,MT,1,2,,2023-02-28
+2165,WinMart Bình Dương,WinMart,MT,3,5,,2021-01-01
+2166,WinMart+ TP.HCM,WinMart+,MT,3,5,,2023-03-27
+2167,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2025-01-16
+2168,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2025-02-02
+2169,WinMart Quảng Nam,WinMart,MT,2,4,,2021-08-23
+2170,WinMart+ TP.HCM,WinMart+,GT,3,6,,2023-01-28
+2171,GS25 - Quảng Nam,Partner,MT,2,4,GS25,2025-01-17
+2172,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2024-11-24
+2173,WinMart Long An,WinMart,Horeca,3,6,,2023-09-01
+2174,FamilyMart - Hà Nội,Partner,GT,1,3,FamilyMart,2020-08-07
+2175,WinMart+ Long An,WinMart+,Horeca,3,5,,2024-09-08
+2176,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-02-16
+2177,WinMart Hải Dương,WinMart,GT,1,2,,2021-11-18
+2178,Satra Foods - Quảng Nam,Partner,GT,2,4,Satra Foods,2020-07-06
+2179,WinMart Quảng Ngãi,WinMart,MT,2,4,,2022-03-04
+2180,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2022-05-04
+2181,WinMart Hà Nội,WinMart,GT,1,3,,2024-03-05
+2182,Satra Foods - Huế,Partner,MT,2,4,Satra Foods,2022-03-26
+2183,VinDS - Hà Nội,Partner,MT,1,1,VinDS,2024-05-23
+2184,WinMart+ TP.HCM,WinMart+,GT,3,6,,2023-05-31
+2185,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2022-02-03
+2186,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2022-10-10
+2187,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-02-16
+2188,WinMart Hà Nội,WinMart,GT,1,3,,2020-10-28
+2189,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2024-10-01
+2190,Bách Hóa Xanh - Đà Nẵng,Partner,MT,2,4,Bách Hóa Xanh,2024-06-17
+2191,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,6,,2021-03-27
+2192,WinMart+ Hải Dương,WinMart+,GT,1,1,,2021-12-18
+2193,WinMart+ Huế,WinMart+,Horeca,2,4,,2023-07-22
+2194,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2021-05-12
+2195,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-10-02
+2196,WinMart Hà Nội,WinMart,Horeca,1,3,,2023-10-30
+2197,WinMart Hải Dương,WinMart,MT,1,2,,2025-01-03
+2198,WinMart Quảng Nam,WinMart,MT,2,4,,2023-07-21
+2199,WinMart Đà Nẵng,WinMart,MT,2,4,,2024-02-20
+2200,Guardian - Quảng Ngãi,Partner,GT,2,4,Guardian,2020-07-18
+2201,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-03-23
+2202,Satra Foods - Hưng Yên,Partner,MT,1,1,Satra Foods,2022-02-08
+2203,WinMart Đà Nẵng,WinMart,MT,2,4,,2024-12-25
+2204,WinMart+ TP.HCM,WinMart+,GT,3,7,,2021-01-29
+2205,Tạp Hóa Bà Sáu - Đà Nẵng,Partner,GT,2,4,Tạp Hóa Bà Sáu,2022-05-27
+2206,WinMart Huế,WinMart,MT,2,4,,2025-03-31
+2207,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2023-11-20
+2208,WinMart+ Hà Nội,WinMart+,MT,1,3,,2025-02-09
+2209,WinMart Huế,WinMart,MT,2,4,,2023-03-13
+2210,WinMart TP.HCM,WinMart,MT,3,7,,2020-09-12
+2211,WinMart+ Hà Nội,WinMart+,MT,1,1,,2020-10-03
+2212,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2020-12-26
+2213,WinMart+ Long An,WinMart+,Horeca,3,8,,2024-09-03
+2214,WinMart+ TP.HCM,WinMart+,MT,3,5,,2022-10-14
+2215,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2020-11-01
+2216,WinMart Quảng Ngãi,WinMart,GT,2,4,,2025-03-03
+2217,WinMart+ TP.HCM,WinMart+,MT,3,5,,2022-06-19
+2218,FamilyMart - Bắc Ninh,Partner,MT,1,2,FamilyMart,2020-07-09
+2219,Guardian - Hưng Yên,Partner,MT,1,2,Guardian,2022-05-28
+2220,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2021-06-14
+2221,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2020-12-27
+2222,WinMart+ Huế,WinMart+,MT,2,4,,2024-03-22
+2223,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2024-03-16
+2224,WinMart Huế,WinMart,MT,2,4,,2021-07-16
+2225,WinMart Bắc Ninh,WinMart,GT,1,3,,2021-07-27
+2226,Guardian - Vĩnh Phúc,Partner,GT,1,2,Guardian,2025-06-06
+2227,WinMart Quảng Nam,WinMart,GT,2,4,,2024-08-18
+2228,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-09-05
+2229,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2021-07-12
+2230,WinMart Quảng Nam,WinMart,MT,2,4,,2021-12-29
+2231,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2023-04-01
+2232,WinMart+ Huế,WinMart+,MT,2,4,,2022-06-22
+2233,WinMart+ Hải Dương,WinMart+,MT,1,2,,2025-03-02
+2234,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2025-06-10
+2235,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-01-13
+2236,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-03-14
+2237,WinMart Cần Thơ,WinMart,MT,3,8,,2020-12-19
+2238,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2022-08-20
+2239,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2020-09-22
+2240,WinMart+ TP.HCM,WinMart+,MT,3,7,,2024-10-24
+2241,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-11-29
+2242,WinMart Hải Dương,WinMart,MT,1,3,,2023-07-20
+2243,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-06-14
+2244,WinMart+ Bình Dương,WinMart+,GT,3,5,,2024-06-26
+2245,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2021-10-23
+2246,WinMart+ Hải Dương,WinMart+,Horeca,1,3,,2023-05-17
+2247,WinMart+ Hải Dương,WinMart+,GT,1,2,,2020-11-14
+2248,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2025-06-07
+2249,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-11-19
+2250,WinMart Huế,WinMart,MT,2,4,,2023-06-29
+2251,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2023-10-02
+2252,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2022-10-12
+2253,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2024-06-02
+2254,WinMart Hà Nội,WinMart,GT,1,1,,2020-12-26
+2255,WinMart+ Huế,WinMart+,Horeca,2,4,,2022-10-27
+2256,FamilyMart - Hà Nội,Partner,MT,1,3,FamilyMart,2023-12-26
+2257,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2023-06-04
+2258,WinMart Bình Dương,WinMart,GT,3,8,,2020-11-01
+2259,The Coffee House - Hà Nội,Partner,GT,1,1,The Coffee House,2024-02-01
+2260,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2024-04-20
+2261,WinMart+ Long An,WinMart+,MT,3,5,,2020-11-16
+2262,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-04-08
+2263,WinMart+ Bình Dương,WinMart+,MT,3,7,,2021-10-25
+2264,WinMart+ Bắc Ninh,WinMart+,Horeca,1,2,,2023-01-29
+2265,Ministop - Hà Nội,Partner,MT,1,2,Ministop,2021-02-16
+2266,WinMart TP.HCM,WinMart,MT,3,7,,2023-07-03
+2267,WinMart+ Hà Nội,WinMart+,MT,1,2,,2021-04-24
+2268,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-12-11
+2269,WinMart+ TP.HCM,WinMart+,GT,3,5,,2025-04-18
+2270,WinMart Quảng Nam,WinMart,GT,2,4,,2024-02-01
+2271,WinMart+ Hà Nội,WinMart+,GT,1,1,,2024-06-07
+2272,WinMart+ Huế,WinMart+,MT,2,4,,2022-07-24
+2273,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2022-08-30
+2274,WinMart TP.HCM,WinMart,Horeca,3,8,,2023-08-14
+2275,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2023-01-29
+2276,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-01-28
+2277,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-10-10
+2278,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2023-12-31
+2279,WinMart Bình Dương,WinMart,MT,3,7,,2025-05-17
+2280,WinMart Hưng Yên,WinMart,GT,1,1,,2024-07-12
+2281,WinMart+ Hà Nội,WinMart+,MT,1,3,,2023-12-26
+2282,WinMart Quảng Nam,WinMart,MT,2,4,,2023-05-13
+2283,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-11-20
+2284,WinMart TP.HCM,WinMart,Horeca,3,7,,2022-09-01
+2285,WinMart Quảng Nam,WinMart,MT,2,4,,2022-05-10
+2286,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-12-03
+2287,WinMart+ Hà Nội,WinMart+,GT,1,3,,2024-05-30
+2288,WinMart+ Hà Nội,WinMart+,MT,1,3,,2022-10-17
+2289,WinMart Quảng Nam,WinMart,MT,2,4,,2025-05-13
+2290,WinMart+ Huế,WinMart+,MT,2,4,,2025-04-23
+2291,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2022-11-11
+2292,WinMart+ Long An,WinMart+,MT,3,8,,2025-02-13
+2293,WinMart Cần Thơ,WinMart,GT,3,6,,2023-05-10
+2294,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,6,,2023-03-30
+2295,WinMart Quảng Nam,WinMart,GT,2,4,,2022-10-22
+2296,WinMart Quảng Ngãi,WinMart,MT,2,4,,2023-01-03
+2297,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2024-10-21
+2298,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2023-06-23
+2299,WinMart+ Hải Dương,WinMart+,MT,1,1,,2023-02-08
+2300,WinMart+ Quảng Nam,WinMart+,Horeca,2,4,,2021-03-20
+2301,WinMart Huế,WinMart,Horeca,2,4,,2021-11-26
+2302,WinMart Hưng Yên,WinMart,GT,1,3,,2023-07-22
+2303,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2021-06-21
+2304,Ministop - TP.HCM,Partner,MT,3,6,Ministop,2021-08-02
+2305,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-06-22
+2306,WinMart Quảng Ngãi,WinMart,MT,2,4,,2024-11-23
+2307,WinMart+ Vĩnh Phúc,WinMart+,GT,1,2,,2020-07-22
+2308,GS25 - Vĩnh Phúc,Partner,GT,1,2,GS25,2022-04-30
+2309,WinMart+ Vĩnh Phúc,WinMart+,GT,1,2,,2024-06-22
+2310,Tạp Hóa Bà Sáu - Bắc Ninh,Partner,Horeca,1,2,Tạp Hóa Bà Sáu,2024-08-24
+2311,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2025-05-21
+2312,WinMart+ Đồng Nai,WinMart+,GT,3,8,,2024-10-02
+2313,Bách Hóa Xanh - Quảng Nam,Partner,GT,2,4,Bách Hóa Xanh,2024-10-21
+2314,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-06-15
+2315,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2022-12-12
+2316,WinMart+ Hải Dương,WinMart+,GT,1,2,,2021-09-02
+2317,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-01-29
+2318,VinDS - Quảng Nam,Partner,MT,2,4,VinDS,2020-11-29
+2319,WinMart+ Hải Dương,WinMart+,MT,1,1,,2022-05-01
+2320,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2024-11-13
+2321,VinDS - Cần Thơ,Partner,MT,3,7,VinDS,2021-04-25
+2322,WinMart Quảng Nam,WinMart,Horeca,2,4,,2023-06-27
+2323,WinMart Đà Nẵng,WinMart,GT,2,4,,2025-02-27
+2324,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2021-06-19
+2325,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-12-21
+2326,WinMart+ Huế,WinMart+,MT,2,4,,2023-11-24
+2327,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-06-21
+2328,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2022-11-12
+2329,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2024-05-11
+2330,Tạp Hóa Bà Sáu - Vĩnh Phúc,Partner,MT,1,3,Tạp Hóa Bà Sáu,2022-03-03
+2331,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-01-31
+2332,WinMart Hà Nội,WinMart,MT,1,3,,2021-08-21
+2333,WinMart+ Hà Nội,WinMart+,MT,1,1,,2020-09-30
+2334,Bách Hóa Xanh - Bắc Ninh,Partner,MT,1,3,Bách Hóa Xanh,2023-02-05
+2335,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2025-05-15
+2336,WinMart+ Hải Dương,WinMart+,MT,1,1,,2020-12-17
+2337,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2025-05-18
+2338,WinMart+ Bình Dương,WinMart+,MT,3,8,,2025-04-17
+2339,WinMart+ Hà Nội,WinMart+,MT,1,1,,2020-09-30
+2340,WinMart+ Hải Dương,WinMart+,GT,1,3,,2023-04-20
+2341,WinMart+ TP.HCM,WinMart+,GT,3,6,,2021-02-05
+2342,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-01-15
+2343,The Coffee House - TP.HCM,Partner,GT,3,6,The Coffee House,2023-05-01
+2344,Tạp Hóa Chú Ba - Hà Nội,Partner,MT,1,3,Tạp Hóa Chú Ba,2020-10-20
+2345,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2022-09-15
+2346,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-11-12
+2347,Guardian - TP.HCM,Partner,GT,3,8,Guardian,2022-07-09
+2348,WinMart+ Hà Nội,WinMart+,GT,1,3,,2024-01-12
+2349,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-12-31
+2350,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2020-06-29
+2351,Circle K - Đà Nẵng,Partner,MT,2,4,Circle K,2024-05-11
+2352,WinMart Đà Nẵng,WinMart,Horeca,2,4,,2022-01-06
+2353,Circle K - Bà Rịa-Vũng Tàu,Partner,MT,3,8,Circle K,2023-09-06
+2354,WinMart Hưng Yên,WinMart,MT,1,1,,2023-11-17
+2355,Tạp Hóa Bà Sáu - Cần Thơ,Partner,MT,3,6,Tạp Hóa Bà Sáu,2022-12-18
+2356,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2023-01-17
+2357,Bách Hóa Xanh - TP.HCM,Partner,MT,3,6,Bách Hóa Xanh,2025-03-15
+2358,WinMart+ Hà Nội,WinMart+,MT,1,1,,2025-03-31
+2359,WinMart+ Đồng Nai,WinMart+,GT,3,8,,2021-08-31
+2360,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2022-09-19
+2361,WinMart Bắc Ninh,WinMart,GT,1,3,,2025-05-06
+2362,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2021-09-16
+2363,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-09-13
+2364,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-07-18
+2365,WinMart+ Hà Nội,WinMart+,MT,1,1,,2022-05-16
+2366,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2020-10-26
+2367,WinMart+ Vĩnh Phúc,WinMart+,GT,1,3,,2023-06-30
+2368,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-08-03
+2369,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-05-31
+2370,WinMart Hưng Yên,WinMart,MT,1,1,,2021-03-28
+2371,Guardian - Quảng Ngãi,Partner,GT,2,4,Guardian,2025-01-02
+2372,WinMart+ Long An,WinMart+,MT,3,7,,2024-10-18
+2373,WinMart+ Huế,WinMart+,MT,2,4,,2021-01-16
+2374,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2021-11-02
+2375,WinMart+ Hải Dương,WinMart+,MT,1,3,,2023-06-05
+2376,Tạp Hóa Bà Sáu - Bình Dương,Partner,MT,3,7,Tạp Hóa Bà Sáu,2022-04-06
+2377,WinMart+ Hải Dương,WinMart+,MT,1,3,,2024-07-18
+2378,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2021-06-27
+2379,Co.op Food - Hà Nội,Partner,MT,1,3,Co.op Food,2021-06-27
+2380,WinMart Huế,WinMart,MT,2,4,,2023-11-10
+2381,Highlands Coffee - TP.HCM,Partner,MT,3,7,Highlands Coffee,2024-04-14
+2382,WinMart Vĩnh Phúc,WinMart,Horeca,1,3,,2022-10-10
+2383,Tạp Hóa Bà Sáu - TP.HCM,Partner,Horeca,3,6,Tạp Hóa Bà Sáu,2023-10-20
+2384,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2022-02-28
+2385,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2025-06-11
+2386,WinMart+ Hải Dương,WinMart+,MT,1,1,,2024-12-04
+2387,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-06-29
+2388,WinMart+ Bình Dương,WinMart+,MT,3,7,,2024-10-16
+2389,Ministop - Đà Nẵng,Partner,MT,2,4,Ministop,2022-02-24
+2390,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2021-05-20
+2391,WinMart+ Đồng Nai,WinMart+,Horeca,3,5,,2024-08-13
+2392,WinMart Quảng Nam,WinMart,Horeca,2,4,,2020-09-24
+2393,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-12-07
+2394,WinMart+ TP.HCM,WinMart+,MT,3,6,,2025-01-10
+2395,WinMart+ Huế,WinMart+,MT,2,4,,2025-04-25
+2396,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2022-05-17
+2397,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2023-06-18
+2398,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2023-01-01
+2399,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2024-07-29
+2400,WinMart Bình Dương,WinMart,MT,3,5,,2024-05-15
+2401,WinMart Hưng Yên,WinMart,MT,1,2,,2020-09-12
+2402,WinMart+ Huế,WinMart+,GT,2,4,,2022-05-26
+2403,WinMart TP.HCM,WinMart,MT,3,5,,2023-07-04
+2404,Bách Hóa Xanh - Bắc Ninh,Partner,MT,1,2,Bách Hóa Xanh,2025-02-15
+2405,WinMart TP.HCM,WinMart,GT,3,6,,2024-03-25
+2406,WinMart+ Hải Dương,WinMart+,GT,1,1,,2023-12-30
+2407,WinMart+ Hải Dương,WinMart+,MT,1,2,,2023-12-06
+2408,Tạp Hóa Bà Sáu - Bà Rịa-Vũng Tàu,Partner,GT,3,7,Tạp Hóa Bà Sáu,2024-11-04
+2409,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2024-10-07
+2410,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-05-14
+2411,WinMart Huế,WinMart,MT,2,4,,2023-10-26
+2412,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2022-09-06
+2413,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-10-31
+2414,WinMart+ Long An,WinMart+,GT,3,5,,2025-05-24
+2415,WinMart Bình Dương,WinMart,GT,3,7,,2024-11-15
+2416,WinMart Bắc Ninh,WinMart,MT,1,2,,2025-03-22
+2417,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,Horeca,3,6,,2025-01-01
+2418,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2022-06-18
+2419,WinMart+ Long An,WinMart+,MT,3,6,,2021-06-20
+2420,WinMart+ Long An,WinMart+,GT,3,5,,2020-07-16
+2421,WinMart+ Bình Dương,WinMart+,MT,3,5,,2021-11-11
+2422,WinMart Đồng Nai,WinMart,MT,3,6,,2024-03-27
+2423,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-08-19
+2424,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2022-01-12
+2425,Tạp Hóa Bà Sáu - Hải Dương,Partner,MT,1,1,Tạp Hóa Bà Sáu,2021-09-01
+2426,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2021-06-26
+2427,WinMart Quảng Nam,WinMart,MT,2,4,,2023-05-28
+2428,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-12-04
+2429,Circle K - Cần Thơ,Partner,MT,3,7,Circle K,2022-11-28
+2430,WinMart Bà Rịa-Vũng Tàu,WinMart,Horeca,3,6,,2024-08-21
+2431,WinMart+ Hải Dương,WinMart+,Horeca,1,1,,2020-12-19
+2432,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2021-01-03
+2433,WinMart Hà Nội,WinMart,MT,1,2,,2022-09-16
+2434,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-10-17
+2435,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2023-10-01
+2436,FamilyMart - Đà Nẵng,Partner,MT,2,4,FamilyMart,2025-01-25
+2437,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-06-12
+2438,Guardian - Hải Dương,Partner,Horeca,1,1,Guardian,2020-11-24
+2439,WinMart+ Huế,WinMart+,MT,2,4,,2020-09-05
+2440,The Coffee House - Đà Nẵng,Partner,MT,2,4,The Coffee House,2022-01-11
+2441,WinMart Quảng Nam,WinMart,GT,2,4,,2022-03-18
+2442,WinMart Long An,WinMart,GT,3,8,,2022-11-04
+2443,WinMart Đà Nẵng,WinMart,GT,2,4,,2023-03-04
+2444,WinMart+ Đà Nẵng,WinMart+,Horeca,2,4,,2021-07-13
+2445,WinMart+ Long An,WinMart+,MT,3,5,,2023-04-27
+2446,VinDS - TP.HCM,Partner,Horeca,3,7,VinDS,2022-08-19
+2447,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2020-11-01
+2448,Bách Hóa Xanh - Bà Rịa-Vũng Tàu,Partner,MT,3,8,Bách Hóa Xanh,2021-01-09
+2449,WinMart Huế,WinMart,MT,2,4,,2025-05-27
+2450,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2022-03-25
+2451,WinMart Đà Nẵng,WinMart,MT,2,4,,2024-04-27
+2452,WinMart Quảng Nam,WinMart,MT,2,4,,2024-05-12
+2453,WinMart+ Hà Nội,WinMart+,MT,1,2,,2023-11-09
+2454,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-03-10
+2455,WinMart+ Hưng Yên,WinMart+,Horeca,1,1,,2023-08-17
+2456,Highlands Coffee - TP.HCM,Partner,MT,3,8,Highlands Coffee,2023-07-22
+2457,WinMart+ Quảng Ngãi,WinMart+,Horeca,2,4,,2025-04-03
+2458,WinMart Quảng Nam,WinMart,MT,2,4,,2021-07-14
+2459,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2024-10-25
+2460,WinMart Vĩnh Phúc,WinMart,GT,1,1,,2024-12-28
+2461,WinMart Bắc Ninh,WinMart,MT,1,1,,2021-05-24
+2462,WinMart Đồng Nai,WinMart,MT,3,6,,2022-01-18
+2463,WinMart Huế,WinMart,MT,2,4,,2022-09-14
+2464,WinMart Long An,WinMart,MT,3,8,,2021-07-14
+2465,WinMart+ Hải Dương,WinMart+,MT,1,3,,2021-01-12
+2466,WinMart Quảng Nam,WinMart,GT,2,4,,2025-04-21
+2467,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,8,,2025-03-20
+2468,WinMart Cần Thơ,WinMart,MT,3,8,,2024-10-04
+2469,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2022-05-15
+2470,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2021-04-30
+2471,WinMart+ Long An,WinMart+,GT,3,8,,2020-10-07
+2472,WinMart+ Huế,WinMart+,MT,2,4,,2020-10-16
+2473,WinMart+ Long An,WinMart+,GT,3,5,,2020-12-11
+2474,Satra Foods - Quảng Nam,Partner,MT,2,4,Satra Foods,2022-12-07
+2475,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2025-01-01
+2476,WinMart Đà Nẵng,WinMart,GT,2,4,,2024-12-11
+2477,WinMart+ Hải Dương,WinMart+,MT,1,2,,2022-09-28
+2478,WinMart Long An,WinMart,MT,3,5,,2024-06-01
+2479,WinMart TP.HCM,WinMart,MT,3,7,,2021-05-05
+2480,WinMart Quảng Ngãi,WinMart,GT,2,4,,2021-02-02
+2481,WinMart+ Huế,WinMart+,MT,2,4,,2021-12-12
+2482,WinMart+ Hà Nội,WinMart+,MT,1,3,,2022-03-14
+2483,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2025-04-26
+2484,WinMart Đồng Nai,WinMart,GT,3,5,,2023-12-09
+2485,Circle K - Bà Rịa-Vũng Tàu,Partner,MT,3,6,Circle K,2021-02-12
+2486,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2022-06-16
+2487,Co.op Food - Đà Nẵng,Partner,Horeca,2,4,Co.op Food,2023-08-01
+2488,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2022-06-02
+2489,WinMart+ Bình Dương,WinMart+,GT,3,8,,2025-06-16
+2490,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2020-08-16
+2491,WinMart+ Bình Dương,WinMart+,MT,3,7,,2020-08-05
+2492,The Coffee House - Cần Thơ,Partner,Horeca,3,8,The Coffee House,2023-08-09
+2493,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-11-15
+2494,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2022-08-13
+2495,WinMart TP.HCM,WinMart,GT,3,8,,2025-03-19
+2496,WinMart Quảng Ngãi,WinMart,MT,2,4,,2022-08-20
+2497,Circle K - Hưng Yên,Partner,MT,1,1,Circle K,2023-08-24
+2498,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2025-01-28
+2499,Bách Hóa Xanh - Long An,Partner,MT,3,6,Bách Hóa Xanh,2021-05-20
+2500,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2024-10-10
+2501,WinMart+ TP.HCM,WinMart+,GT,3,6,,2023-06-23
+2502,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2025-01-27
+2503,WinMart+ Hà Nội,WinMart+,MT,1,1,,2020-10-14
+2504,WinMart Bình Dương,WinMart,GT,3,6,,2023-11-26
+2505,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-06-19
+2506,WinMart TP.HCM,WinMart,MT,3,7,,2023-10-04
+2507,Tạp Hóa Bà Sáu - Quảng Nam,Partner,MT,2,4,Tạp Hóa Bà Sáu,2024-11-08
+2508,WinMart Cần Thơ,WinMart,MT,3,6,,2022-10-20
+2509,WinMart Đà Nẵng,WinMart,MT,2,4,,2020-08-22
+2510,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2020-07-27
+2511,WinMart+ Long An,WinMart+,MT,3,7,,2024-11-14
+2512,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2021-02-01
+2513,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-06-12
+2514,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2021-11-22
+2515,Circle K - Hưng Yên,Partner,MT,1,2,Circle K,2023-06-08
+2516,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-12-22
+2517,The Coffee House - Quảng Nam,Partner,MT,2,4,The Coffee House,2024-01-06
+2518,VinDS - Đà Nẵng,Partner,GT,2,4,VinDS,2022-09-18
+2519,WinMart Cần Thơ,WinMart,MT,3,6,,2022-01-30
+2520,WinMart+ Bình Dương,WinMart+,MT,3,6,,2021-02-17
+2521,WinMart+ Hà Nội,WinMart+,MT,1,3,,2021-09-22
+2522,GS25 - Quảng Nam,Partner,MT,2,4,GS25,2022-06-22
+2523,Bách Hóa Xanh - Bà Rịa-Vũng Tàu,Partner,MT,3,6,Bách Hóa Xanh,2021-02-19
+2524,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2021-10-05
+2525,WinMart Bắc Ninh,WinMart,MT,1,3,,2024-07-28
+2526,WinMart+ TP.HCM,WinMart+,MT,3,6,,2024-10-07
+2527,WinMart Bắc Ninh,WinMart,GT,1,3,,2022-03-22
+2528,WinMart+ Hà Nội,WinMart+,MT,1,2,,2021-05-01
+2529,Satra Foods - Bà Rịa-Vũng Tàu,Partner,GT,3,7,Satra Foods,2025-06-13
+2530,WinMart+ Huế,WinMart+,MT,2,4,,2024-10-19
+2531,WinMart Quảng Ngãi,WinMart,Horeca,2,4,,2024-02-18
+2532,WinMart Hải Dương,WinMart,MT,1,2,,2023-02-01
+2533,WinMart TP.HCM,WinMart,MT,3,6,,2023-08-24
+2534,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-01-25
+2535,WinMart Hưng Yên,WinMart,GT,1,2,,2023-11-06
+2536,WinMart Bắc Ninh,WinMart,MT,1,1,,2025-03-06
+2537,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2023-04-06
+2538,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2021-06-29
+2539,WinMart TP.HCM,WinMart,MT,3,6,,2024-08-15
+2540,WinMart Long An,WinMart,MT,3,6,,2023-09-12
+2541,WinMart+ Bình Dương,WinMart+,GT,3,5,,2024-09-27
+2542,WinMart+ Huế,WinMart+,MT,2,4,,2021-03-10
+2543,WinMart Long An,WinMart,MT,3,6,,2023-06-01
+2544,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-12-22
+2545,Tạp Hóa Chú Ba - Huế,Partner,GT,2,4,Tạp Hóa Chú Ba,2024-02-09
+2546,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-02-21
+2547,WinMart+ Cần Thơ,WinMart+,GT,3,6,,2023-08-02
+2548,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2022-08-30
+2549,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2021-02-15
+2550,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2023-07-17
+2551,WinMart+ Hà Nội,WinMart+,GT,1,1,,2024-11-22
+2552,WinMart+ Bình Dương,WinMart+,GT,3,6,,2022-01-02
+2553,WinMart Đà Nẵng,WinMart,MT,2,4,,2020-12-10
+2554,WinMart+ TP.HCM,WinMart+,MT,3,6,,2024-12-09
+2555,WinMart Hải Dương,WinMart,MT,1,1,,2022-12-24
+2556,WinMart+ Hải Dương,WinMart+,GT,1,2,,2020-11-23
+2557,Highlands Coffee - Quảng Ngãi,Partner,GT,2,4,Highlands Coffee,2021-09-08
+2558,WinMart Hải Dương,WinMart,GT,1,2,,2021-04-06
+2559,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2023-03-19
+2560,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,5,,2024-12-26
+2561,WinMart Huế,WinMart,GT,2,4,,2020-12-23
+2562,WinMart+ Huế,WinMart+,MT,2,4,,2023-07-01
+2563,WinMart Hưng Yên,WinMart,MT,1,1,,2020-11-12
+2564,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2020-09-13
+2565,WinMart+ Bình Dương,WinMart+,Horeca,3,5,,2022-05-05
+2566,WinMart+ Long An,WinMart+,Horeca,3,5,,2025-05-20
+2567,WinMart Huế,WinMart,MT,2,4,,2025-05-06
+2568,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2025-03-06
+2569,WinMart Quảng Nam,WinMart,MT,2,4,,2021-11-06
+2570,WinMart+ Cần Thơ,WinMart+,GT,3,8,,2024-10-31
+2571,WinMart Long An,WinMart,GT,3,7,,2023-06-09
+2572,WinMart+ Long An,WinMart+,MT,3,7,,2024-02-10
+2573,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2021-08-11
+2574,WinMart Hưng Yên,WinMart,GT,1,1,,2022-01-30
+2575,WinMart+ Long An,WinMart+,MT,3,8,,2023-02-08
+2576,WinMart Bình Dương,WinMart,MT,3,5,,2024-05-24
+2577,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2023-12-14
+2578,Guardian - Bắc Ninh,Partner,MT,1,3,Guardian,2021-08-21
+2579,WinMart+ Huế,WinMart+,MT,2,4,,2024-05-29
+2580,WinMart Quảng Nam,WinMart,MT,2,4,,2023-07-31
+2581,WinMart Bình Dương,WinMart,MT,3,7,,2023-02-04
+2582,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2023-09-11
+2583,WinMart+ Long An,WinMart+,Horeca,3,7,,2021-04-22
+2584,WinMart+ Bắc Ninh,WinMart+,GT,1,2,,2023-04-14
+2585,Tạp Hóa Chú Ba - Bà Rịa-Vũng Tàu,Partner,GT,3,6,Tạp Hóa Chú Ba,2024-01-19
+2586,WinMart+ Bình Dương,WinMart+,MT,3,5,,2024-04-03
+2587,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2023-02-01
+2588,WinMart Huế,WinMart,GT,2,4,,2022-01-03
+2589,WinMart+ Bắc Ninh,WinMart+,MT,1,1,,2024-04-20
+2590,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2020-12-26
+2591,WinMart Hưng Yên,WinMart,GT,1,1,,2025-04-25
+2592,WinMart Bình Dương,WinMart,GT,3,8,,2022-07-22
+2593,Tạp Hóa Chú Ba - Đồng Nai,Partner,MT,3,8,Tạp Hóa Chú Ba,2025-03-18
+2594,WinMart Hà Nội,WinMart,MT,1,2,,2024-05-08
+2595,The Coffee House - Bà Rịa-Vũng Tàu,Partner,MT,3,7,The Coffee House,2021-12-13
+2596,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-08-06
+2597,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2024-04-18
+2598,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2022-10-16
+2599,WinMart Hưng Yên,WinMart,Horeca,1,3,,2022-03-26
+2600,Bách Hóa Xanh - Quảng Ngãi,Partner,GT,2,4,Bách Hóa Xanh,2022-03-20
+2601,Bách Hóa Xanh - Hưng Yên,Partner,GT,1,1,Bách Hóa Xanh,2022-11-04
+2602,Tạp Hóa Chú Ba - Hưng Yên,Partner,GT,1,1,Tạp Hóa Chú Ba,2025-01-28
+2603,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,GT,3,8,,2023-08-25
+2604,WinMart Huế,WinMart,MT,2,4,,2021-03-29
+2605,WinMart Quảng Ngãi,WinMart,MT,2,4,,2020-10-07
+2606,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-05-30
+2607,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2021-09-01
+2608,WinMart+ Huế,WinMart+,MT,2,4,,2021-08-01
+2609,VinDS - Đồng Nai,Partner,MT,3,8,VinDS,2020-08-02
+2610,WinMart Hải Dương,WinMart,MT,1,1,,2023-08-29
+2611,WinMart Đà Nẵng,WinMart,GT,2,4,,2021-11-25
+2612,WinMart+ TP.HCM,WinMart+,MT,3,8,,2022-04-29
+2613,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2024-10-24
+2614,WinMart Bắc Ninh,WinMart,MT,1,2,,2020-07-12
+2615,Guardian - Huế,Partner,MT,2,4,Guardian,2025-01-06
+2616,WinMart+ Long An,WinMart+,MT,3,5,,2021-10-26
+2617,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-08-01
+2618,WinMart Vĩnh Phúc,WinMart,MT,1,3,,2022-04-11
+2619,WinMart Đồng Nai,WinMart,MT,3,5,,2023-08-21
+2620,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2023-03-10
+2621,GS25 - TP.HCM,Partner,MT,3,6,GS25,2024-02-28
+2622,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2021-10-09
+2623,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2023-05-21
+2624,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2021-10-27
+2625,WinMart+ TP.HCM,WinMart+,MT,3,8,,2024-03-17
+2626,WinMart Cần Thơ,WinMart,GT,3,5,,2023-05-29
+2627,WinMart+ Long An,WinMart+,MT,3,6,,2025-01-04
+2628,WinMart+ Long An,WinMart+,MT,3,6,,2023-05-21
+2629,WinMart TP.HCM,WinMart,MT,3,5,,2024-03-13
+2630,WinMart Bình Dương,WinMart,MT,3,5,,2021-11-10
+2631,WinMart Đà Nẵng,WinMart,MT,2,4,,2022-01-21
+2632,WinMart+ Hải Dương,WinMart+,GT,1,3,,2021-05-03
+2633,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-05-01
+2634,WinMart Bình Dương,WinMart,MT,3,6,,2022-10-16
+2635,Ministop - Bà Rịa-Vũng Tàu,Partner,GT,3,7,Ministop,2023-12-02
+2636,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-04-09
+2637,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2025-01-19
+2638,WinMart Hưng Yên,WinMart,MT,1,3,,2024-07-03
+2639,WinMart Vĩnh Phúc,WinMart,MT,1,2,,2021-05-21
+2640,Ministop - Đồng Nai,Partner,MT,3,7,Ministop,2021-12-05
+2641,FamilyMart - Bắc Ninh,Partner,GT,1,1,FamilyMart,2020-08-04
+2642,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-10-04
+2643,WinMart Long An,WinMart,MT,3,7,,2024-10-02
+2644,WinMart+ Huế,WinMart+,MT,2,4,,2022-09-29
+2645,WinMart Cần Thơ,WinMart,MT,3,7,,2022-07-11
+2646,WinMart Quảng Ngãi,WinMart,GT,2,4,,2021-11-22
+2647,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2022-02-12
+2648,WinMart+ Hà Nội,WinMart+,MT,1,1,,2024-05-03
+2649,WinMart+ Cần Thơ,WinMart+,Horeca,3,5,,2022-10-19
+2650,WinMart Đồng Nai,WinMart,MT,3,7,,2020-07-26
+2651,The Coffee House - Quảng Nam,Partner,MT,2,4,The Coffee House,2021-03-17
+2652,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2021-02-14
+2653,WinMart+ Huế,WinMart+,MT,2,4,,2022-10-19
+2654,WinMart+ Hải Dương,WinMart+,MT,1,2,,2020-10-11
+2655,WinMart Bình Dương,WinMart,MT,3,8,,2022-12-01
+2656,WinMart+ TP.HCM,WinMart+,MT,3,5,,2021-04-08
+2657,WinMart+ Vĩnh Phúc,WinMart+,GT,1,2,,2021-10-05
+2658,Highlands Coffee - Đồng Nai,Partner,MT,3,6,Highlands Coffee,2021-08-07
+2659,VinDS - Hà Nội,Partner,MT,1,2,VinDS,2024-12-07
+2660,WinMart Bắc Ninh,WinMart,GT,1,2,,2021-06-12
+2661,WinMart Quảng Nam,WinMart,MT,2,4,,2023-01-18
+2662,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-06-21
+2663,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2021-01-07
+2664,WinMart Đà Nẵng,WinMart,MT,2,4,,2025-04-12
+2665,WinMart Đồng Nai,WinMart,MT,3,8,,2024-01-15
+2666,WinMart+ Long An,WinMart+,MT,3,6,,2023-08-05
+2667,WinMart Quảng Nam,WinMart,Horeca,2,4,,2020-08-16
+2668,WinMart Huế,WinMart,GT,2,4,,2020-07-22
+2669,WinMart TP.HCM,WinMart,GT,3,6,,2025-01-03
+2670,WinMart Hưng Yên,WinMart,Horeca,1,1,,2021-09-16
+2671,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,6,,2024-04-18
+2672,WinMart+ Bình Dương,WinMart+,GT,3,5,,2025-01-04
+2673,WinMart Long An,WinMart,MT,3,5,,2022-09-25
+2674,Ministop - Quảng Nam,Partner,MT,2,4,Ministop,2023-07-25
+2675,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2020-10-01
+2676,WinMart Hưng Yên,WinMart,GT,1,2,,2023-07-04
+2677,WinMart+ TP.HCM,WinMart+,MT,3,5,,2021-05-07
+2678,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,7,,2020-12-17
+2679,WinMart+ Long An,WinMart+,MT,3,7,,2020-06-24
+2680,VinDS - Hải Dương,Partner,GT,1,3,VinDS,2020-06-23
+2681,WinMart+ Vĩnh Phúc,WinMart+,MT,1,3,,2024-11-30
+2682,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-08-23
+2683,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2024-04-16
+2684,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-07-25
+2685,WinMart+ Huế,WinMart+,MT,2,4,,2021-03-28
+2686,WinMart+ TP.HCM,WinMart+,GT,3,7,,2023-06-28
+2687,WinMart+ Hà Nội,WinMart+,GT,1,2,,2024-06-13
+2688,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,6,,2024-02-20
+2689,WinMart+ Cần Thơ,WinMart+,MT,3,8,,2024-07-26
+2690,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-08-26
+2691,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2021-11-17
+2692,WinMart+ Cần Thơ,WinMart+,GT,3,5,,2020-09-01
+2693,WinMart Đồng Nai,WinMart,GT,3,6,,2020-09-14
+2694,Bách Hóa Xanh - Huế,Partner,Horeca,2,4,Bách Hóa Xanh,2024-04-17
+2695,Circle K - Đà Nẵng,Partner,MT,2,4,Circle K,2023-10-12
+2696,WinMart Hà Nội,WinMart,MT,1,2,,2020-09-10
+2697,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2022-08-05
+2698,The Coffee House - Huế,Partner,GT,2,4,The Coffee House,2022-01-12
+2699,Co.op Food - Đà Nẵng,Partner,GT,2,4,Co.op Food,2024-03-19
+2700,WinMart Đồng Nai,WinMart,MT,3,7,,2025-05-20
+2701,FamilyMart - Cần Thơ,Partner,GT,3,8,FamilyMart,2020-09-16
+2702,Co.op Food - Đồng Nai,Partner,MT,3,5,Co.op Food,2025-04-10
+2703,WinMart+ Bình Dương,WinMart+,MT,3,6,,2025-04-03
+2704,The Coffee House - Cần Thơ,Partner,Horeca,3,8,The Coffee House,2023-08-21
+2705,WinMart Quảng Nam,WinMart,Horeca,2,4,,2022-10-15
+2706,WinMart+ Huế,WinMart+,GT,2,4,,2024-03-04
+2707,The Coffee House - Cần Thơ,Partner,MT,3,8,The Coffee House,2020-07-15
+2708,WinMart+ TP.HCM,WinMart+,GT,3,8,,2020-12-14
+2709,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-12-11
+2710,Co.op Food - Bình Dương,Partner,MT,3,7,Co.op Food,2021-01-27
+2711,WinMart Long An,WinMart,GT,3,6,,2025-01-04
+2712,WinMart Quảng Nam,WinMart,GT,2,4,,2023-11-27
+2713,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2020-06-24
+2714,Satra Foods - Quảng Ngãi,Partner,MT,2,4,Satra Foods,2024-10-12
+2715,Co.op Food - Bình Dương,Partner,MT,3,6,Co.op Food,2023-02-02
+2716,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2024-03-05
+2717,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-08-02
+2718,WinMart Hà Nội,WinMart,MT,1,1,,2021-01-16
+2719,WinMart Vĩnh Phúc,WinMart,Horeca,1,2,,2022-06-12
+2720,WinMart+ Vĩnh Phúc,WinMart+,GT,1,1,,2023-07-23
+2721,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2024-02-03
+2722,WinMart Đà Nẵng,WinMart,GT,2,4,,2021-11-06
+2723,WinMart+ Long An,WinMart+,MT,3,8,,2023-12-06
+2724,WinMart Đà Nẵng,WinMart,GT,2,4,,2023-10-24
+2725,Highlands Coffee - Bình Dương,Partner,MT,3,7,Highlands Coffee,2023-04-12
+2726,WinMart+ Hà Nội,WinMart+,MT,1,2,,2025-03-15
+2727,VinDS - Bắc Ninh,Partner,MT,1,3,VinDS,2022-09-11
+2728,WinMart Bắc Ninh,WinMart,GT,1,2,,2023-06-08
+2729,WinMart+ Bình Dương,WinMart+,MT,3,5,,2021-11-26
+2730,Highlands Coffee - Vĩnh Phúc,Partner,MT,1,1,Highlands Coffee,2022-03-17
+2731,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2025-04-18
+2732,WinMart Quảng Nam,WinMart,GT,2,4,,2024-06-07
+2733,WinMart Đồng Nai,WinMart,MT,3,5,,2024-09-28
+2734,WinMart Quảng Nam,WinMart,MT,2,4,,2023-11-19
+2735,WinMart Huế,WinMart,MT,2,4,,2021-09-28
+2736,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-11-25
+2737,WinMart Cần Thơ,WinMart,GT,3,7,,2022-02-25
+2738,Satra Foods - Bình Dương,Partner,MT,3,6,Satra Foods,2020-10-22
+2739,WinMart+ Cần Thơ,WinMart+,MT,3,5,,2021-09-12
+2740,WinMart+ Hải Dương,WinMart+,MT,1,3,,2021-04-08
+2741,WinMart Bắc Ninh,WinMart,MT,1,2,,2020-07-26
+2742,WinMart Bình Dương,WinMart,GT,3,5,,2023-06-16
+2743,The Coffee House - Bình Dương,Partner,MT,3,6,The Coffee House,2022-11-19
+2744,WinMart+ Hải Dương,WinMart+,GT,1,1,,2021-01-18
+2745,WinMart Đồng Nai,WinMart,GT,3,5,,2020-10-09
+2746,WinMart+ Hà Nội,WinMart+,MT,1,1,,2024-03-18
+2747,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2022-05-20
+2748,WinMart+ Hà Nội,WinMart+,MT,1,3,,2022-04-13
+2749,VinDS - Quảng Nam,Partner,MT,2,4,VinDS,2020-09-24
+2750,WinMart+ Huế,WinMart+,MT,2,4,,2023-04-05
+2751,WinMart+ Hà Nội,WinMart+,Horeca,1,3,,2024-11-05
+2752,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-04-07
+2753,WinMart Bắc Ninh,WinMart,MT,1,2,,2020-12-28
+2754,Circle K - Bắc Ninh,Partner,MT,1,2,Circle K,2024-01-27
+2755,WinMart TP.HCM,WinMart,MT,3,7,,2023-03-18
+2756,WinMart Quảng Nam,WinMart,MT,2,4,,2023-09-09
+2757,WinMart+ Bắc Ninh,WinMart+,GT,1,1,,2022-01-16
+2758,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2024-04-21
+2759,WinMart+ Hải Dương,WinMart+,MT,1,3,,2022-07-29
+2760,The Coffee House - Cần Thơ,Partner,MT,3,6,The Coffee House,2022-04-23
+2761,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2024-08-29
+2762,WinMart Bình Dương,WinMart,GT,3,6,,2023-02-03
+2763,WinMart Bình Dương,WinMart,GT,3,7,,2024-10-16
+2764,WinMart Hưng Yên,WinMart,Horeca,1,3,,2024-12-22
+2765,Satra Foods - Hà Nội,Partner,MT,1,3,Satra Foods,2023-11-09
+2766,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2025-05-16
+2767,WinMart+ Huế,WinMart+,GT,2,4,,2020-10-19
+2768,WinMart Hưng Yên,WinMart,GT,1,2,,2022-05-11
+2769,WinMart+ Hà Nội,WinMart+,Horeca,1,1,,2023-06-18
+2770,WinMart+ Cần Thơ,WinMart+,MT,3,6,,2020-12-29
+2771,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2020-10-02
+2772,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2023-08-05
+2773,WinMart Bắc Ninh,WinMart,Horeca,1,3,,2023-09-03
+2774,WinMart Bình Dương,WinMart,MT,3,6,,2021-08-09
+2775,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2020-12-03
+2776,Co.op Food - Bà Rịa-Vũng Tàu,Partner,MT,3,6,Co.op Food,2021-02-17
+2777,FamilyMart - Bà Rịa-Vũng Tàu,Partner,GT,3,6,FamilyMart,2021-01-07
+2778,GS25 - Đà Nẵng,Partner,MT,2,4,GS25,2024-10-28
+2779,WinMart Cần Thơ,WinMart,MT,3,7,,2021-12-31
+2780,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2021-03-24
+2781,WinMart Bà Rịa-Vũng Tàu,WinMart,Horeca,3,8,,2022-02-13
+2782,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2024-02-21
+2783,WinMart+ Bình Dương,WinMart+,MT,3,6,,2023-04-30
+2784,WinMart+ Hải Dương,WinMart+,MT,1,1,,2025-04-05
+2785,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2020-08-22
+2786,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-03-24
+2787,WinMart Đồng Nai,WinMart,MT,3,6,,2021-11-09
+2788,WinMart Huế,WinMart,GT,2,4,,2025-01-30
+2789,WinMart+ TP.HCM,WinMart+,GT,3,6,,2025-04-08
+2790,Guardian - Đà Nẵng,Partner,GT,2,4,Guardian,2020-11-11
+2791,WinMart+ TP.HCM,WinMart+,GT,3,5,,2024-03-21
+2792,WinMart Hà Nội,WinMart,MT,1,2,,2023-12-20
+2793,WinMart+ Hải Dương,WinMart+,MT,1,1,,2021-04-23
+2794,WinMart+ Đồng Nai,WinMart+,MT,3,8,,2023-07-29
+2795,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2020-08-09
+2796,Highlands Coffee - Bà Rịa-Vũng Tàu,Partner,MT,3,7,Highlands Coffee,2024-07-07
+2797,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,8,,2021-09-09
+2798,WinMart+ Cần Thơ,WinMart+,GT,3,5,,2021-09-24
+2799,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2023-07-07
+2800,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2021-08-17
+2801,WinMart+ Huế,WinMart+,MT,2,4,,2021-09-14
+2802,WinMart Long An,WinMart,Horeca,3,6,,2021-09-28
+2803,Circle K - Huế,Partner,MT,2,4,Circle K,2022-09-10
+2804,WinMart Đà Nẵng,WinMart,GT,2,4,,2022-01-13
+2805,WinMart+ Hưng Yên,WinMart+,GT,1,2,,2023-08-05
+2806,WinMart Hải Dương,WinMart,MT,1,1,,2025-01-26
+2807,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-12-14
+2808,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2020-07-01
+2809,WinMart Long An,WinMart,MT,3,8,,2024-04-23
+2810,WinMart+ Huế,WinMart+,MT,2,4,,2022-12-05
+2811,Bách Hóa Xanh - Huế,Partner,MT,2,4,Bách Hóa Xanh,2023-01-21
+2812,Satra Foods - Bắc Ninh,Partner,MT,1,2,Satra Foods,2023-10-11
+2813,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2024-01-05
+2814,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2020-12-11
+2815,Guardian - Long An,Partner,GT,3,7,Guardian,2021-06-10
+2816,WinMart+ Huế,WinMart+,MT,2,4,,2023-05-14
+2817,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2021-04-10
+2818,WinMart TP.HCM,WinMart,Horeca,3,8,,2022-10-10
+2819,Guardian - Đà Nẵng,Partner,MT,2,4,Guardian,2025-03-13
+2820,WinMart Hải Dương,WinMart,MT,1,2,,2020-10-17
+2821,Tạp Hóa Chú Ba - Long An,Partner,MT,3,8,Tạp Hóa Chú Ba,2022-11-11
+2822,WinMart+ Bắc Ninh,WinMart+,MT,1,2,,2023-09-02
+2823,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2024-08-10
+2824,WinMart+ Huế,WinMart+,MT,2,4,,2021-06-24
+2825,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2020-11-06
+2826,The Coffee House - Long An,Partner,GT,3,8,The Coffee House,2024-04-21
+2827,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2022-06-30
+2828,FamilyMart - Long An,Partner,Horeca,3,5,FamilyMart,2020-06-18
+2829,WinMart+ Đồng Nai,WinMart+,GT,3,7,,2021-09-02
+2830,WinMart+ Hà Nội,WinMart+,GT,1,1,,2022-11-01
+2831,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-09-29
+2832,WinMart Quảng Ngãi,WinMart,GT,2,4,,2023-03-15
+2833,WinMart+ Đồng Nai,WinMart+,MT,3,6,,2024-04-27
+2834,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2024-10-11
+2835,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,6,,2024-11-26
+2836,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2022-06-01
+2837,WinMart+ Huế,WinMart+,GT,2,4,,2023-11-29
+2838,WinMart+ Bình Dương,WinMart+,Horeca,3,5,,2023-02-04
+2839,FamilyMart - Bà Rịa-Vũng Tàu,Partner,GT,3,5,FamilyMart,2022-06-25
+2840,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2025-01-25
+2841,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-04-14
+2842,WinMart+ Đồng Nai,WinMart+,Horeca,3,7,,2024-06-20
+2843,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2020-06-24
+2844,Co.op Food - Bắc Ninh,Partner,MT,1,2,Co.op Food,2023-02-07
+2845,WinMart+ Cần Thơ,WinMart+,GT,3,8,,2021-07-22
+2846,WinMart+ Bắc Ninh,WinMart+,MT,1,3,,2020-08-16
+2847,WinMart Bà Rịa-Vũng Tàu,WinMart,MT,3,8,,2021-02-25
+2848,WinMart+ Đồng Nai,WinMart+,GT,3,8,,2023-09-18
+2849,Ministop - Hà Nội,Partner,MT,1,2,Ministop,2023-08-31
+2850,WinMart Đà Nẵng,WinMart,MT,2,4,,2023-11-06
+2851,Bách Hóa Xanh - Vĩnh Phúc,Partner,GT,1,1,Bách Hóa Xanh,2022-02-22
+2852,WinMart Bắc Ninh,WinMart,Horeca,1,1,,2023-08-02
+2853,WinMart Bình Dương,WinMart,GT,3,8,,2024-12-26
+2854,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2020-06-29
+2855,WinMart+ Vĩnh Phúc,WinMart+,GT,1,2,,2024-03-17
+2856,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2021-09-15
+2857,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2020-12-15
+2858,WinMart Đồng Nai,WinMart,GT,3,5,,2021-08-30
+2859,Co.op Food - Vĩnh Phúc,Partner,MT,1,1,Co.op Food,2022-01-09
+2860,Ministop - Đà Nẵng,Partner,MT,2,4,Ministop,2022-03-27
+2861,WinMart+ Hưng Yên,WinMart+,MT,1,2,,2024-10-15
+2862,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-06-26
+2863,WinMart Vĩnh Phúc,WinMart,GT,1,3,,2023-11-10
+2864,WinMart+ TP.HCM,WinMart+,MT,3,6,,2024-07-13
+2865,WinMart+ Hưng Yên,WinMart+,MT,1,3,,2021-09-26
+2866,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-10-16
+2867,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2022-01-29
+2868,WinMart Quảng Nam,WinMart,Horeca,2,4,,2024-04-27
+2869,WinMart Bình Dương,WinMart,MT,3,6,,2022-01-07
+2870,WinMart Long An,WinMart,MT,3,8,,2023-11-05
+2871,WinMart+ Quảng Nam,WinMart+,Horeca,2,4,,2022-10-03
+2872,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2024-11-30
+2873,WinMart Huế,WinMart,GT,2,4,,2021-07-04
+2874,Circle K - Quảng Ngãi,Partner,MT,2,4,Circle K,2023-12-02
+2875,WinMart+ Hà Nội,WinMart+,MT,1,2,,2024-07-10
+2876,FamilyMart - Hà Nội,Partner,MT,1,3,FamilyMart,2024-06-25
+2877,WinMart Bà Rịa-Vũng Tàu,WinMart,GT,3,8,,2024-01-31
+2878,Satra Foods - Vĩnh Phúc,Partner,GT,1,2,Satra Foods,2022-03-15
+2879,WinMart Huế,WinMart,MT,2,4,,2023-05-20
+2880,WinMart+ Hải Dương,WinMart+,MT,1,3,,2020-11-10
+2881,WinMart+ TP.HCM,WinMart+,MT,3,7,,2024-01-27
+2882,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2022-09-18
+2883,WinMart Bắc Ninh,WinMart,MT,1,2,,2022-01-26
+2884,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-06-30
+2885,Tạp Hóa Bà Sáu - Hà Nội,Partner,MT,1,3,Tạp Hóa Bà Sáu,2023-03-20
+2886,WinMart Bình Dương,WinMart,MT,3,5,,2024-03-06
+2887,WinMart+ Đồng Nai,WinMart+,GT,3,6,,2025-02-05
+2888,WinMart Hà Nội,WinMart,GT,1,1,,2021-05-21
+2889,WinMart+ Quảng Ngãi,WinMart+,GT,2,4,,2023-04-29
+2890,WinMart TP.HCM,WinMart,MT,3,7,,2025-03-17
+2891,WinMart Đà Nẵng,WinMart,GT,2,4,,2021-12-20
+2892,WinMart Hải Dương,WinMart,MT,1,2,,2022-07-26
+2893,WinMart+ Hưng Yên,WinMart+,MT,1,1,,2023-01-04
+2894,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,5,,2024-09-20
+2895,WinMart Đồng Nai,WinMart,GT,3,6,,2021-07-14
+2896,WinMart+ Long An,WinMart+,GT,3,8,,2020-11-24
+2897,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-04-20
+2898,WinMart+ Vĩnh Phúc,WinMart+,MT,1,2,,2021-06-01
+2899,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2021-12-09
+2900,WinMart Quảng Ngãi,WinMart,MT,2,4,,2021-08-31
+2901,WinMart+ Hải Dương,WinMart+,MT,1,3,,2021-08-12
+2902,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2020-08-09
+2903,WinMart+ Hà Nội,WinMart+,MT,1,1,,2023-01-31
+2904,WinMart Hà Nội,WinMart,MT,1,1,,2023-11-17
+2905,Satra Foods - Bà Rịa-Vũng Tàu,Partner,MT,3,8,Satra Foods,2023-04-15
+2906,WinMart Đà Nẵng,WinMart,MT,2,4,,2024-01-30
+2907,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-06-27
+2908,WinMart Bắc Ninh,WinMart,MT,1,3,,2022-11-23
+2909,Highlands Coffee - Hưng Yên,Partner,MT,1,1,Highlands Coffee,2021-06-03
+2910,WinMart+ Hà Nội,WinMart+,GT,1,1,,2020-07-09
+2911,Tạp Hóa Bà Sáu - TP.HCM,Partner,Horeca,3,6,Tạp Hóa Bà Sáu,2024-07-05
+2912,WinMart Bắc Ninh,WinMart,MT,1,3,,2020-08-07
+2913,Guardian - Hưng Yên,Partner,Horeca,1,3,Guardian,2023-07-08
+2914,WinMart Bình Dương,WinMart,Horeca,3,5,,2022-08-19
+2915,WinMart+ Hải Dương,WinMart+,Horeca,1,2,,2023-09-21
+2916,WinMart+ Đồng Nai,WinMart+,GT,3,8,,2022-09-12
+2917,WinMart+ Hà Nội,WinMart+,Horeca,1,3,,2022-10-07
+2918,GS25 - Quảng Ngãi,Partner,Horeca,2,4,GS25,2022-10-08
+2919,WinMart Hải Dương,WinMart,GT,1,3,,2022-11-24
+2920,Ministop - Hưng Yên,Partner,MT,1,1,Ministop,2021-07-04
+2921,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2023-11-25
+2922,WinMart+ Huế,WinMart+,MT,2,4,,2020-07-07
+2923,WinMart+ Bà Rịa-Vũng Tàu,WinMart+,MT,3,8,,2025-06-03
+2924,FamilyMart - Bình Dương,Partner,MT,3,5,FamilyMart,2022-01-12
+2925,WinMart Huế,WinMart,MT,2,4,,2024-10-31
+2926,WinMart Hà Nội,WinMart,MT,1,1,,2022-06-25
+2927,WinMart+ TP.HCM,WinMart+,GT,3,6,,2021-11-02
+2928,WinMart+ Long An,WinMart+,GT,3,8,,2024-06-25
+2929,WinMart+ Quảng Nam,WinMart+,GT,2,4,,2024-09-25
+2930,GS25 - Hải Dương,Partner,GT,1,1,GS25,2022-08-18
+2931,WinMart Long An,WinMart,GT,3,7,,2024-08-15
+2932,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2025-04-12
+2933,WinMart+ Vĩnh Phúc,WinMart+,Horeca,1,2,,2023-03-09
+2934,WinMart+ Huế,WinMart+,GT,2,4,,2021-02-20
+2935,Satra Foods - Bình Dương,Partner,MT,3,7,Satra Foods,2020-08-06
+2936,WinMart+ TP.HCM,WinMart+,MT,3,8,,2022-09-17
+2937,WinMart Quảng Nam,WinMart,MT,2,4,,2024-07-10
+2938,WinMart+ Hưng Yên,WinMart+,GT,1,3,,2021-05-01
+2939,WinMart+ Huế,WinMart+,GT,2,4,,2020-10-16
+2940,WinMart+ Quảng Ngãi,WinMart+,MT,2,4,,2023-09-30
+2941,WinMart Cần Thơ,WinMart,MT,3,6,,2022-05-25
+2942,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2022-11-06
+2943,WinMart+ Bình Dương,WinMart+,GT,3,5,,2023-05-03
+2944,WinMart+ Huế,WinMart+,MT,2,4,,2024-01-03
+2945,Satra Foods - Long An,Partner,GT,3,7,Satra Foods,2023-10-23
+2946,The Coffee House - Quảng Ngãi,Partner,MT,2,4,The Coffee House,2024-11-26
+2947,WinMart Đà Nẵng,WinMart,MT,2,4,,2020-08-27
+2948,WinMart+ Bắc Ninh,WinMart+,GT,1,3,,2023-09-26
+2949,WinMart Hà Nội,WinMart,MT,1,1,,2021-10-05
+2950,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2023-05-25
+2951,WinMart Long An,WinMart,MT,3,6,,2024-02-15
+2952,WinMart+ Bình Dương,WinMart+,GT,3,8,,2020-12-23
+2953,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2022-08-08
+2954,WinMart+ Huế,WinMart+,MT,2,4,,2023-04-30
+2955,WinMart+ Hưng Yên,WinMart+,GT,1,1,,2020-12-29
+2956,WinMart TP.HCM,WinMart,MT,3,8,,2024-04-10
+2957,WinMart Đà Nẵng,WinMart,GT,2,4,,2023-12-25
+2958,WinMart+ Cần Thơ,WinMart+,MT,3,7,,2022-12-06
+2959,WinMart+ Bình Dương,WinMart+,MT,3,7,,2023-03-08
+2960,WinMart Hà Nội,WinMart,MT,1,1,,2025-05-26
+2961,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-07-18
+2962,WinMart+ Đà Nẵng,WinMart+,GT,2,4,,2023-06-16
+2963,WinMart Hưng Yên,WinMart,MT,1,2,,2020-08-14
+2964,WinMart+ Đồng Nai,WinMart+,GT,3,7,,2022-04-24
+2965,WinMart+ Huế,WinMart+,MT,2,4,,2021-04-23
+2966,Bách Hóa Xanh - TP.HCM,Partner,MT,3,7,Bách Hóa Xanh,2022-05-28
+2967,WinMart+ Long An,WinMart+,MT,3,5,,2022-02-26
+2968,WinMart+ Hà Nội,WinMart+,MT,1,1,,2021-01-23
+2969,WinMart+ Đồng Nai,WinMart+,GT,3,5,,2025-04-23
+2970,The Coffee House - Đồng Nai,Partner,MT,3,8,The Coffee House,2023-07-24
+2971,WinMart Quảng Ngãi,WinMart,GT,2,4,,2022-08-19
+2972,WinMart+ Hà Nội,WinMart+,GT,1,1,,2025-05-02
+2973,WinMart Bắc Ninh,WinMart,Horeca,1,3,,2021-08-04
+2974,WinMart Bình Dương,WinMart,GT,3,8,,2024-06-16
+2975,Circle K - Quảng Ngãi,Partner,MT,2,4,Circle K,2023-07-28
+2976,WinMart+ Hà Nội,WinMart+,MT,1,3,,2023-11-22
+2977,Bách Hóa Xanh - Bắc Ninh,Partner,MT,1,2,Bách Hóa Xanh,2022-02-20
+2978,Highlands Coffee - Bà Rịa-Vũng Tàu,Partner,GT,3,8,Highlands Coffee,2023-08-12
+2979,WinMart+ Long An,WinMart+,GT,3,8,,2024-03-04
+2980,WinMart+ Hà Nội,WinMart+,MT,1,1,,2022-04-14
+2981,WinMart Huế,WinMart,MT,2,4,,2022-02-20
+2982,Bách Hóa Xanh - Bình Dương,Partner,MT,3,5,Bách Hóa Xanh,2022-04-19
+2983,Highlands Coffee - Hưng Yên,Partner,MT,1,1,Highlands Coffee,2025-03-18
+2984,WinMart Đà Nẵng,WinMart,MT,2,4,,2021-04-17
+2985,WinMart Hưng Yên,WinMart,GT,1,2,,2023-09-01
+2986,WinMart+ Đà Nẵng,WinMart+,MT,2,4,,2020-07-27
+2987,WinMart Long An,WinMart,Horeca,3,7,,2022-07-19
+2988,WinMart Long An,WinMart,GT,3,8,,2024-10-06
+2989,WinMart Huế,WinMart,GT,2,4,,2024-04-10
+2990,Ministop - Bắc Ninh,Partner,GT,1,2,Ministop,2020-08-26
+2991,WinMart+ Quảng Nam,WinMart+,MT,2,4,,2022-11-25
+2992,WinMart Huế,WinMart,MT,2,4,,2023-07-07
+2993,Tạp Hóa Chú Ba - Đồng Nai,Partner,Horeca,3,5,Tạp Hóa Chú Ba,2021-01-22
+2994,WinMart+ Đồng Nai,WinMart+,MT,3,7,,2022-06-15
+2995,WinMart Huế,WinMart,MT,2,4,,2024-04-14
+2996,Co.op Food - Quảng Nam,Partner,MT,2,4,Co.op Food,2021-05-27
+2997,WinMart+ Hà Nội,WinMart+,Horeca,1,1,,2023-11-24
+2998,WinMart Vĩnh Phúc,WinMart,MT,1,1,,2024-04-22
+2999,WinMart+ Hải Dương,WinMart+,GT,1,2,,2020-07-26
+3000,WinMart+ Vĩnh Phúc,WinMart+,MT,1,1,,2024-01-03

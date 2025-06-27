@@ -1,0 +1,31 @@
+promo_id,promo_type,discount_applied,promo_start,promo_end,apply_scope
+1,Voucher hoàn tiền,1504.45,2023-02-22,2023-03-22,All
+2,Combo giảm giá,5575.38,2023-08-05,2023-08-13,All
+3,Mua 1 tặng 1,0.0,2023-04-22,2023-05-06,All
+4,Combo giảm giá,5575.38,2023-04-12,2023-05-11,Online
+5,Giảm giá trực tiếp,6574.55,2023-08-18,2023-09-12,Partner
+6,Mua 1 tặng 1,0.0,2023-03-23,2023-04-21,Online
+7,Giảm %,5.63,2023-05-23,2023-06-03,WinMart
+8,Giảm %,5.63,2023-02-22,2023-03-03,Online
+9,Mua 1 tặng 1,0.0,2023-07-03,2023-07-21,Partner
+10,Mua 1 tặng 1,0.0,2023-08-24,2023-09-17,All
+11,Tặng quà kèm,0.0,2023-02-10,2023-03-06,Partner
+12,Voucher hoàn tiền,1504.45,2023-11-13,2023-12-01,WinMart
+13,Voucher hoàn tiền,1504.45,2023-02-05,2023-02-13,WinMart
+14,Giảm %,5.63,2023-02-10,2023-02-24,All
+15,Tặng quà kèm,0.0,2023-05-23,2023-06-13,Partner
+16,Giảm giá trực tiếp,6574.55,2023-07-09,2023-07-27,WinMart
+17,Voucher hoàn tiền,1504.45,2023-05-17,2023-06-15,All
+18,Combo giảm giá,5575.38,2023-11-22,2023-12-04,WinMart
+19,Giảm giá trực tiếp,6574.55,2023-08-25,2023-09-13,Partner
+20,Voucher hoàn tiền,1504.45,2023-12-19,2024-01-12,WinMart
+21,Voucher hoàn tiền,1504.45,2023-06-16,2023-06-24,WinMart
+22,Mua 1 tặng 1,0.0,2023-06-11,2023-06-30,Partner
+23,Mua 1 tặng 1,0.0,2023-04-19,2023-05-14,Partner
+24,Giảm giá trực tiếp,6574.55,2023-12-02,2023-12-24,Online
+25,Voucher hoàn tiền,1504.45,2023-08-23,2023-09-03,Partner
+26,Giảm giá trực tiếp,6574.55,2023-05-07,2023-06-06,Partner
+27,Voucher hoàn tiền,1504.45,2023-10-27,2023-11-16,Online
+28,Giảm %,5.63,2023-04-23,2023-05-04,Online
+29,Mua 1 tặng 1,0.0,2023-01-25,2023-02-04,WinMart
+30,Voucher hoàn tiền,1504.45,2023-03-23,2023-04-20,Online
