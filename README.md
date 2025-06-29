@@ -32,7 +32,7 @@ Database: railway
 - sales, shipments, inventory, store_inventory_transactions
 
 ### ERD: (Entity Relationship Diagram)
-![ERD](./images/ERD.png)
+![Sơ đồ ERD](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/ERD.png)
 ---
 
 ERD(Entity Relationship Diagram):
@@ -61,7 +61,7 @@ Chức năng của dashboard:
 - Phân tích xu hướng sử dụng kho theo thời gian.
 
 
-(Có thể thêm sơ đồ hình ảnh tại đây nếu có file hình)
+![Dashboard 1](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/Dashboard_1.png)
 
 ---
 
