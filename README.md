@@ -32,7 +32,7 @@ Database: railway
 - sales, shipments, inventory, store_inventory_transactions
 
 ### ERD: (Entity Relationship Diagram)
-![ERD](./images/ERD.png.png)
+![ERD](./images/ERD.png)
 ---
 
 ERD(Entity Relationship Diagram):
@@ -149,7 +149,7 @@ ORDER BY year, quarter;
 **Cách phân tích:** Vẽ biểu đồ doanh thu theo thời gian bằng python. 
 Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 
-![Tổng Sales Theo Quý](./images/salesbyquater20250625.png)
+![Tổng Sales Theo Quý](./images/sales_by_quater.png)
 
 **Nhận xét:**
 - Doanh số bán hàng **tăng liên tục qua các quý**.
@@ -163,7 +163,7 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 **Cách phân tích:** sử dụng thư viện Matplotlib vẽ biểu đồ khuyến mãi tại quý 2-2025.  
 Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)  
 
-![Tổng Sales Theo Quý](./images/promotion_on_Q2.png)
+![Tổng Sales Theo Quý](./images/promotion_result.png)
 
 **Nhận xét:** Q2-2025 có rất nhiều khuyến mãi
 - **Mua 1 tặng 1:** hơn 500 chương trình → Loại khuyến mãi tác động rất mạnh đến hành vi mua hàng.
@@ -177,7 +177,7 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 **Cách phân tích:** Vẽ biểu đồ tổng lượng vận chuyển đến cửa hàng theo thời gian. 
 Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 
-![Tổng Sales Theo Quý](./images/shipments_by_quarter.png)
+![Tổng Sales Theo Quý](./images/Goods_to_stores.png)
 
 **Nhận xét:**
 - **Q2-2025 có lượng vận chuyển đến cửa hàng giảm đột ngột.**
