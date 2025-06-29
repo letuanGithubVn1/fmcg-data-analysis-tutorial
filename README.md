@@ -33,9 +33,9 @@ Database: railway
 
 ### ERD: (Entity Relationship Diagram)
 ![Sơ đồ ERD](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/ERD.png)
----
 
-ERD(Entity Relationship Diagram):
+
+--- 
 
 ### Cách bước thực hiện:
 
@@ -62,7 +62,6 @@ Chức năng của dashboard:
 
 
 ![Dashboard 1](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/Dashboard_1.png)
-
 ---
 
 **Phần 2: Xác định vấn đề**
@@ -105,13 +104,8 @@ Chức năng của dashboard:
 
 ---
 
-### **3.2: Mục tiêu**  
-- Xác định xem có yếu tố đặc biệt nào gây ảnh hưởng đến utilization tại Q2-2025.
-- Kiểm tra chuỗi nguyên nhân có thể ảnh hưởng đến tồn kho hoặc sức chứa kho.
-
-
-### **3.3 Phân tích chi tiết**  
-#### 3.3.1 giả thuyết - Việc nhập hàng ít tại Quý 2–2025
+### **3.2 Phân tích chi tiết**  
+#### 3.2.1 giả thuyết - Việc nhập hàng ít tại Quý 2–2025
 
 **Cách phân tích:** sử dụng câu lệnh trong Mysql
 ```sql
@@ -144,12 +138,12 @@ ORDER BY year, quarter;
   - Gây lãng phí tài nguyên kho, thiếu hàng cục bộ
 
 
-#### 3.3.2 giả thuyết - tỷ lệ bán hàng ở Quý 2–2025 tăng đột biến
+#### 3.2.2 giả thuyết - tỷ lệ bán hàng ở Quý 2–2025 tăng đột biến
 
 **Cách phân tích:** Vẽ biểu đồ doanh thu theo thời gian bằng python. 
 Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 
-![Tổng Sales Theo Quý](./images/sales_by_quater.png)
+![Sales by Quarter](http://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/sales_by_quarter.png)
 
 **Nhận xét:**
 - Doanh số bán hàng **tăng liên tục qua các quý**.
@@ -158,12 +152,12 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 
 
 
-#### 3.3.3 Câu hỏi - Có chiến dịch khuyến mãi đẩy hàng mạnh gây giảm tồn kho tại Q2- không?
+#### 3.2.3 Câu hỏi - Có chiến dịch khuyến mãi đẩy hàng mạnh gây giảm tồn kho tại Q2- không?
 
 **Cách phân tích:** sử dụng thư viện Matplotlib vẽ biểu đồ khuyến mãi tại quý 2-2025.  
 Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)  
 
-![Tổng Sales Theo Quý](./images/promotion_result.png)
+![Promotion Result](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/promotion_result.png)
 
 **Nhận xét:** Q2-2025 có rất nhiều khuyến mãi
 - **Mua 1 tặng 1:** hơn 500 chương trình → Loại khuyến mãi tác động rất mạnh đến hành vi mua hàng.
@@ -172,12 +166,12 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 
 --> **Khối lượng khuyến mãi đặc biệt lớn trong Q2-2025 tạo ra sức mua đột biến.**
 
-#### 3.3.4 giả thuyết - lượng hàng xuất kho để chuyển đến cửa hàng(store) trong Q2-2025 có tăng
+#### 3.2.4 giả thuyết - lượng hàng xuất kho để chuyển đến cửa hàng(store) trong Q2-2025 có tăng
 
 **Cách phân tích:** Vẽ biểu đồ tổng lượng vận chuyển đến cửa hàng theo thời gian. 
 Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 
-![Tổng Sales Theo Quý](./images/Goods_to_stores.png)
+![Goods to Stores](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/Goods_to_stores.png)
 
 **Nhận xét:**
 - **Q2-2025 có lượng vận chuyển đến cửa hàng giảm đột ngột.**
