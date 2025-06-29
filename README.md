@@ -206,7 +206,7 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 ---
 
 
-> #### Các vấn đề khác cũng tượng tự, áp dụng quy trình phân tích như sau: 
+> #### Tương tự với các vấn đề khác, áp dụng quy trình phân tích như sau: 
 > - Trước tiên, chúng ta đặt ra các câu hỏi kinh doanh hoặc giả thuyết cụ thể để định hướng phân tích.  
 > - Tiếp theo, sử dụng các công cụ phù hợp như SQL, Python, Power BI hoặc các phần mềm phân tích khác để khai thác dữ liệu, trực quan hóa và kiểm tra giả thuyết....   
 > - Từ đó, chúng ta rút ra insight có giá trị thực tiễn, đưa ra nhận định khách quan và đề xuất các hành động cụ thể.
