@@ -191,12 +191,6 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 - Tỷ suất sử dụng kho giảm là do Việc nhập hàng giảm bất thường.
 - Sức mua của khách hàng và doanh số bán hàng vẫn tăng, nhưng kho không được bổ sung hàng hóa kịp thời dẫn đến nguy cơ đứt hàng, bỏ lỡ doanh số tiềm năng và giảm khả năng đáp ứng thị trường.
 
-
-> #### Các vấn đề khác cũng tượng tự, áp dụng quy trình phân tích như sau: 
-> - Trước tiên, chúng ta đặt ra các câu hỏi kinh doanh hoặc giả thuyết cụ thể để định hướng phân tích.  
-> - Tiếp theo, sử dụng các công cụ phù hợp như SQL, Python, Power BI hoặc các phần mềm phân tích khác để khai thác dữ liệu, trực quan hóa và kiểm tra giả thuyết....   
-> - Từ đó, chúng ta rút ra insight có giá trị thực tiễn, đưa ra nhận định khách quan và đề xuất các hành động cụ thể.
-
 ---
 **Phần 4: Đề xuất hành động**  
 
@@ -209,12 +203,15 @@ Code chi tiết tại: file eda.py(Supply_Chain_Optimization_Project)
 | Xây dựng hệ thống cảnh báo stock-out sớm | Giúp doanh nghiệp phát hiện sớm nguy cơ thiếu hàng và có biện pháp xử lý kịp thời |
 | Xây dựng mô hình dự báo nhu cầu chính xác hơn, đặc biệt trong các kỳ khuyến mãi | Đảm bảo dự báo sát với nhu cầu thực tế, hạn chế sai lệch dẫn đến thiếu hàng hoặc tồn kho quá mức |
 | Phân tích trước các chương trình marketing lớn để chuẩn bị đủ hàng và năng lực vận chuyển tương ứng | Chủ động trong việc chuẩn bị hàng hóa và năng lực logistics, tránh tình trạng bị động khi khuyến mãi diễn ra |
-
-
-
 ---
 
 
+> #### Các vấn đề khác cũng tượng tự, áp dụng quy trình phân tích như sau: 
+> - Trước tiên, chúng ta đặt ra các câu hỏi kinh doanh hoặc giả thuyết cụ thể để định hướng phân tích.  
+> - Tiếp theo, sử dụng các công cụ phù hợp như SQL, Python, Power BI hoặc các phần mềm phân tích khác để khai thác dữ liệu, trực quan hóa và kiểm tra giả thuyết....   
+> - Từ đó, chúng ta rút ra insight có giá trị thực tiễn, đưa ra nhận định khách quan và đề xuất các hành động cụ thể.
+
+---
 
 ## Giới thiệu về các thành phần trong reponsitory
 
