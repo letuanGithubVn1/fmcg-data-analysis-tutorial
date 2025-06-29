@@ -32,7 +32,7 @@ Database: railway
 - sales, shipments, inventory, store_inventory_transactions
 
 ### ERD: (Entity Relationship Diagram)
-![ẺD](./images/ERD.png.png)
+![ERD](./images/ERD.png.png)
 ---
 
 ERD(Entity Relationship Diagram):
