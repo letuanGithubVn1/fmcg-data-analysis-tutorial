@@ -31,6 +31,27 @@ Database: railway
 **Fact Tables:**
 - sales, shipments, inventory, store_inventory_transactions
 
+## 1. Tổng quan dữ liệu ban đầu
+| Tên bảng              | Số dòng | Ghi chú                                   |
+|-----------------------|---------|-------------------------------------------|
+| competitors           | 90      | Thông tin đối thủ cạnh tranh              |
+| customer_segments     | 2       | Phân loại nhóm khách hàng                 |
+| customers             | 5,000   | Thông tin khách hàng                      |
+| factories             | 7       | Thông tin nhà máy sản xuất                |
+| inventory             | 12,000  | Dữ liệu tồn kho hằng ngày                 |
+| products              | 2,037   | Thông tin sản phẩm                        |
+| promotions            | 105     | Chi tiết các chương trình khuyến mãi      |
+| regions               | 8       | Thông tin khu vực và vùng miền            |
+| sales                 | 12,972  | Lịch sử bán hàng                          |
+| shipments             | 12,000  | Giao hàng từ kho đến cửa hàng             |
+| stores                | 800     | Thông tin cửa hàng                        |
+| store_inventory_transactions | 24,972 | Giao dịch nhập/xuất tại cửa hàng    |
+| times                 | 1,462   | Bảng thời gian chuẩn hóa                  |
+| warehouses            | 8       | Danh sách kho và năng lực lưu trữ         |
+
+
+---
+
 ### ERD: (Entity Relationship Diagram)
 ![Sơ đồ ERD](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/ERD.png)
 
