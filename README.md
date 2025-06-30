@@ -50,8 +50,6 @@ Database: railway
 | warehouses            | 8       | Danh sách kho và năng lực lưu trữ         |
 
 
----
-
 ### ERD: (Entity Relationship Diagram)
 ![Sơ đồ ERD](https://github.com/letuanGithubVn1/fmcg-data-analysis-tutorial/raw/master/Images/ERD.png)
 
