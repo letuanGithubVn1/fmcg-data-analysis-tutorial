@@ -31,7 +31,7 @@ Database: railway
 **Fact Tables:**
 - sales, shipments, inventory, store_inventory_transactions
 
-## 1. Tổng quan dữ liệu ban đầu
+### Mô tả chi tiết
 | Tên bảng              | Số dòng | Ghi chú                                   |
 |-----------------------|---------|-------------------------------------------|
 | competitors           | 90      | Thông tin đối thủ cạnh tranh              |
